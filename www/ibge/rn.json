@@ -1,0 +1,1504 @@
+[
+  {
+    "Acari": {
+      "instalado_em": "01/01/1939", 
+      "area": "608,466 km", 
+      "bioma": "Caatinga", 
+      "populacao": "11.035 hab."
+    }
+  }
+,
+  {
+    "Angicos": {
+      "instalado_em": "01/01/1939", 
+      "area": "741,578 km", 
+      "bioma": "Caatinga", 
+      "populacao": "11.549 hab."
+    }
+  }
+,
+  {
+    "Alexandria": {
+      "instalado_em": "01/01/1939", 
+      "area": "381,205 km", 
+      "bioma": "Caatinga", 
+      "populacao": "13.507 hab."
+    }
+  }
+,
+  {
+    "Alto do Rodrigues": {
+      "instalado_em": "28/03/1963", 
+      "area": "191,334 km", 
+      "bioma": "Caatinga", 
+      "populacao": "12.305 hab."
+    }
+  }
+,
+  {
+    "Almino Afonso": {
+      "instalado_em": "21/01/1954", 
+      "area": "128,038 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.871 hab."
+    }
+  }
+,
+  {
+    "Açu": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.303,442 km", 
+      "bioma": "Caatinga", 
+      "populacao": "53.227 hab."
+    }
+  }
+,
+  {
+    "Afonso Bezerra": {
+      "instalado_em": "01/01/1954", 
+      "area": "576,180 km", 
+      "bioma": "Caatinga", 
+      "populacao": "10.844 hab."
+    }
+  }
+,
+  {
+    "Antônio Martins": {
+      "instalado_em": "01/04/1963", 
+      "area": "244,897 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.907 hab."
+    }
+  }
+,
+  {
+    "Apodi": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.602,480 km", 
+      "bioma": "Caatinga", 
+      "populacao": "34.763 hab."
+    }
+  }
+,
+  {
+    "Areia Branca": {
+      "instalado_em": "01/01/1939", 
+      "area": "357,625 km", 
+      "bioma": "Caatinga", 
+      "populacao": "25.315 hab."
+    }
+  }
+,
+  {
+    "Arês": {
+      "instalado_em": "01/01/1939", 
+      "area": "115,505 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "12.924 hab."
+    }
+  }
+,
+  {
+    "Barcelona": {
+      "instalado_em": "01/01/1959", 
+      "area": "152,626 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.950 hab."
+    }
+  }
+,
+  {
+    "Água Nova": {
+      "instalado_em": "04/02/1964", 
+      "area": "50,684 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.980 hab."
+    }
+  }
+,
+  {
+    "Bento Fernandes": {
+      "instalado_em": "01/01/1959", 
+      "area": "301,070 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.113 hab."
+    }
+  }
+,
+  {
+    "Bom Jesus": {
+      "instalado_em": "03/06/1962", 
+      "area": "122,038 km", 
+      "bioma": "Caatinga", 
+      "populacao": "9.440 hab."
+    }
+  }
+,
+  {
+    "Caiçara do Norte": {
+      "instalado_em": "01/01/1997", 
+      "area": "189,550 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.016 hab."
+    }
+  }
+,
+  {
+    "Caiçara do Rio do Vento": {
+      "instalado_em": "10/03/1963", 
+      "area": "261,194 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.308 hab."
+    }
+  }
+,
+  {
+    "Caicó": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.228,583 km", 
+      "bioma": "Caatinga", 
+      "populacao": "62.709 hab."
+    }
+  }
+,
+  {
+    "Campo Redondo": {
+      "instalado_em": "28/01/1959", 
+      "area": "213,727 km", 
+      "bioma": "Caatinga", 
+      "populacao": "10.266 hab."
+    }
+  }
+,
+  {
+    "Canguaretama": {
+      "instalado_em": "01/01/1939", 
+      "area": "245,408 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "30.916 hab."
+    }
+  }
+,
+  {
+    "Baraúna": {
+      "instalado_em": "31/01/1983", 
+      "area": "825,682 km", 
+      "bioma": "Caatinga", 
+      "populacao": "24.182 hab."
+    }
+  }
+,
+  {
+    "Augusto Severo": {
+      "instalado_em": "01/01/1939", 
+      "area": "896,954 km", 
+      "bioma": "Caatinga", 
+      "populacao": "9.289 hab."
+    }
+  }
+,
+  {
+    "Baía Formosa": {
+      "instalado_em": "01/01/1959", 
+      "area": "245,661 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.573 hab."
+    }
+  }
+,
+  {
+    "Caraúbas": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.095,006 km", 
+      "bioma": "Caatinga", 
+      "populacao": "19.576 hab."
+    }
+  }
+,
+  {
+    "Carnaúba dos Dantas": {
+      "instalado_em": "30/01/1954", 
+      "area": "246,308 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.429 hab."
+    }
+  }
+,
+  {
+    "Carnaubais": {
+      "instalado_em": "01/01/1964", 
+      "area": "542,530 km", 
+      "bioma": "Caatinga", 
+      "populacao": "9.762 hab."
+    }
+  }
+,
+  {
+    "Cerro Corá": {
+      "instalado_em": "09/01/1954", 
+      "area": "393,573 km", 
+      "bioma": "Caatinga", 
+      "populacao": "10.916 hab."
+    }
+  }
+,
+  {
+    "Ceará-Mirim": {
+      "instalado_em": "01/01/1939", 
+      "area": "724,380 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "68.141 hab."
+    }
+  }
+,
+  {
+    "Brejinho": {
+      "instalado_em": "28/03/1963", 
+      "area": "61,559 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "11.577 hab."
+    }
+  }
+,
+  {
+    "Cruzeta": {
+      "instalado_em": "30/12/1954", 
+      "area": "295,830 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.967 hab."
+    }
+  }
+,
+  {
+    "Bodó": {
+      "instalado_em": "01/01/1997", 
+      "area": "253,519 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.425 hab."
+    }
+  }
+,
+  {
+    "Coronel João Pessoa": {
+      "instalado_em": "01/01/1964", 
+      "area": "117,139 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.772 hab."
+    }
+  }
+,
+  {
+    "Currais Novos": {
+      "instalado_em": "01/01/1939", 
+      "area": "864,349 km", 
+      "bioma": "Caatinga", 
+      "populacao": "42.652 hab."
+    }
+  }
+,
+  {
+    "Encanto": {
+      "instalado_em": "10/04/1963", 
+      "area": "125,749 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.231 hab."
+    }
+  }
+,
+  {
+    "Fernando Pedroza": {
+      "instalado_em": "01/01/1997", 
+      "area": "322,628 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.854 hab."
+    }
+  }
+,
+  {
+    "Felipe Guerra": {
+      "instalado_em": "25/10/1964", 
+      "area": "268,588 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.734 hab."
+    }
+  }
+,
+  {
+    "Florânia": {
+      "instalado_em": "01/01/1939", 
+      "area": "504,797 km", 
+      "bioma": "Caatinga", 
+      "populacao": "8.959 hab."
+    }
+  }
+,
+  {
+    "Francisco Dantas": {
+      "instalado_em": "31/01/1964", 
+      "area": "181,558 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.874 hab."
+    }
+  }
+,
+  {
+    "Frutuoso Gomes": {
+      "instalado_em": "01/01/1964", 
+      "area": "63,279 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.233 hab."
+    }
+  }
+,
+  {
+    "Coronel Ezequiel": {
+      "instalado_em": "17/01/1954", 
+      "area": "185,748 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.405 hab."
+    }
+  }
+,
+  {
+    "Galinhos": {
+      "instalado_em": "28/04/1963", 
+      "area": "342,215 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.159 hab."
+    }
+  }
+,
+  {
+    "Governador Dix-Sept Rosado": {
+      "instalado_em": "03/06/1962", 
+      "area": "1.129,551 km", 
+      "bioma": "Caatinga", 
+      "populacao": "12.374 hab."
+    }
+  }
+,
+  {
+    "Grossos": {
+      "instalado_em": "01/01/1954", 
+      "area": "126,458 km", 
+      "bioma": "Caatinga", 
+      "populacao": "9.393 hab."
+    }
+  }
+,
+  {
+    "Guamaré": {
+      "instalado_em": "01/08/1962", 
+      "area": "258,958 km", 
+      "bioma": "Caatinga", 
+      "populacao": "12.404 hab."
+    }
+  }
+,
+  {
+    "Equador": {
+      "instalado_em": "17/03/1963", 
+      "area": "264,985 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.822 hab."
+    }
+  }
+,
+  {
+    "Ipueira": {
+      "instalado_em": "14/02/1965", 
+      "area": "127,348 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.077 hab."
+    }
+  }
+,
+  {
+    "Goianinha": {
+      "instalado_em": "01/01/1939", 
+      "area": "192,279 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "22.481 hab."
+    }
+  }
+,
+  {
+    "Itajá": {
+      "instalado_em": "01/01/1997", 
+      "area": "203,622 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.932 hab."
+    }
+  }
+,
+  {
+    "Itaú": {
+      "instalado_em": "03/01/1954", 
+      "area": "133,029 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.564 hab."
+    }
+  }
+,
+  {
+    "Doutor Severiano": {
+      "instalado_em": "26/03/1963", 
+      "area": "113,737 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.492 hab."
+    }
+  }
+,
+  {
+    "Janduís": {
+      "instalado_em": "12/06/1962", 
+      "area": "304,901 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.345 hab."
+    }
+  }
+,
+  {
+    "Januário Cicco": {
+      "instalado_em": "01/01/1954", 
+      "area": "187,107 km", 
+      "bioma": "Caatinga", 
+      "populacao": "9.011 hab."
+    }
+  }
+,
+  {
+    "Ielmo Marinho": {
+      "instalado_em": "26/01/1964", 
+      "area": "312,028 km", 
+      "bioma": "Caatinga", 
+      "populacao": "12.171 hab."
+    }
+  }
+,
+  {
+    "Japi": {
+      "instalado_em": "29/06/1959", 
+      "area": "188,989 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.522 hab."
+    }
+  }
+,
+  {
+    "Jardim de Angicos": {
+      "instalado_em": "03/03/1963", 
+      "area": "254,022 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.607 hab."
+    }
+  }
+,
+  {
+    "Jardim de Piranhas": {
+      "instalado_em": "01/01/1949", 
+      "area": "330,532 km", 
+      "bioma": "Caatinga", 
+      "populacao": "13.506 hab."
+    }
+  }
+,
+  {
+    "João Câmara": {
+      "instalado_em": "01/01/1939", 
+      "area": "714,961 km", 
+      "bioma": "Caatinga", 
+      "populacao": "32.227 hab."
+    }
+  }
+,
+  {
+    "Jardim do Seridó": {
+      "instalado_em": "01/01/1939", 
+      "area": "367,645 km", 
+      "bioma": "Caatinga", 
+      "populacao": "12.113 hab."
+    }
+  }
+,
+  {
+    "João Dias": {
+      "instalado_em": "19/09/1963", 
+      "area": "88,173 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.601 hab."
+    }
+  }
+,
+  {
+    "Jaçanã": {
+      "instalado_em": "31/03/1963", 
+      "area": "54,561 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.925 hab."
+    }
+  }
+,
+  {
+    "Jandaíra": {
+      "instalado_em": "26/01/1964", 
+      "area": "435,947 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.801 hab."
+    }
+  }
+,
+  {
+    "Jucurutu": {
+      "instalado_em": "01/01/1939", 
+      "area": "933,729 km", 
+      "bioma": "Caatinga", 
+      "populacao": "17.692 hab."
+    }
+  }
+,
+  {
+    "Jundiá": {
+      "instalado_em": "01/01/2001", 
+      "area": "44,641 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.582 hab."
+    }
+  }
+,
+  {
+    "Lagoa de Pedras": {
+      "instalado_em": "20/06/1962", 
+      "area": "117,971 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.989 hab."
+    }
+  }
+,
+  {
+    "Lagoa de Velhos": {
+      "instalado_em": "20/06/1962", 
+      "area": "112,845 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.668 hab."
+    }
+  }
+,
+  {
+    "Lagoa d`Anta": {
+      "instalado_em": "30/03/1963", 
+      "area": "105,652 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.227 hab."
+    }
+  }
+,
+  {
+    "Lagoa Salgada": {
+      "instalado_em": "08/06/1962", 
+      "area": "79,126 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.564 hab."
+    }
+  }
+,
+  {
+    "Lagoa Nova": {
+      "instalado_em": "02/01/1963", 
+      "area": "176,301 km", 
+      "bioma": "Caatinga", 
+      "populacao": "13.983 hab."
+    }
+  }
+,
+  {
+    "Lajes Pintadas": {
+      "instalado_em": "01/01/1959", 
+      "area": "130,211 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.612 hab."
+    }
+  }
+,
+  {
+    "Luís Gomes": {
+      "instalado_em": "01/01/1939", 
+      "area": "166,638 km", 
+      "bioma": "Caatinga", 
+      "populacao": "9.610 hab."
+    }
+  }
+,
+  {
+    "Lucrécia": {
+      "instalado_em": "20/02/1964", 
+      "area": "30,931 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.633 hab."
+    }
+  }
+,
+  {
+    "Ipanguaçu": {
+      "instalado_em": "01/01/1949", 
+      "area": "374,247 km", 
+      "bioma": "Caatinga", 
+      "populacao": "13.856 hab."
+    }
+  }
+,
+  {
+    "José da Penha": {
+      "instalado_em": "08/02/1959", 
+      "area": "117,635 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.868 hab."
+    }
+  }
+,
+  {
+    "Macaíba": {
+      "instalado_em": "01/01/1939", 
+      "area": "510,771 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "69.467 hab."
+    }
+  }
+,
+  {
+    "Lajes": {
+      "instalado_em": "01/01/1939", 
+      "area": "676,623 km", 
+      "bioma": "Caatinga", 
+      "populacao": "10.381 hab."
+    }
+  }
+,
+  {
+    "Maxaranguape": {
+      "instalado_em": "29/01/1959", 
+      "area": "131,316 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "10.441 hab."
+    }
+  }
+,
+  {
+    "Extremoz": {
+      "instalado_em": "02/02/1964", 
+      "area": "139,575 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "24.569 hab."
+    }
+  }
+,
+  {
+    "Espírito Santo": {
+      "instalado_em": "09/01/1962", 
+      "area": "135,838 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.475 hab."
+    }
+  }
+,
+  {
+    "Messias Targino": {
+      "instalado_em": "07/06/1962", 
+      "area": "135,097 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.188 hab."
+    }
+  }
+,
+  {
+    "Montanhas": {
+      "instalado_em": "02/03/1962", 
+      "area": "82,214 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "11.413 hab."
+    }
+  }
+,
+  {
+    "Monte das Gameleiras": {
+      "instalado_em": "31/03/1963", 
+      "area": "71,946 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.261 hab."
+    }
+  }
+,
+  {
+    "Monte Alegre": {
+      "instalado_em": "01/01/1954", 
+      "area": "210,918 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "20.685 hab."
+    }
+  }
+,
+  {
+    "Mossoró": {
+      "instalado_em": "01/01/1939", 
+      "area": "2.099,360 km", 
+      "bioma": "Caatinga", 
+      "populacao": "259.815 hab."
+    }
+  }
+,
+  {
+    "Martins": {
+      "instalado_em": "01/01/1939", 
+      "area": "169,464 km", 
+      "bioma": "Caatinga", 
+      "populacao": "8.218 hab."
+    }
+  }
+,
+  {
+    "Nísia Floresta": {
+      "instalado_em": "01/01/1939", 
+      "area": "307,842 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "23.784 hab."
+    }
+  }
+,
+  {
+    "Nova Cruz": {
+      "instalado_em": "01/01/1939", 
+      "area": "277,658 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "35.490 hab."
+    }
+  }
+,
+  {
+    "Major Sales": {
+      "instalado_em": "01/01/1997", 
+      "area": "31,971 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.536 hab."
+    }
+  }
+,
+  {
+    "Olho-d`Água do Borges": {
+      "instalado_em": "08/06/1962", 
+      "area": "141,170 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.295 hab."
+    }
+  }
+,
+  {
+    "Macau": {
+      "instalado_em": "01/01/1939", 
+      "area": "788,036 km", 
+      "bioma": "Caatinga", 
+      "populacao": "28.954 hab."
+    }
+  }
+,
+  {
+    "Marcelino Vieira": {
+      "instalado_em": "24/01/1954", 
+      "area": "345,711 km", 
+      "bioma": "Caatinga", 
+      "populacao": "8.265 hab."
+    }
+  }
+,
+  {
+    "Parazinho": {
+      "instalado_em": "12/07/1962", 
+      "area": "274,676 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.845 hab."
+    }
+  }
+,
+  {
+    "Paraú": {
+      "instalado_em": "23/08/1962", 
+      "area": "383,214 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.859 hab."
+    }
+  }
+,
+  {
+    "Parelhas": {
+      "instalado_em": "01/01/1939", 
+      "area": "513,507 km", 
+      "bioma": "Caatinga", 
+      "populacao": "20.354 hab."
+    }
+  }
+,
+  {
+    "Passa e Fica": {
+      "instalado_em": "30/03/1963", 
+      "area": "42,137 km", 
+      "bioma": "Caatinga", 
+      "populacao": "11.100 hab."
+    }
+  }
+,
+  {
+    "Parnamirim": {
+      "instalado_em": "01/01/1959", 
+      "area": "123,471 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "202.456 hab."
+    }
+  }
+,
+  {
+    "Passagem": {
+      "instalado_em": "08/03/1964", 
+      "area": "41,215 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "2.895 hab."
+    }
+  }
+,
+  {
+    "Patu": {
+      "instalado_em": "01/01/1939", 
+      "area": "319,129 km", 
+      "bioma": "Caatinga", 
+      "populacao": "11.964 hab."
+    }
+  }
+,
+  {
+    "Ouro Branco": {
+      "instalado_em": "01/01/1954", 
+      "area": "253,210 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.699 hab."
+    }
+  }
+,
+  {
+    "Pau dos Ferros": {
+      "instalado_em": "01/01/1939", 
+      "area": "259,959 km", 
+      "bioma": "Caatinga", 
+      "populacao": "27.745 hab."
+    }
+  }
+,
+  {
+    "Pedra Preta": {
+      "instalado_em": "17/03/1963", 
+      "area": "294,985 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.590 hab."
+    }
+  }
+,
+  {
+    "Pedro Velho": {
+      "instalado_em": "01/01/1939", 
+      "area": "192,708 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "14.114 hab."
+    }
+  }
+,
+  {
+    "Pedro Avelino": {
+      "instalado_em": "20/01/1949", 
+      "area": "952,759 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.171 hab."
+    }
+  }
+,
+  {
+    "Pendências": {
+      "instalado_em": "01/01/1954", 
+      "area": "419,137 km", 
+      "bioma": "Caatinga", 
+      "populacao": "13.432 hab."
+    }
+  }
+,
+  {
+    "Pilões": {
+      "instalado_em": "19/09/1963", 
+      "area": "82,690 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.453 hab."
+    }
+  }
+,
+  {
+    "Paraná": {
+      "instalado_em": "31/01/1964", 
+      "area": "81,390 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.952 hab."
+    }
+  }
+,
+  {
+    "Poço Branco": {
+      "instalado_em": "05/04/1964", 
+      "area": "230,401 km", 
+      "bioma": "Caatinga", 
+      "populacao": "13.949 hab."
+    }
+  }
+,
+  {
+    "Rafael Fernandes": {
+      "instalado_em": "07/02/1965", 
+      "area": "78,231 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.692 hab."
+    }
+  }
+,
+  {
+    "Pedra Grande": {
+      "instalado_em": "22/05/1962", 
+      "area": "221,423 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.521 hab."
+    }
+  }
+,
+  {
+    "Riacho de Santana": {
+      "instalado_em": "30/03/1963", 
+      "area": "128,106 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.156 hab."
+    }
+  }
+,
+  {
+    "Riachuelo": {
+      "instalado_em": "26/01/1964", 
+      "area": "262,887 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.067 hab."
+    }
+  }
+,
+  {
+    "Portalegre": {
+      "instalado_em": "01/01/1939", 
+      "area": "110,054 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.320 hab."
+    }
+  }
+,
+  {
+    "Rodolfo Fernandes": {
+      "instalado_em": "28/02/1963", 
+      "area": "154,840 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.418 hab."
+    }
+  }
+,
+  {
+    "Pureza": {
+      "instalado_em": "17/04/1963", 
+      "area": "504,295 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "8.424 hab."
+    }
+  }
+,
+  {
+    "Rafael Godeiro": {
+      "instalado_em": "15/04/1964", 
+      "area": "100,073 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.063 hab."
+    }
+  }
+,
+  {
+    "Santa Cruz": {
+      "instalado_em": "01/01/1939", 
+      "area": "624,356 km", 
+      "bioma": "Caatinga", 
+      "populacao": "35.797 hab."
+    }
+  }
+,
+  {
+    "Ruy Barbosa": {
+      "instalado_em": "10/06/1962", 
+      "area": "125,809 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.595 hab."
+    }
+  }
+,
+  {
+    "Riacho da Cruz": {
+      "instalado_em": "28/02/1963", 
+      "area": "127,223 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.165 hab."
+    }
+  }
+,
+  {
+    "Rio do Fogo": {
+      "instalado_em": "01/01/1997", 
+      "area": "150,262 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "10.059 hab."
+    }
+  }
+,
+  {
+    "São Bento do Norte": {
+      "instalado_em": "01/10/1954", 
+      "area": "288,725 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.975 hab."
+    }
+  }
+,
+  {
+    "São Fernando": {
+      "instalado_em": "01/03/1959", 
+      "area": "404,428 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.401 hab."
+    }
+  }
+,
+  {
+    "Santa Maria": {
+      "instalado_em": "01/01/1997", 
+      "area": "219,569 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.762 hab."
+    }
+  }
+,
+  {
+    "São Francisco do Oeste": {
+      "instalado_em": "15/02/1964", 
+      "area": "75,588 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.874 hab."
+    }
+  }
+,
+  {
+    "Santana do Seridó": {
+      "instalado_em": "09/04/1963", 
+      "area": "188,403 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.526 hab."
+    }
+  }
+,
+  {
+    "Santana do Matos": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.419,542 km", 
+      "bioma": "Caatinga", 
+      "populacao": "13.809 hab."
+    }
+  }
+,
+  {
+    "Santo Antônio": {
+      "instalado_em": "01/01/1939", 
+      "area": "301,082 km", 
+      "bioma": "Caatinga", 
+      "populacao": "22.216 hab."
+    }
+  }
+,
+  {
+    "Porto do Mangue": {
+      "instalado_em": "01/01/1997", 
+      "area": "318,968 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.217 hab."
+    }
+  }
+,
+  {
+    "São João do Sabugi": {
+      "instalado_em": "26/01/1949", 
+      "area": "277,011 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.922 hab."
+    }
+  }
+,
+  {
+    "São José do Campestre": {
+      "instalado_em": "27/01/1949", 
+      "area": "341,115 km", 
+      "bioma": "Caatinga", 
+      "populacao": "12.356 hab."
+    }
+  }
+,
+  {
+    "São José do Seridó": {
+      "instalado_em": "07/04/1963", 
+      "area": "174,505 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.231 hab."
+    }
+  }
+,
+  {
+    "São Miguel do Gostoso": {
+      "instalado_em": "01/01/1997", 
+      "area": "343,546 km", 
+      "bioma": "Caatinga", 
+      "populacao": "8.670 hab."
+    }
+  }
+,
+  {
+    "São Pedro": {
+      "instalado_em": "11/06/1962", 
+      "area": "195,238 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.235 hab."
+    }
+  }
+,
+  {
+    "São Rafael": {
+      "instalado_em": "30/01/1949", 
+      "area": "469,102 km", 
+      "bioma": "Caatinga", 
+      "populacao": "8.111 hab."
+    }
+  }
+,
+  {
+    "São Tomé": {
+      "instalado_em": "01/01/1939", 
+      "area": "862,585 km", 
+      "bioma": "Caatinga", 
+      "populacao": "10.827 hab."
+    }
+  }
+,
+  {
+    "São Vicente": {
+      "instalado_em": "19/01/1954", 
+      "area": "197,817 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.028 hab."
+    }
+  }
+,
+  {
+    "São Gonçalo do Amarante": {
+      "instalado_em": "01/01/1959", 
+      "area": "249,124 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "87.668 hab."
+    }
+  }
+,
+  {
+    "São José de Mipibu": {
+      "instalado_em": "01/01/1939", 
+      "area": "290,331 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "39.776 hab."
+    }
+  }
+,
+  {
+    "São Paulo do Potengi": {
+      "instalado_em": "01/01/1944", 
+      "area": "240,425 km", 
+      "bioma": "Caatinga", 
+      "populacao": "15.843 hab."
+    }
+  }
+,
+  {
+    "Serra Caiada": {
+      "instalado_em": "10/01/1954", 
+      "area": "167,345 km", 
+      "bioma": "Caatinga", 
+      "populacao": "8.768 hab."
+    }
+  }
+,
+  {
+    "São Bento do Trairí": {
+      "instalado_em": "29/01/1959", 
+      "area": "190,818 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.905 hab."
+    }
+  }
+,
+  {
+    "Serra do Mel": {
+      "instalado_em": "01/06/1989", 
+      "area": "616,487 km", 
+      "bioma": "Caatinga", 
+      "populacao": "10.287 hab."
+    }
+  }
+,
+  {
+    "Serrinha": {
+      "instalado_em": "11/01/1964", 
+      "area": "193,351 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.581 hab."
+    }
+  }
+,
+  {
+    "Serrinha dos Pintos": {
+      "instalado_em": "01/01/1997", 
+      "area": "122,375 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.540 hab."
+    }
+  }
+,
+  {
+    "Severiano Melo": {
+      "instalado_em": "20/02/1964", 
+      "area": "157,851 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.752 hab."
+    }
+  }
+,
+  {
+    "São Miguel": {
+      "instalado_em": "01/01/1939", 
+      "area": "166,233 km", 
+      "bioma": "Caatinga", 
+      "populacao": "22.157 hab."
+    }
+  }
+,
+  {
+    "Sítio Novo": {
+      "instalado_em": "01/01/1959", 
+      "area": "213,459 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.020 hab."
+    }
+  }
+,
+  {
+    "Senador Georgino Avelino": {
+      "instalado_em": "01/01/1964", 
+      "area": "25,934 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.924 hab."
+    }
+  }
+,
+  {
+    "Senador Elói de Souza": {
+      "instalado_em": "31/01/1959", 
+      "area": "167,605 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.637 hab."
+    }
+  }
+,
+  {
+    "Serra de São Bento": {
+      "instalado_em": "16/01/1959", 
+      "area": "96,627 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.743 hab."
+    }
+  }
+,
+  {
+    "Taipu": {
+      "instalado_em": "01/01/1939", 
+      "area": "352,818 km", 
+      "bioma": "Caatinga", 
+      "populacao": "11.836 hab."
+    }
+  }
+,
+  {
+    "Tangará": {
+      "instalado_em": "28/01/1959", 
+      "area": "356,834 km", 
+      "bioma": "Caatinga", 
+      "populacao": "14.175 hab."
+    }
+  }
+,
+  {
+    "Serra Negra do Norte": {
+      "instalado_em": "01/01/1939", 
+      "area": "562,396 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.770 hab."
+    }
+  }
+,
+  {
+    "Timbaúba dos Batistas": {
+      "instalado_em": "01/01/1964", 
+      "area": "135,454 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.295 hab."
+    }
+  }
+,
+  {
+    "Taboleiro Grande": {
+      "instalado_em": "01/01/1964", 
+      "area": "124,094 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.317 hab."
+    }
+  }
+,
+  {
+    "Umarizal": {
+      "instalado_em": "15/02/1959", 
+      "area": "213,584 km", 
+      "bioma": "Caatinga", 
+      "populacao": "10.659 hab."
+    }
+  }
+,
+  {
+    "Tibau": {
+      "instalado_em": "01/01/1997", 
+      "area": "169,237 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.687 hab."
+    }
+  }
+,
+  {
+    "Tenente Ananias": {
+      "instalado_em": "10/02/1963", 
+      "area": "223,672 km", 
+      "bioma": "Caatinga", 
+      "populacao": "9.883 hab."
+    }
+  }
+,
+  {
+    "Upanema": {
+      "instalado_em": "01/01/1954", 
+      "area": "873,934 km", 
+      "bioma": "Caatinga", 
+      "populacao": "12.992 hab."
+    }
+  }
+,
+  {
+    "Tenente Laurentino Cruz": {
+      "instalado_em": "01/01/1997", 
+      "area": "74,376 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.406 hab."
+    }
+  }
+,
+  {
+    "Tibau do Sul": {
+      "instalado_em": "13/04/1963", 
+      "area": "101,822 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "11.385 hab."
+    }
+  }
+,
+  {
+    "Várzea": {
+      "instalado_em": "13/01/1960", 
+      "area": "72,684 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "5.236 hab."
+    }
+  }
+,
+  {
+    "Venha-Ver": {
+      "instalado_em": "01/01/1997", 
+      "area": "71,621 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.821 hab."
+    }
+  }
+,
+  {
+    "Touros": {
+      "instalado_em": "01/01/1939", 
+      "area": "838,870 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "31.089 hab."
+    }
+  }
+,
+  {
+    "Viçosa": {
+      "instalado_em": "09/01/1964", 
+      "area": "37,905 km", 
+      "bioma": "Caatinga", 
+      "populacao": "1.618 hab."
+    }
+  }
+,
+  {
+    "Vila Flor": {
+      "instalado_em": "01/02/1964", 
+      "area": "47,657 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.872 hab."
+    }
+  }
+,
+  {
+    "Triunfo Potiguar": {
+      "instalado_em": "01/01/1997", 
+      "area": "268,726 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.368 hab."
+    }
+  }
+,
+  {
+    "Vera Cruz": {
+      "instalado_em": "01/01/1964", 
+      "area": "83,890 km", 
+      "bioma": "Caatinga", 
+      "populacao": "10.719 hab."
+    }
+  }
+,
+  {
+    "Natal": {
+      "instalado_em": "01/01/1939", 
+      "area": "167,264 km", 
+      "bioma": "Caatinga e Mata Atlântica", 
+      "populacao": "803.739 hab."
+    }
+  }
+]

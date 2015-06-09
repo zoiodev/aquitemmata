@@ -1,0 +1,122 @@
+<div class="" ng-controller="IbgeCtrl">
+
+</div>
+
+<!-- BREADCRUMB MOBILE -->
+<div class="small-12 columns show-for-small-only">
+    <ul class="breadcrumbs">
+        <li><a href="#/">Home</a></li>
+        <!-- <li class="unavailable"><a href="#">Busca por Município</a></li> -->
+        <li class="current"><a href="#">São Bernardo do Campo - SP</a></li>
+    </ul>
+</div>
+<!-- / BREADCRUMBS MOBILE -->
+
+<!-- MAPA -->
+<div class="mapa" id="mapa"></div>
+<!-- /MAPA -->
+
+<!-- SLIDER DOS ANOS E BOTÕES DE COMPARAÇÃO -->
+<div class="row hide-for-small">
+
+    <!-- SLIDER DOS ANOS -->
+    <div class="medium-6 columns espacamento-top botoes-comparacao slider-ano">
+        <div class="slide-ano"></div>
+        <input type="hidden" name="slider_ano" id="slider_ano" value="">
+    </div>
+    <!-- / SLIDER DOS ANOS -->
+
+    <!-- BOTÕES DE COMPARAÇÃO -->
+    <div class="medium-6 columns espacamento-top botoes-comparacao medium-text-right small-text-center">
+        <button name="comparar" value="regioes" id="bt_comparar_regioes" class="botoes-escolha active small-expanded">Comparar Regiões</button>
+        <button name="comparar" value="ano" id="bt_comparar_ano" class="botoes-escolha small-expanded">Comparar Ano</button>
+    </div>
+    <!-- / BOTÕES DE COMPARAÇÃO -->
+
+
+</div>
+<!-- / SLIDER DOS ANOS E BOTÕES DE COMPARAÇÃO -->
+
+<hr class="transparente">
+
+<!-- INFOGRÁFICOS E GRÁFICOS -->
+<div class="row">
+
+    <!-- INFOGRÁFICOS -->
+    <div class="medium-6 columns espacamento-top">
+        <h2 class="resultado">
+            Existem <br>
+            <span class="tamanho">2800 m2</span><br>
+            de Mata Atlântica em <br>
+            São Bernardo do Campo
+        </h2>
+
+        <hr class="transparente">
+
+        <h2 class="resultado">
+            Essa área equivale a<br>
+            <span class="tamanho">4%</span>
+            <div class="teste-apagar">
+                <div class="teste-apagar-2" style="width: 50%"></div>
+            </div>
+            <br>
+            do tamanho do Maracanã
+        </h2>
+    </div>
+    <!-- / INFOGRÁFICOS -->
+
+
+    <!-- GRÁFICOS -->
+    <div class="medium-6 columns espacamento-top">
+
+        <!-- LINHAS -->
+        <div class="columns divisao-graficos-top espacamento-top">
+            <h3 class="graficos">Acompanhamento das Áreas Verdes</h3>
+            <div>
+                <canvas id="linhas" style="width:100%;"></canvas>
+            </div>
+        </div>
+        <!-- / LINHAS -->
+
+        <hr class="transparente">
+        <hr class="dotted">
+
+        <!-- PIZZA -->
+        <div class="columns divisao-graficos-bottom espacamento-top">
+            <div class="small-6 columns no-padding-left">
+                <h3 class="graficos">Tipo de Mata</h3>
+                <ul class="no-bullet legenda-pizza"></ul>
+            </div>
+            <div class="small-6 columns pizza">
+                <canvas id="pizza" style="width:100%;"></canvas>
+            </div>
+        </div>
+        <!-- / PIZZA -->
+
+    </div>
+    <!-- / GRÁFICOS -->
+
+</div>
+<!-- / INFOGRÁFICOS E GRÁFICOS -->
+
+
+
+
+
+
+
+<!-- MAPA
+    -->
+    <script src="js/mapa.js" charset="utf-8"></script>
+    <!--
+/ MAPA -->
+
+
+<!-- SLIDER -->
+<script src="js/slider.js"></script>
+<!-- / SLIDER -->
+
+
+<!-- GRÁFICOS -->
+<script src="js/graficos.js"></script>
+<!-- / GRÁFICOS -->

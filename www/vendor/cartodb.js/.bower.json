@@ -1,0 +1,21 @@
+{
+  "name": "cartodb.js",
+  "version": "3.12.13",
+  "dependencies": {},
+  "devDependencies": {
+    "backbone": "~1.1.2",
+    "modernizr": "~2.8.3",
+    "jquery": "~2.1.1"
+  },
+  "homepage": "https://github.com/CartoDB/cartodb.js",
+  "_release": "3.12.13",
+  "_resolution": {
+    "type": "version",
+    "tag": "3.12.13",
+    "commit": "a89e333cf29036f7b850fa7f137e16d8f3f13a69"
+  },
+  "_source": "git://github.com/CartoDB/cartodb.js.git",
+  "_target": "~3.12.13",
+  "_originalSource": "cartodb.js",
+  "_direct": true
+}

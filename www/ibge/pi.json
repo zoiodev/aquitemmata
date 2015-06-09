@@ -1,0 +1,2008 @@
+[
+  {
+    "Agricolândia": {
+      "instalado_em": "30/12/1962", 
+      "area": "112,425 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.098 hab."
+    }
+  }
+,
+  {
+    "Alvorada do Gurguéia": {
+      "instalado_em": "01/01/1997", 
+      "area": "2.131,922 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "5.050 hab."
+    }
+  }
+,
+  {
+    "Água Branca": {
+      "instalado_em": "30/06/1954", 
+      "area": "97,041 km", 
+      "bioma": "Caatinga", 
+      "populacao": "16.451 hab."
+    }
+  }
+,
+  {
+    "Alto Longá": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.737,836 km", 
+      "bioma": "Caatinga", 
+      "populacao": "13.646 hab."
+    }
+  }
+,
+  {
+    "Altos": {
+      "instalado_em": "01/01/1939", 
+      "area": "957,655 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "38.822 hab."
+    }
+  }
+,
+  {
+    "Anísio de Abreu": {
+      "instalado_em": "25/12/1962", 
+      "area": "337,877 km", 
+      "bioma": "Caatinga", 
+      "populacao": "9.098 hab."
+    }
+  }
+,
+  {
+    "Aroazes": {
+      "instalado_em": "01/12/1962", 
+      "area": "821,663 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.779 hab."
+    }
+  }
+,
+  {
+    "Antônio Almeida": {
+      "instalado_em": "31/03/1964", 
+      "area": "645,745 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.039 hab."
+    }
+  }
+,
+  {
+    "Angical do Piauí": {
+      "instalado_em": "24/12/1955", 
+      "area": "223,435 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.672 hab."
+    }
+  }
+,
+  {
+    "Alagoinha do Piauí": {
+      "instalado_em": "31/12/1986", 
+      "area": "532,981 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.341 hab."
+    }
+  }
+,
+  {
+    "Acauã": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.279,586 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.749 hab."
+    }
+  }
+,
+  {
+    "Alegrete do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "282,710 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.153 hab."
+    }
+  }
+,
+  {
+    "Aroeiras do Itaim": {
+      "instalado_em": "01/01/2005", 
+      "area": "257,162 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.440 hab."
+    }
+  }
+,
+  {
+    "Assunção do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.690,704 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.503 hab."
+    }
+  }
+,
+  {
+    "Arraial": {
+      "instalado_em": "31/01/1967", 
+      "area": "682,760 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.688 hab."
+    }
+  }
+,
+  {
+    "Amarante": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.155,203 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "17.135 hab."
+    }
+  }
+,
+  {
+    "Baixa Grande do Ribeiro": {
+      "instalado_em": "01/01/1993", 
+      "area": "7.808,907 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.516 hab."
+    }
+  }
+,
+  {
+    "Barras": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.719,798 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "44.850 hab."
+    }
+  }
+,
+  {
+    "Barra d`Alcântara": {
+      "instalado_em": "01/01/1997", 
+      "area": "263,382 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.852 hab."
+    }
+  }
+,
+  {
+    "Barreiras do Piauí": {
+      "instalado_em": "29/12/1962", 
+      "area": "2.028,304 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.234 hab."
+    }
+  }
+,
+  {
+    "Barro Duro": {
+      "instalado_em": "30/12/1962", 
+      "area": "131,119 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.607 hab."
+    }
+  }
+,
+  {
+    "Belém do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "243,282 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.284 hab."
+    }
+  }
+,
+  {
+    "Batalha": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.588,901 km", 
+      "bioma": "Caatinga", 
+      "populacao": "25.774 hab."
+    }
+  }
+,
+  {
+    "Bela Vista do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "499,393 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.778 hab."
+    }
+  }
+,
+  {
+    "Beneditinos": {
+      "instalado_em": "01/01/1939", 
+      "area": "788,584 km", 
+      "bioma": "Caatinga", 
+      "populacao": "9.911 hab."
+    }
+  }
+,
+  {
+    "Bertolínia": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.225,336 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "5.319 hab."
+    }
+  }
+,
+  {
+    "Avelino Lopes": {
+      "instalado_em": "31/01/1963", 
+      "area": "1.305,522 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "11.067 hab."
+    }
+  }
+,
+  {
+    "Betânia do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "564,707 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.015 hab."
+    }
+  }
+,
+  {
+    "Boa Hora": {
+      "instalado_em": "01/01/1997", 
+      "area": "337,568 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.296 hab."
+    }
+  }
+,
+  {
+    "Bocaina": {
+      "instalado_em": "10/04/1964", 
+      "area": "268,576 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.369 hab."
+    }
+  }
+,
+  {
+    "Bom Jesus": {
+      "instalado_em": "01/01/1939", 
+      "area": "5.469,181 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "22.629 hab."
+    }
+  }
+,
+  {
+    "Boqueirão do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "278,297 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.193 hab."
+    }
+  }
+,
+  {
+    "Bonfim do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "289,209 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.393 hab."
+    }
+  }
+,
+  {
+    "Bom Princípio do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "521,572 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.304 hab."
+    }
+  }
+,
+  {
+    "Buriti dos Montes": {
+      "instalado_em": "01/01/1993", 
+      "area": "2.652,106 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.974 hab."
+    }
+  }
+,
+  {
+    "Brasileira": {
+      "instalado_em": "01/01/1993", 
+      "area": "880,911 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.966 hab."
+    }
+  }
+,
+  {
+    "Buriti dos Lopes": {
+      "instalado_em": "01/01/1939", 
+      "area": "691,178 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "19.074 hab."
+    }
+  }
+,
+  {
+    "Brejo do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "2.183,355 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.850 hab."
+    }
+  }
+,
+  {
+    "Cabeceiras do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "608,525 km", 
+      "bioma": "Caatinga", 
+      "populacao": "9.928 hab."
+    }
+  }
+,
+  {
+    "Cajazeiras do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "514,364 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.343 hab."
+    }
+  }
+,
+  {
+    "Cajueiro da Praia": {
+      "instalado_em": "01/01/1997", 
+      "area": "271,707 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.163 hab."
+    }
+  }
+,
+  {
+    "Caldeirão Grande do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "494,891 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.671 hab."
+    }
+  }
+,
+  {
+    "Campo Largo do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "477,795 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "6.803 hab."
+    }
+  }
+,
+  {
+    "Campo Alegre do Fidalgo": {
+      "instalado_em": "01/01/1997", 
+      "area": "657,796 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.693 hab."
+    }
+  }
+,
+  {
+    "Campo Grande do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "311,829 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.592 hab."
+    }
+  }
+,
+  {
+    "Capitão de Campos": {
+      "instalado_em": "10/03/1957", 
+      "area": "592,167 km", 
+      "bioma": "Caatinga", 
+      "populacao": "10.953 hab."
+    }
+  }
+,
+  {
+    "Capitão Gervásio Oliveira": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.134,168 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.878 hab."
+    }
+  }
+,
+  {
+    "Castelo do Piauí": {
+      "instalado_em": "01/01/1939", 
+      "area": "2.035,193 km", 
+      "bioma": "Caatinga", 
+      "populacao": "18.336 hab."
+    }
+  }
+,
+  {
+    "Campo Maior": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.675,713 km", 
+      "bioma": "Caatinga", 
+      "populacao": "45.177 hab."
+    }
+  }
+,
+  {
+    "Campinas do Piauí": {
+      "instalado_em": "15/04/1964", 
+      "area": "831,201 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.408 hab."
+    }
+  }
+,
+  {
+    "Canto do Buriti": {
+      "instalado_em": "01/01/1939", 
+      "area": "4.325,642 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "20.020 hab."
+    }
+  }
+,
+  {
+    "Canavieira": {
+      "instalado_em": "01/01/1993", 
+      "area": "2.162,874 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "3.921 hab."
+    }
+  }
+,
+  {
+    "Caracol": {
+      "instalado_em": "22/08/1947", 
+      "area": "1.610,957 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "10.212 hab."
+    }
+  }
+,
+  {
+    "Caxingó": {
+      "instalado_em": "01/01/1997", 
+      "area": "488,169 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "5.039 hab."
+    }
+  }
+,
+  {
+    "Caraúbas do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "471,453 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.525 hab."
+    }
+  }
+,
+  {
+    "Cocal": {
+      "instalado_em": "22/08/1948", 
+      "area": "1.303,685 km", 
+      "bioma": "Caatinga", 
+      "populacao": "26.036 hab."
+    }
+  }
+,
+  {
+    "Cocal de Telha": {
+      "instalado_em": "01/01/1997", 
+      "area": "282,105 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.525 hab."
+    }
+  }
+,
+  {
+    "Caridade do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "501,359 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.826 hab."
+    }
+  }
+,
+  {
+    "Coivaras": {
+      "instalado_em": "01/01/1993", 
+      "area": "485,496 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.811 hab."
+    }
+  }
+,
+  {
+    "Colônia do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "947,873 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.433 hab."
+    }
+  }
+,
+  {
+    "Colônia do Gurguéia": {
+      "instalado_em": "01/01/1993", 
+      "area": "430,621 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "6.036 hab."
+    }
+  }
+,
+  {
+    "Cristalândia do Piauí": {
+      "instalado_em": "28/12/1962", 
+      "area": "1.202,895 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.831 hab."
+    }
+  }
+,
+  {
+    "Curimatá": {
+      "instalado_em": "01/06/1954", 
+      "area": "2.337,537 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "10.761 hab."
+    }
+  }
+,
+  {
+    "Currais": {
+      "instalado_em": "01/01/1997", 
+      "area": "3.156,658 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.704 hab."
+    }
+  }
+,
+  {
+    "Cocal dos Alves": {
+      "instalado_em": "01/01/1997", 
+      "area": "357,689 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.572 hab."
+    }
+  }
+,
+  {
+    "Curral Novo do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "752,312 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.869 hab."
+    }
+  }
+,
+  {
+    "Conceição do Canindé": {
+      "instalado_em": "31/01/1955", 
+      "area": "831,412 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.475 hab."
+    }
+  }
+,
+  {
+    "Coronel José Dias": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.914,819 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.541 hab."
+    }
+  }
+,
+  {
+    "Corrente": {
+      "instalado_em": "01/01/1939", 
+      "area": "3.048,446 km", 
+      "bioma": "Cerrado", 
+      "populacao": "25.407 hab."
+    }
+  }
+,
+  {
+    "Dirceu Arcoverde": {
+      "instalado_em": "01/02/1983", 
+      "area": "1.017,057 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.675 hab."
+    }
+  }
+,
+  {
+    "Dom Inocêncio": {
+      "instalado_em": "01/01/1989", 
+      "area": "3.870,167 km", 
+      "bioma": "Caatinga", 
+      "populacao": "9.245 hab."
+    }
+  }
+,
+  {
+    "Domingos Mourão": {
+      "instalado_em": "29/12/1962", 
+      "area": "846,844 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.264 hab."
+    }
+  }
+,
+  {
+    "Eliseu Martins": {
+      "instalado_em": "20/10/1957", 
+      "area": "1.090,450 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "4.665 hab."
+    }
+  }
+,
+  {
+    "Esperantina": {
+      "instalado_em": "01/01/1939", 
+      "area": "911,215 km", 
+      "bioma": "Caatinga", 
+      "populacao": "37.767 hab."
+    }
+  }
+,
+  {
+    "Curralinhos": {
+      "instalado_em": "01/01/1997", 
+      "area": "345,848 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.183 hab."
+    }
+  }
+,
+  {
+    "Dom Expedito Lopes": {
+      "instalado_em": "05/04/1964", 
+      "area": "218,710 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.569 hab."
+    }
+  }
+,
+  {
+    "Floresta do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "194,699 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.482 hab."
+    }
+  }
+,
+  {
+    "Floriano": {
+      "instalado_em": "01/01/1939", 
+      "area": "3.409,649 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "57.690 hab."
+    }
+  }
+,
+  {
+    "Elesbão Veloso": {
+      "instalado_em": "01/07/1954", 
+      "area": "1.343,751 km", 
+      "bioma": "Caatinga", 
+      "populacao": "14.512 hab."
+    }
+  }
+,
+  {
+    "Demerval Lobão": {
+      "instalado_em": "31/01/1967", 
+      "area": "216,807 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "13.278 hab."
+    }
+  }
+,
+  {
+    "Cristino Castro": {
+      "instalado_em": "01/06/1954", 
+      "area": "1.846,340 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "9.981 hab."
+    }
+  }
+,
+  {
+    "Francinópolis": {
+      "instalado_em": "01/05/1962", 
+      "area": "268,701 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.235 hab."
+    }
+  }
+,
+  {
+    "Francisco Ayres": {
+      "instalado_em": "02/04/1964", 
+      "area": "656,475 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.477 hab."
+    }
+  }
+,
+  {
+    "Fartura do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "712,918 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.074 hab."
+    }
+  }
+,
+  {
+    "Francisco Santos": {
+      "instalado_em": "24/12/1960", 
+      "area": "491,862 km", 
+      "bioma": "Caatinga", 
+      "populacao": "8.592 hab."
+    }
+  }
+,
+  {
+    "Fronteiras": {
+      "instalado_em": "01/01/1939", 
+      "area": "775,681 km", 
+      "bioma": "Caatinga", 
+      "populacao": "11.117 hab."
+    }
+  }
+,
+  {
+    "Gilbués": {
+      "instalado_em": "01/01/1939", 
+      "area": "3.494,959 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.402 hab."
+    }
+  }
+,
+  {
+    "Geminiano": {
+      "instalado_em": "01/01/1997", 
+      "area": "455,684 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.475 hab."
+    }
+  }
+,
+  {
+    "Guadalupe": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.023,592 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.268 hab."
+    }
+  }
+,
+  {
+    "Hugo Napoleão": {
+      "instalado_em": "01/04/1964", 
+      "area": "224,455 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.771 hab."
+    }
+  }
+,
+  {
+    "Guaribas": {
+      "instalado_em": "01/01/1997", 
+      "area": "3.118,227 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "4.401 hab."
+    }
+  }
+,
+  {
+    "Ipiranga do Piauí": {
+      "instalado_em": "08/12/1962", 
+      "area": "529,417 km", 
+      "bioma": "Caatinga", 
+      "populacao": "9.327 hab."
+    }
+  }
+,
+  {
+    "Inhuma": {
+      "instalado_em": "13/06/1954", 
+      "area": "978,222 km", 
+      "bioma": "Caatinga", 
+      "populacao": "14.845 hab."
+    }
+  }
+,
+  {
+    "Itaueira": {
+      "instalado_em": "21/12/1954", 
+      "area": "2.554,181 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "10.678 hab."
+    }
+  }
+,
+  {
+    "Flores do Piauí": {
+      "instalado_em": "18/04/1964", 
+      "area": "946,731 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.366 hab."
+    }
+  }
+,
+  {
+    "Itainópolis": {
+      "instalado_em": "01/06/1954", 
+      "area": "828,152 km", 
+      "bioma": "Caatinga", 
+      "populacao": "11.109 hab."
+    }
+  }
+,
+  {
+    "Jacobina do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.370,699 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.722 hab."
+    }
+  }
+,
+  {
+    "Jardim do Mulato": {
+      "instalado_em": "01/01/1993", 
+      "area": "509,851 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.309 hab."
+    }
+  }
+,
+  {
+    "Jaicós": {
+      "instalado_em": "01/01/1939", 
+      "area": "865,144 km", 
+      "bioma": "Caatinga", 
+      "populacao": "18.035 hab."
+    }
+  }
+,
+  {
+    "Jatobá do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "653,234 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.656 hab."
+    }
+  }
+,
+  {
+    "Jerumenha": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.867,313 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "4.390 hab."
+    }
+  }
+,
+  {
+    "Ilha Grande": {
+      "instalado_em": "01/01/1997", 
+      "area": "134,318 km", 
+      "bioma": "Cerrado", 
+      "populacao": "8.914 hab."
+    }
+  }
+,
+  {
+    "Isaías Coelho": {
+      "instalado_em": "19/04/1964", 
+      "area": "776,053 km", 
+      "bioma": "Caatinga", 
+      "populacao": "8.221 hab."
+    }
+  }
+,
+  {
+    "Joca Marques": {
+      "instalado_em": "01/01/1997", 
+      "area": "166,443 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "5.100 hab."
+    }
+  }
+,
+  {
+    "João Costa": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.800,243 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.960 hab."
+    }
+  }
+,
+  {
+    "José de Freitas": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.538,176 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "37.085 hab."
+    }
+  }
+,
+  {
+    "Juazeiro do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "827,240 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.757 hab."
+    }
+  }
+,
+  {
+    "Joaquim Pires": {
+      "instalado_em": "28/12/1960", 
+      "area": "739,579 km", 
+      "bioma": "Caatinga", 
+      "populacao": "13.817 hab."
+    }
+  }
+,
+  {
+    "Francisco Macedo": {
+      "instalado_em": "01/01/1997", 
+      "area": "155,279 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.879 hab."
+    }
+  }
+,
+  {
+    "Jurema": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.271,889 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "4.517 hab."
+    }
+  }
+,
+  {
+    "Lagoa do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "426,634 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.863 hab."
+    }
+  }
+,
+  {
+    "Lagoa do Barro do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.261,941 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.523 hab."
+    }
+  }
+,
+  {
+    "Lagoa de São Francisco": {
+      "instalado_em": "01/01/1997", 
+      "area": "155,639 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.422 hab."
+    }
+  }
+,
+  {
+    "Lagoa Alegre": {
+      "instalado_em": "01/01/1993", 
+      "area": "394,661 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "8.008 hab."
+    }
+  }
+,
+  {
+    "Júlio Borges": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.297,109 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.373 hab."
+    }
+  }
+,
+  {
+    "Lagoinha do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "67,504 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.656 hab."
+    }
+  }
+,
+  {
+    "Landri Sales": {
+      "instalado_em": "09/11/1957", 
+      "area": "1.088,583 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.281 hab."
+    }
+  }
+,
+  {
+    "Luís Correia": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.070,926 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "28.406 hab."
+    }
+  }
+,
+  {
+    "Manoel Emídio": {
+      "instalado_em": "31/03/1964", 
+      "area": "1.618,982 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "5.213 hab."
+    }
+  }
+,
+  {
+    "Madeiro": {
+      "instalado_em": "01/01/1997", 
+      "area": "177,153 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "7.816 hab."
+    }
+  }
+,
+  {
+    "Marcolândia": {
+      "instalado_em": "01/01/1993", 
+      "area": "143,876 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.812 hab."
+    }
+  }
+,
+  {
+    "Luzilândia": {
+      "instalado_em": "01/01/1939", 
+      "area": "704,347 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "24.721 hab."
+    }
+  }
+,
+  {
+    "Massapê do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "521,125 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.220 hab."
+    }
+  }
+,
+  {
+    "Marcos Parente": {
+      "instalado_em": "28/12/1962", 
+      "area": "677,414 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.456 hab."
+    }
+  }
+,
+  {
+    "Matias Olímpio": {
+      "instalado_em": "01/06/1954", 
+      "area": "226,374 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "10.473 hab."
+    }
+  }
+,
+  {
+    "Miguel Alves": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.393,714 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "32.289 hab."
+    }
+  }
+,
+  {
+    "Miguel Leão": {
+      "instalado_em": "30/12/1963", 
+      "area": "93,515 km", 
+      "bioma": "Caatinga", 
+      "populacao": "1.253 hab."
+    }
+  }
+,
+  {
+    "Lagoa do Sítio": {
+      "instalado_em": "01/01/1997", 
+      "area": "804,698 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.850 hab."
+    }
+  }
+,
+  {
+    "Monsenhor Gil": {
+      "instalado_em": "31/01/1967", 
+      "area": "568,731 km", 
+      "bioma": "Caatinga", 
+      "populacao": "10.333 hab."
+    }
+  }
+,
+  {
+    "Milton Brandão": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.371,743 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.769 hab."
+    }
+  }
+,
+  {
+    "Monsenhor Hipólito": {
+      "instalado_em": "26/07/1957", 
+      "area": "401,433 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.391 hab."
+    }
+  }
+,
+  {
+    "Monte Alegre do Piauí": {
+      "instalado_em": "30/06/1955", 
+      "area": "2.417,932 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.345 hab."
+    }
+  }
+,
+  {
+    "Morro Cabeça no Tempo": {
+      "instalado_em": "01/01/1997", 
+      "area": "2.116,936 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "4.068 hab."
+    }
+  }
+,
+  {
+    "Morro do Chapéu do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "328,289 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.499 hab."
+    }
+  }
+,
+  {
+    "Nossa Senhora de Nazaré": {
+      "instalado_em": "01/01/1997", 
+      "area": "356,264 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.556 hab."
+    }
+  }
+,
+  {
+    "Nossa Senhora dos Remédios": {
+      "instalado_em": "15/12/1961", 
+      "area": "358,492 km", 
+      "bioma": "Caatinga", 
+      "populacao": "8.206 hab."
+    }
+  }
+,
+  {
+    "Nova Santa Rita": {
+      "instalado_em": "01/01/1997", 
+      "area": "909,735 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.187 hab."
+    }
+  }
+,
+  {
+    "Novo Oriente do Piauí": {
+      "instalado_em": "15/11/1961", 
+      "area": "525,334 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.498 hab."
+    }
+  }
+,
+  {
+    "Novo Santo Antônio": {
+      "instalado_em": "01/01/1997", 
+      "area": "481,707 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.260 hab."
+    }
+  }
+,
+  {
+    "Oeiras": {
+      "instalado_em": "01/01/1939", 
+      "area": "2.702,493 km", 
+      "bioma": "Caatinga", 
+      "populacao": "35.640 hab."
+    }
+  }
+,
+  {
+    "Murici dos Portelas": {
+      "instalado_em": "01/01/1997", 
+      "area": "481,707 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "8.464 hab."
+    }
+  }
+,
+  {
+    "Olho d`Água do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "219,598 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.626 hab."
+    }
+  }
+,
+  {
+    "Nazaré do Piauí": {
+      "instalado_em": "21/12/1955", 
+      "area": "1.315,839 km", 
+      "bioma": "Caatinga", 
+      "populacao": "7.321 hab."
+    }
+  }
+,
+  {
+    "Pajeú do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.079,172 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.363 hab."
+    }
+  }
+,
+  {
+    "Palmeira do Piauí": {
+      "instalado_em": "25/11/1962", 
+      "area": "2.023,512 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.993 hab."
+    }
+  }
+,
+  {
+    "Paes Landim": {
+      "instalado_em": "28/12/1962", 
+      "area": "401,378 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.059 hab."
+    }
+  }
+,
+  {
+    "Palmeirais": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.499,182 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "13.745 hab."
+    }
+  }
+,
+  {
+    "Paquetá": {
+      "instalado_em": "01/01/1997", 
+      "area": "448,358 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.147 hab."
+    }
+  }
+,
+  {
+    "Parnaguá": {
+      "instalado_em": "01/01/1939", 
+      "area": "3.429,283 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.276 hab."
+    }
+  }
+,
+  {
+    "Pau d`Arco do Piauí": {
+      "instalado_em": "01/01/2001", 
+      "area": "430,817 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "3.757 hab."
+    }
+  }
+,
+  {
+    "Passagem Franca do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "820,280 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.546 hab."
+    }
+  }
+,
+  {
+    "Parnaíba": {
+      "instalado_em": "01/01/1939", 
+      "area": "435,573 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "145.705 hab."
+    }
+  }
+,
+  {
+    "Patos do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "751,598 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.105 hab."
+    }
+  }
+,
+  {
+    "Paulistana": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.969,955 km", 
+      "bioma": "Caatinga", 
+      "populacao": "19.785 hab."
+    }
+  }
+,
+  {
+    "Pedro II": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.518,233 km", 
+      "bioma": "Caatinga", 
+      "populacao": "37.496 hab."
+    }
+  }
+,
+  {
+    "Padre Marcos": {
+      "instalado_em": "17/01/1964", 
+      "area": "272,035 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.657 hab."
+    }
+  }
+,
+  {
+    "Pio IX": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.947,158 km", 
+      "bioma": "Caatinga", 
+      "populacao": "17.671 hab."
+    }
+  }
+,
+  {
+    "Piracuruca": {
+      "instalado_em": "01/01/1939", 
+      "area": "2.380,414 km", 
+      "bioma": "Caatinga", 
+      "populacao": "27.553 hab."
+    }
+  }
+,
+  {
+    "Pimenteiras": {
+      "instalado_em": "25/07/1954", 
+      "area": "4.563,126 km", 
+      "bioma": "Caatinga", 
+      "populacao": "11.733 hab."
+    }
+  }
+,
+  {
+    "Piripiri": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.408,934 km", 
+      "bioma": "Caatinga", 
+      "populacao": "61.834 hab."
+    }
+  }
+,
+  {
+    "Porto Alegre do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.169,444 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.559 hab."
+    }
+  }
+,
+  {
+    "Prata do Piauí": {
+      "instalado_em": "10/12/1962", 
+      "area": "198,566 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.085 hab."
+    }
+  }
+,
+  {
+    "Queimada Nova": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.352,398 km", 
+      "bioma": "Caatinga", 
+      "populacao": "8.553 hab."
+    }
+  }
+,
+  {
+    "Redenção do Gurguéia": {
+      "instalado_em": "26/12/1962", 
+      "area": "2.468,007 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "8.400 hab."
+    }
+  }
+,
+  {
+    "Ribeira do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.004,227 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.263 hab."
+    }
+  }
+,
+  {
+    "Riacho Frio": {
+      "instalado_em": "01/01/1997", 
+      "area": "2.222,096 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.241 hab."
+    }
+  }
+,
+  {
+    "Pavussu": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.090,697 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "3.663 hab."
+    }
+  }
+,
+  {
+    "Pedro Laurentino": {
+      "instalado_em": "01/01/1997", 
+      "area": "870,338 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.407 hab."
+    }
+  }
+,
+  {
+    "Picos": {
+      "instalado_em": "01/01/1939", 
+      "area": "577,304 km", 
+      "bioma": "Caatinga", 
+      "populacao": "73.414 hab."
+    }
+  }
+,
+  {
+    "Santa Cruz do Piauí": {
+      "instalado_em": "20/12/1956", 
+      "area": "611,617 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.027 hab."
+    }
+  }
+,
+  {
+    "Santa Cruz dos Milagres": {
+      "instalado_em": "01/01/1993", 
+      "area": "979,657 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.794 hab."
+    }
+  }
+,
+  {
+    "Porto": {
+      "instalado_em": "01/01/1939", 
+      "area": "252,716 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "11.897 hab."
+    }
+  }
+,
+  {
+    "Santa Filomena": {
+      "instalado_em": "01/01/1939", 
+      "area": "5.285,438 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.096 hab."
+    }
+  }
+,
+  {
+    "Santa Rosa do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "340,198 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.149 hab."
+    }
+  }
+,
+  {
+    "Santana do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "111,062 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.917 hab."
+    }
+  }
+,
+  {
+    "Santo Antônio de Lisboa": {
+      "instalado_em": "09/04/1964", 
+      "area": "387,403 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.007 hab."
+    }
+  }
+,
+  {
+    "Santo Antônio dos Milagres": {
+      "instalado_em": "01/01/1997", 
+      "area": "33,147 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.059 hab."
+    }
+  }
+,
+  {
+    "Regeneração": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.251,035 km", 
+      "bioma": "Caatinga", 
+      "populacao": "17.556 hab."
+    }
+  }
+,
+  {
+    "São Braz do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "656,361 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.313 hab."
+    }
+  }
+,
+  {
+    "Ribeiro Gonçalves": {
+      "instalado_em": "01/01/1939", 
+      "area": "3.978,962 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.845 hab."
+    }
+  }
+,
+  {
+    "São Francisco do Piauí": {
+      "instalado_em": "23/12/1958", 
+      "area": "1.340,665 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.298 hab."
+    }
+  }
+,
+  {
+    "Santa Luz": {
+      "instalado_em": "25/12/1962", 
+      "area": "1.186,843 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "5.513 hab."
+    }
+  }
+,
+  {
+    "São Gonçalo do Gurguéia": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.385,299 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.825 hab."
+    }
+  }
+,
+  {
+    "Rio Grande do Piauí": {
+      "instalado_em": "22/12/1962", 
+      "area": "635,951 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.273 hab."
+    }
+  }
+,
+  {
+    "Santo Inácio do Piauí": {
+      "instalado_em": "13/04/1964", 
+      "area": "852,892 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.648 hab."
+    }
+  }
+,
+  {
+    "São João da Canabrava": {
+      "instalado_em": "01/01/1989", 
+      "area": "480,280 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.445 hab."
+    }
+  }
+,
+  {
+    "São João da Varjota": {
+      "instalado_em": "01/01/1997", 
+      "area": "395,306 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.651 hab."
+    }
+  }
+,
+  {
+    "São Félix do Piauí": {
+      "instalado_em": "29/07/1954", 
+      "area": "626,657 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.069 hab."
+    }
+  }
+,
+  {
+    "São João do Arraial": {
+      "instalado_em": "01/01/1997", 
+      "area": "213,355 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "7.336 hab."
+    }
+  }
+,
+  {
+    "São João do Piauí": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.527,773 km", 
+      "bioma": "Caatinga", 
+      "populacao": "19.548 hab."
+    }
+  }
+,
+  {
+    "São Francisco de Assis do  Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.100,398 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.567 hab."
+    }
+  }
+,
+  {
+    "São José do Peixe": {
+      "instalado_em": "25/12/1958", 
+      "area": "1.287,174 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.700 hab."
+    }
+  }
+,
+  {
+    "São José do Divino": {
+      "instalado_em": "01/01/1993", 
+      "area": "319,130 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.148 hab."
+    }
+  }
+,
+  {
+    "São Gonçalo do Piauí": {
+      "instalado_em": "31/03/1964", 
+      "area": "150,215 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.754 hab."
+    }
+  }
+,
+  {
+    "São José do Piauí": {
+      "instalado_em": "12/04/1964", 
+      "area": "364,945 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.591 hab."
+    }
+  }
+,
+  {
+    "São Julião": {
+      "instalado_em": "18/12/1960", 
+      "area": "257,191 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.675 hab."
+    }
+  }
+,
+  {
+    "São Lourenço do Piauí": {
+      "instalado_em": "01/01/1993", 
+      "area": "672,709 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.427 hab."
+    }
+  }
+,
+  {
+    "São Luis do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "220,375 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.561 hab."
+    }
+  }
+,
+  {
+    "São Miguel da Baixa Grande": {
+      "instalado_em": "01/01/1997", 
+      "area": "445,599 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.110 hab."
+    }
+  }
+,
+  {
+    "São João da Serra": {
+      "instalado_em": "16/06/1964", 
+      "area": "1.006,500 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.157 hab."
+    }
+  }
+,
+  {
+    "São Miguel do Fidalgo": {
+      "instalado_em": "01/01/1997", 
+      "area": "813,444 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.976 hab."
+    }
+  }
+,
+  {
+    "São Miguel do Tapuio": {
+      "instalado_em": "01/01/1939", 
+      "area": "5.207,016 km", 
+      "bioma": "Caatinga", 
+      "populacao": "18.134 hab."
+    }
+  }
+,
+  {
+    "São Raimundo Nonato": {
+      "instalado_em": "01/01/1939", 
+      "area": "2.415,602 km", 
+      "bioma": "Caatinga", 
+      "populacao": "32.327 hab."
+    }
+  }
+,
+  {
+    "São João da Fronteira": {
+      "instalado_em": "01/01/1997", 
+      "area": "764,861 km", 
+      "bioma": "Caatinga", 
+      "populacao": "5.608 hab."
+    }
+  }
+,
+  {
+    "São Pedro do Piauí": {
+      "instalado_em": "01/01/1939", 
+      "area": "518,288 km", 
+      "bioma": "Caatinga", 
+      "populacao": "13.639 hab."
+    }
+  }
+,
+  {
+    "Sebastião Barros": {
+      "instalado_em": "01/01/1997", 
+      "area": "893,715 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.560 hab."
+    }
+  }
+,
+  {
+    "Simões": {
+      "instalado_em": "18/12/1954", 
+      "area": "1.071,540 km", 
+      "bioma": "Caatinga", 
+      "populacao": "14.180 hab."
+    }
+  }
+,
+  {
+    "Sigefredo Pacheco": {
+      "instalado_em": "01/01/1993", 
+      "area": "966,989 km", 
+      "bioma": "Caatinga", 
+      "populacao": "9.619 hab."
+    }
+  }
+,
+  {
+    "Simplício Mendes": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.345,790 km", 
+      "bioma": "Caatinga", 
+      "populacao": "12.077 hab."
+    }
+  }
+,
+  {
+    "Socorro do Piauí": {
+      "instalado_em": "27/12/1962", 
+      "area": "761,854 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.522 hab."
+    }
+  }
+,
+  {
+    "União": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.173,447 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "42.654 hab."
+    }
+  }
+,
+  {
+    "Tanque do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "398,723 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.620 hab."
+    }
+  }
+,
+  {
+    "Teresina": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.391,981 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "814.230 hab."
+    }
+  }
+,
+  {
+    "Sussuapara": {
+      "instalado_em": "01/01/1997", 
+      "area": "202,758 km", 
+      "bioma": "Caatinga", 
+      "populacao": "6.229 hab."
+    }
+  }
+,
+  {
+    "Sebastião Leal": {
+      "instalado_em": "01/01/1997", 
+      "area": "3.151,592 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "4.116 hab."
+    }
+  }
+,
+  {
+    "Valença do Piauí": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.334,629 km", 
+      "bioma": "Caatinga", 
+      "populacao": "20.326 hab."
+    }
+  }
+,
+  {
+    "Várzea Grande": {
+      "instalado_em": "08/12/1962", 
+      "area": "237,013 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.336 hab."
+    }
+  }
+,
+  {
+    "Uruçuí": {
+      "instalado_em": "01/01/1939", 
+      "area": "8.411,908 km", 
+      "bioma": "Cerrado", 
+      "populacao": "20.149 hab."
+    }
+  }
+,
+  {
+    "Várzea Branca": {
+      "instalado_em": "01/01/1993", 
+      "area": "450,755 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.913 hab."
+    }
+  }
+,
+  {
+    "Vera Mendes": {
+      "instalado_em": "01/01/1997", 
+      "area": "341,974 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.986 hab."
+    }
+  }
+,
+  {
+    "Wall Ferraz": {
+      "instalado_em": "01/01/1997", 
+      "area": "269,987 km", 
+      "bioma": "Caatinga", 
+      "populacao": "4.280 hab."
+    }
+  }
+,
+  {
+    "Vila Nova do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "218,316 km", 
+      "bioma": "Caatinga", 
+      "populacao": "3.076 hab."
+    }
+  }
+,
+  {
+    "Tamboril do Piauí": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.587,296 km", 
+      "bioma": "Caatinga", 
+      "populacao": "2.753 hab."
+    }
+  }
+]

@@ -1,0 +1,3 @@
+<p>
+	<?=$contentHome['txt']?>
+</p>

@@ -1,0 +1,71 @@
+*, *:before, *:after {
+	margin:0;
+	padding:0;
+	/*font-family:arial;*/
+	text-decoration:none;
+ }
+ #logo-zoio{
+ 	background-image: url('../../img/zoio.png');
+ 	width: 180px;
+	height: 50px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 100%;
+ }
+ .menu{
+	width:100%;
+	background:#0b9a79;
+	top:0;
+	left:0;
+	z-index:1000;
+	margin-bottom: 20px;
+ }
+ .menu ul{
+	margin:0 auto;
+ }
+.menu ul li{
+	*display:inline;
+	zoom:1;
+	display:inline-block;
+	width:49%;
+ }
+ .menu ul li:last-child {
+	text-align:right;
+ }
+ .menu ul li a{
+	display:block;
+	color:#fff;
+	font-weight:700;
+	padding:10px 0;
+	text-indent:10px;
+ }
+.sb-slidebar{
+	background:#0b9a79;
+}
+.sb-slidebar ul, .sb-slidebar ul li{
+	margin:0;
+	padding:0;
+}
+.sb-slidebar ul li a{
+	display:block;
+	padding:20px 0;
+	color:#fff;
+	border-left:5px solid transparent;
+	font-weight:700;
+	text-indent:20px;
+}
+.sb-slidebar ul li a.active,
+.sb-slidebar ul li a:hover{
+	border-left:5px solid #81cbe0;
+	background: #097b61;
+}
+.rodape{
+	width:100%;
+	text-align:center;
+	padding:50px 0;
+	color:#fff;
+	background:#074354;
+}
+.rodape a{
+	color:#fff;
+}

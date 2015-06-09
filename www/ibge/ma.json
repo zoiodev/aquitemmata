@@ -1,0 +1,1954 @@
+[
+  {
+    "Açailândia": {
+      "instalado_em": "01/02/1983", 
+      "area": "5.806,440 km", 
+      "bioma": "Amazônia", 
+      "populacao": "104.047 hab."
+    }
+  }
+,
+  {
+    "Água Doce do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "443,267 km", 
+      "bioma": "Cerrado", 
+      "populacao": "11.581 hab."
+    }
+  }
+,
+  {
+    "Alto Alegre do Pindaré": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.932,289 km", 
+      "bioma": "Amazônia", 
+      "populacao": "31.057 hab."
+    }
+  }
+,
+  {
+    "Aldeias Altas": {
+      "instalado_em": "11/02/1962", 
+      "area": "1.942,114 km", 
+      "bioma": "Cerrado", 
+      "populacao": "23.952 hab."
+    }
+  }
+,
+  {
+    "Alto Alegre do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "383,305 km", 
+      "bioma": "Cerrado", 
+      "populacao": "24.599 hab."
+    }
+  }
+,
+  {
+    "Altamira do Maranhão": {
+      "instalado_em": "20/01/1962", 
+      "area": "721,508 km", 
+      "bioma": "Amazônia", 
+      "populacao": "11.063 hab."
+    }
+  }
+,
+  {
+    "Alcântara": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.457,916 km", 
+      "bioma": "Amazônia", 
+      "populacao": "21.851 hab."
+    }
+  }
+,
+  {
+    "Afonso Cunha": {
+      "instalado_em": "25/03/1961", 
+      "area": "371,338 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.905 hab."
+    }
+  }
+,
+  {
+    "Alto Parnaíba": {
+      "instalado_em": "01/01/1939", 
+      "area": "11.132,176 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.766 hab."
+    }
+  }
+,
+  {
+    "Apicum-Açu": {
+      "instalado_em": "01/01/1997", 
+      "area": "488,806 km", 
+      "bioma": "Amazônia", 
+      "populacao": "14.959 hab."
+    }
+  }
+,
+  {
+    "Arame": {
+      "instalado_em": "20/05/1988", 
+      "area": "2.976,038 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "31.702 hab."
+    }
+  }
+,
+  {
+    "Araioses": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.782,600 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "42.505 hab."
+    }
+  }
+,
+  {
+    "Amapá do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "502,402 km", 
+      "bioma": "Amazônia", 
+      "populacao": "6.431 hab."
+    }
+  }
+,
+  {
+    "Amarante do Maranhão": {
+      "instalado_em": "01/01/1954", 
+      "area": "7.438,194 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "37.932 hab."
+    }
+  }
+,
+  {
+    "Araguanã": {
+      "instalado_em": "01/01/1997", 
+      "area": "805,194 km", 
+      "bioma": "Amazônia", 
+      "populacao": "13.973 hab."
+    }
+  }
+,
+  {
+    "Anajatuba": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.011,129 km", 
+      "bioma": "Amazônia", 
+      "populacao": "25.291 hab."
+    }
+  }
+,
+  {
+    "Anapurus": {
+      "instalado_em": "09/06/1964", 
+      "area": "608,296 km", 
+      "bioma": "Cerrado", 
+      "populacao": "13.939 hab."
+    }
+  }
+,
+  {
+    "Arari": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.100,275 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "28.488 hab."
+    }
+  }
+,
+  {
+    "Bacabal": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.683,074 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "100.014 hab."
+    }
+  }
+,
+  {
+    "Bacabeira": {
+      "instalado_em": "01/01/1997", 
+      "area": "615,589 km", 
+      "bioma": "Amazônia", 
+      "populacao": "14.925 hab."
+    }
+  }
+,
+  {
+    "Axixá": {
+      "instalado_em": "01/01/1939", 
+      "area": "203,153 km", 
+      "bioma": "Amazônia", 
+      "populacao": "11.407 hab."
+    }
+  }
+,
+  {
+    "Bacurituba": {
+      "instalado_em": "01/01/1997", 
+      "area": "674,512 km", 
+      "bioma": "Amazônia", 
+      "populacao": "5.293 hab."
+    }
+  }
+,
+  {
+    "Bacuri": {
+      "instalado_em": "02/01/1962", 
+      "area": "823,723 km", 
+      "bioma": "Amazônia", 
+      "populacao": "16.604 hab."
+    }
+  }
+,
+  {
+    "Belágua": {
+      "instalado_em": "01/01/1997", 
+      "area": "569,428 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.524 hab."
+    }
+  }
+,
+  {
+    "Bela Vista do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "142,814 km", 
+      "bioma": "Amazônia", 
+      "populacao": "12.049 hab."
+    }
+  }
+,
+  {
+    "Barreirinhas": {
+      "instalado_em": "01/01/1939", 
+      "area": "3.024,019 km", 
+      "bioma": "Cerrado", 
+      "populacao": "54.930 hab."
+    }
+  }
+,
+  {
+    "Benedito Leite": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.781,734 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.469 hab."
+    }
+  }
+,
+  {
+    "Bernardo do Mearim": {
+      "instalado_em": "01/01/1997", 
+      "area": "261,451 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.996 hab."
+    }
+  }
+,
+  {
+    "Boa Vista do Gurupi": {
+      "instalado_em": "01/01/1997", 
+      "area": "403,460 km", 
+      "bioma": "Amazônia", 
+      "populacao": "7.949 hab."
+    }
+  }
+,
+  {
+    "Bom Jardim": {
+      "instalado_em": "14/03/1967", 
+      "area": "6.590,530 km", 
+      "bioma": "Amazônia", 
+      "populacao": "39.049 hab."
+    }
+  }
+,
+  {
+    "Bom Jesus das Selvas": {
+      "instalado_em": "01/01/1997", 
+      "area": "2.679,098 km", 
+      "bioma": "Amazônia", 
+      "populacao": "28.459 hab."
+    }
+  }
+,
+  {
+    "Bom Lugar": {
+      "instalado_em": "01/01/1997", 
+      "area": "445,976 km", 
+      "bioma": "Amazônia", 
+      "populacao": "14.818 hab."
+    }
+  }
+,
+  {
+    "Barra do Corda": {
+      "instalado_em": "01/01/1939", 
+      "area": "5.190,339 km", 
+      "bioma": "Cerrado", 
+      "populacao": "82.830 hab."
+    }
+  }
+,
+  {
+    "Brejo": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.074,628 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "33.359 hab."
+    }
+  }
+,
+  {
+    "Brejo de Areia": {
+      "instalado_em": "01/01/1997", 
+      "area": "362,464 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "5.577 hab."
+    }
+  }
+,
+  {
+    "Buriti": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.473,960 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "27.013 hab."
+    }
+  }
+,
+  {
+    "Balsas": {
+      "instalado_em": "01/01/1939", 
+      "area": "13.141,733 km", 
+      "bioma": "Cerrado", 
+      "populacao": "83.528 hab."
+    }
+  }
+,
+  {
+    "Buriti Bravo": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.582,552 km", 
+      "bioma": "Cerrado", 
+      "populacao": "22.899 hab."
+    }
+  }
+,
+  {
+    "Bequimão": {
+      "instalado_em": "01/01/1939", 
+      "area": "797,716 km", 
+      "bioma": "Amazônia", 
+      "populacao": "20.344 hab."
+    }
+  }
+,
+  {
+    "Buriticupu": {
+      "instalado_em": "01/01/1997", 
+      "area": "2.545,440 km", 
+      "bioma": "Amazônia", 
+      "populacao": "65.237 hab."
+    }
+  }
+,
+  {
+    "Cajapió": {
+      "instalado_em": "01/01/1939", 
+      "area": "908,729 km", 
+      "bioma": "Amazônia", 
+      "populacao": "10.593 hab."
+    }
+  }
+,
+  {
+    "Cachoeira Grande": {
+      "instalado_em": "01/01/1997", 
+      "area": "705,645 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "8.446 hab."
+    }
+  }
+,
+  {
+    "Cajari": {
+      "instalado_em": "05/02/1949", 
+      "area": "662,066 km", 
+      "bioma": "Amazônia", 
+      "populacao": "18.338 hab."
+    }
+  }
+,
+  {
+    "Cândido Mendes": {
+      "instalado_em": "22/11/1948", 
+      "area": "1.640,756 km", 
+      "bioma": "Amazônia", 
+      "populacao": "18.505 hab."
+    }
+  }
+,
+  {
+    "Campestre do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "615,384 km", 
+      "bioma": "Cerrado", 
+      "populacao": "13.369 hab."
+    }
+  }
+,
+  {
+    "Cantanhede": {
+      "instalado_em": "01/01/1953", 
+      "area": "773,010 km", 
+      "bioma": "Cerrado", 
+      "populacao": "20.448 hab."
+    }
+  }
+,
+  {
+    "Capinzal do Norte": {
+      "instalado_em": "01/01/1997", 
+      "area": "590,529 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.698 hab."
+    }
+  }
+,
+  {
+    "Caxias": {
+      "instalado_em": "01/01/1939", 
+      "area": "5.196,771 km", 
+      "bioma": "Cerrado", 
+      "populacao": "155.129 hab."
+    }
+  }
+,
+  {
+    "Carolina": {
+      "instalado_em": "01/01/1939", 
+      "area": "6.441,603 km", 
+      "bioma": "Cerrado", 
+      "populacao": "23.959 hab."
+    }
+  }
+,
+  {
+    "Carutapera": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.232,080 km", 
+      "bioma": "Amazônia", 
+      "populacao": "22.006 hab."
+    }
+  }
+,
+  {
+    "Central do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "319,053 km", 
+      "bioma": "Amazônia", 
+      "populacao": "7.887 hab."
+    }
+  }
+,
+  {
+    "Buritirana": {
+      "instalado_em": "01/01/1997", 
+      "area": "818,424 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "14.784 hab."
+    }
+  }
+,
+  {
+    "Centro do Guilherme": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.167,848 km", 
+      "bioma": "Amazônia", 
+      "populacao": "12.565 hab."
+    }
+  }
+,
+  {
+    "Chapadinha": {
+      "instalado_em": "01/01/1939", 
+      "area": "3.247,383 km", 
+      "bioma": "Cerrado", 
+      "populacao": "73.350 hab."
+    }
+  }
+,
+  {
+    "Codó": {
+      "instalado_em": "01/01/1939", 
+      "area": "4.361,341 km", 
+      "bioma": "Cerrado", 
+      "populacao": "118.038 hab."
+    }
+  }
+,
+  {
+    "Coelho Neto": {
+      "instalado_em": "01/01/1939", 
+      "area": "975,549 km", 
+      "bioma": "Cerrado", 
+      "populacao": "46.750 hab."
+    }
+  }
+,
+  {
+    "Colinas": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.980,552 km", 
+      "bioma": "Cerrado", 
+      "populacao": "39.132 hab."
+    }
+  }
+,
+  {
+    "Barão de Grajaú": {
+      "instalado_em": "01/01/1939", 
+      "area": "2.208,314 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "17.841 hab."
+    }
+  }
+,
+  {
+    "Coroatá": {
+      "instalado_em": "01/01/1939", 
+      "area": "2.263,778 km", 
+      "bioma": "Cerrado", 
+      "populacao": "61.725 hab."
+    }
+  }
+,
+  {
+    "Cururupu": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.093,062 km", 
+      "bioma": "Amazônia", 
+      "populacao": "32.652 hab."
+    }
+  }
+,
+  {
+    "Davinópolis": {
+      "instalado_em": "01/01/1997", 
+      "area": "335,776 km", 
+      "bioma": "Cerrado", 
+      "populacao": "12.579 hab."
+    }
+  }
+,
+  {
+    "Cedral": {
+      "instalado_em": "12/03/1965", 
+      "area": "283,186 km", 
+      "bioma": "Amazônia", 
+      "populacao": "10.297 hab."
+    }
+  }
+,
+  {
+    "Dom Pedro": {
+      "instalado_em": "01/01/1953", 
+      "area": "358,493 km", 
+      "bioma": "Cerrado", 
+      "populacao": "22.681 hab."
+    }
+  }
+,
+  {
+    "Esperantinópolis": {
+      "instalado_em": "27/06/1954", 
+      "area": "452,439 km", 
+      "bioma": "Cerrado", 
+      "populacao": "18.452 hab."
+    }
+  }
+,
+  {
+    "Centro Novo do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "8.369,793 km", 
+      "bioma": "Amazônia", 
+      "populacao": "17.622 hab."
+    }
+  }
+,
+  {
+    "Feira Nova do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.473,415 km", 
+      "bioma": "Cerrado", 
+      "populacao": "8.126 hab."
+    }
+  }
+,
+  {
+    "Estreito": {
+      "instalado_em": "01/02/1983", 
+      "area": "2.718,978 km", 
+      "bioma": "Cerrado", 
+      "populacao": "35.835 hab."
+    }
+  }
+,
+  {
+    "Cidelândia": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.464,034 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "13.681 hab."
+    }
+  }
+,
+  {
+    "Fernando Falcão": {
+      "instalado_em": "01/01/1997", 
+      "area": "5.086,584 km", 
+      "bioma": "Cerrado", 
+      "populacao": "9.241 hab."
+    }
+  }
+,
+  {
+    "Formosa da Serra Negra": {
+      "instalado_em": "01/01/1997", 
+      "area": "3.690,611 km", 
+      "bioma": "Cerrado", 
+      "populacao": "17.757 hab."
+    }
+  }
+,
+  {
+    "Conceição do Lago-Açu": {
+      "instalado_em": "01/01/1997", 
+      "area": "733,229 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "14.436 hab."
+    }
+  }
+,
+  {
+    "Fortaleza dos Nogueiras": {
+      "instalado_em": "30/12/1961", 
+      "area": "1.854,010 km", 
+      "bioma": "Cerrado", 
+      "populacao": "11.646 hab."
+    }
+  }
+,
+  {
+    "Governador Archer": {
+      "instalado_em": "02/04/1961", 
+      "area": "445,856 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.205 hab."
+    }
+  }
+,
+  {
+    "Gonçalves Dias": {
+      "instalado_em": "27/01/1959", 
+      "area": "883,589 km", 
+      "bioma": "Cerrado", 
+      "populacao": "17.482 hab."
+    }
+  }
+,
+  {
+    "Godofredo Viana": {
+      "instalado_em": "15/11/1965", 
+      "area": "667,325 km", 
+      "bioma": "Amazônia", 
+      "populacao": "10.635 hab."
+    }
+  }
+,
+  {
+    "Governador Edison Lobão": {
+      "instalado_em": "01/01/1997", 
+      "area": "615,852 km", 
+      "bioma": "Cerrado", 
+      "populacao": "15.895 hab."
+    }
+  }
+,
+  {
+    "Governador Luiz Rocha": {
+      "instalado_em": "01/01/1997", 
+      "area": "373,164 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.337 hab."
+    }
+  }
+,
+  {
+    "Governador Eugênio Barros": {
+      "instalado_em": "11/03/1962", 
+      "area": "816,991 km", 
+      "bioma": "Cerrado", 
+      "populacao": "15.991 hab."
+    }
+  }
+,
+  {
+    "Duque Bacelar": {
+      "instalado_em": "01/01/1955", 
+      "area": "317,920 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.649 hab."
+    }
+  }
+,
+  {
+    "Governador Newton Bello": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.144,069 km", 
+      "bioma": "Amazônia", 
+      "populacao": "11.921 hab."
+    }
+  }
+,
+  {
+    "Graça Aranha": {
+      "instalado_em": "01/01/1961", 
+      "area": "271,444 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.140 hab."
+    }
+  }
+,
+  {
+    "Governador Nunes Freire": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.037,130 km", 
+      "bioma": "Amazônia", 
+      "populacao": "25.401 hab."
+    }
+  }
+,
+  {
+    "Igarapé do Meio": {
+      "instalado_em": "01/01/1997", 
+      "area": "368,685 km", 
+      "bioma": "Amazônia", 
+      "populacao": "12.550 hab."
+    }
+  }
+,
+  {
+    "Fortuna": {
+      "instalado_em": "01/01/1961", 
+      "area": "694,997 km", 
+      "bioma": "Cerrado", 
+      "populacao": "15.098 hab."
+    }
+  }
+,
+  {
+    "Igarapé Grande": {
+      "instalado_em": "15/01/1962", 
+      "area": "374,248 km", 
+      "bioma": "Cerrado", 
+      "populacao": "11.041 hab."
+    }
+  }
+,
+  {
+    "Itapecuru Mirim": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.471,438 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "62.110 hab."
+    }
+  }
+,
+  {
+    "Grajaú": {
+      "instalado_em": "01/01/1939", 
+      "area": "8.842,782 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "62.093 hab."
+    }
+  }
+,
+  {
+    "Itinga do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "3.581,716 km", 
+      "bioma": "Amazônia", 
+      "populacao": "24.863 hab."
+    }
+  }
+,
+  {
+    "Guimarães": {
+      "instalado_em": "01/01/1939", 
+      "area": "595,382 km", 
+      "bioma": "Amazônia", 
+      "populacao": "12.081 hab."
+    }
+  }
+,
+  {
+    "Icatu": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.448,779 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "25.145 hab."
+    }
+  }
+,
+  {
+    "Jatobá": {
+      "instalado_em": "01/01/1997", 
+      "area": "591,384 km", 
+      "bioma": "Cerrado", 
+      "populacao": "8.526 hab."
+    }
+  }
+,
+  {
+    "Humberto de Campos": {
+      "instalado_em": "01/01/1939", 
+      "area": "2.131,247 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "26.189 hab."
+    }
+  }
+,
+  {
+    "João Lisboa": {
+      "instalado_em": "22/12/1961", 
+      "area": "1.135,211 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "20.381 hab."
+    }
+  }
+,
+  {
+    "Jenipapo dos Vieiras": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.962,898 km", 
+      "bioma": "Cerrado", 
+      "populacao": "15.440 hab."
+    }
+  }
+,
+  {
+    "Itaipava do Grajaú": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.066,192 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "14.297 hab."
+    }
+  }
+,
+  {
+    "Imperatriz": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.368,987 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "247.505 hab."
+    }
+  }
+,
+  {
+    "Lago da Pedra": {
+      "instalado_em": "01/01/1953", 
+      "area": "1.240,446 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "46.083 hab."
+    }
+  }
+,
+  {
+    "Junco do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "555,088 km", 
+      "bioma": "Amazônia", 
+      "populacao": "4.020 hab."
+    }
+  }
+,
+  {
+    "Lago do Junco": {
+      "instalado_em": "27/12/1961", 
+      "area": "268,615 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "10.729 hab."
+    }
+  }
+,
+  {
+    "Lago dos Rodrigues": {
+      "instalado_em": "01/01/1997", 
+      "area": "220,776 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.794 hab."
+    }
+  }
+,
+  {
+    "Lago Verde": {
+      "instalado_em": "31/12/1962", 
+      "area": "623,237 km", 
+      "bioma": "Amazônia", 
+      "populacao": "15.412 hab."
+    }
+  }
+,
+  {
+    "Lajeado Novo": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.047,733 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.923 hab."
+    }
+  }
+,
+  {
+    "Lagoa Grande do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "937,714 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.517 hab."
+    }
+  }
+,
+  {
+    "Lima Campos": {
+      "instalado_em": "15/01/1962", 
+      "area": "321,932 km", 
+      "bioma": "Cerrado", 
+      "populacao": "11.423 hab."
+    }
+  }
+,
+  {
+    "Loreto": {
+      "instalado_em": "01/01/1939", 
+      "area": "3.596,840 km", 
+      "bioma": "Cerrado", 
+      "populacao": "11.390 hab."
+    }
+  }
+,
+  {
+    "Luís Domingues": {
+      "instalado_em": "23/01/1962", 
+      "area": "464,060 km", 
+      "bioma": "Amazônia", 
+      "populacao": "6.510 hab."
+    }
+  }
+,
+  {
+    "Joselândia": {
+      "instalado_em": "31/01/1963", 
+      "area": "703,511 km", 
+      "bioma": "Cerrado", 
+      "populacao": "15.433 hab."
+    }
+  }
+,
+  {
+    "Magalhães de Almeida": {
+      "instalado_em": "01/01/1953", 
+      "area": "433,150 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "17.587 hab."
+    }
+  }
+,
+  {
+    "Maracaçumé": {
+      "instalado_em": "01/01/1997", 
+      "area": "635,824 km", 
+      "bioma": "Amazônia", 
+      "populacao": "19.155 hab."
+    }
+  }
+,
+  {
+    "Marajá do Sena": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.402,594 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "8.051 hab."
+    }
+  }
+,
+  {
+    "Mata Roma": {
+      "instalado_em": "11/02/1962", 
+      "area": "548,414 km", 
+      "bioma": "Cerrado", 
+      "populacao": "15.150 hab."
+    }
+  }
+,
+  {
+    "Matinha": {
+      "instalado_em": "15/02/1949", 
+      "area": "408,727 km", 
+      "bioma": "Amazônia", 
+      "populacao": "21.885 hab."
+    }
+  }
+,
+  {
+    "Matões": {
+      "instalado_em": "01/01/1953", 
+      "area": "2.107,403 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "31.015 hab."
+    }
+  }
+,
+  {
+    "Lagoa do Mato": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.512,985 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.934 hab."
+    }
+  }
+,
+  {
+    "Milagres do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "634,737 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "8.118 hab."
+    }
+  }
+,
+  {
+    "Mirador": {
+      "instalado_em": "01/01/1939", 
+      "area": "8.521,084 km", 
+      "bioma": "Cerrado", 
+      "populacao": "20.452 hab."
+    }
+  }
+,
+  {
+    "Miranda do Norte": {
+      "instalado_em": "26/05/1988", 
+      "area": "341,107 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "24.427 hab."
+    }
+  }
+,
+  {
+    "Monção": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.271,506 km", 
+      "bioma": "Amazônia", 
+      "populacao": "31.738 hab."
+    }
+  }
+,
+  {
+    "Mirinzal": {
+      "instalado_em": "30/01/1962", 
+      "area": "687,748 km", 
+      "bioma": "Amazônia", 
+      "populacao": "14.218 hab."
+    }
+  }
+,
+  {
+    "Montes Altos": {
+      "instalado_em": "14/06/1958", 
+      "area": "1.488,336 km", 
+      "bioma": "Cerrado", 
+      "populacao": "9.413 hab."
+    }
+  }
+,
+  {
+    "Nina Rodrigues": {
+      "instalado_em": "30/12/1961", 
+      "area": "572,507 km", 
+      "bioma": "Cerrado", 
+      "populacao": "12.464 hab."
+    }
+  }
+,
+  {
+    "Nova Colinas": {
+      "instalado_em": "01/01/1997", 
+      "area": "743,106 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.885 hab."
+    }
+  }
+,
+  {
+    "Maranhãozinho": {
+      "instalado_em": "01/01/1997", 
+      "area": "760,947 km", 
+      "bioma": "Amazônia", 
+      "populacao": "14.065 hab."
+    }
+  }
+,
+  {
+    "Nova Olinda do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "2.452,615 km", 
+      "bioma": "Amazônia", 
+      "populacao": "19.134 hab."
+    }
+  }
+,
+  {
+    "Nova Iorque": {
+      "instalado_em": "01/01/1939", 
+      "area": "976,853 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.590 hab."
+    }
+  }
+,
+  {
+    "Olho d`Água das Cunhãs": {
+      "instalado_em": "30/11/1961", 
+      "area": "695,333 km", 
+      "bioma": "Amazônia", 
+      "populacao": "18.601 hab."
+    }
+  }
+,
+  {
+    "Matões do Norte": {
+      "instalado_em": "01/01/1997", 
+      "area": "794,651 km", 
+      "bioma": "Cerrado", 
+      "populacao": "13.794 hab."
+    }
+  }
+,
+  {
+    "Olinda Nova do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "197,636 km", 
+      "bioma": "Amazônia", 
+      "populacao": "13.181 hab."
+    }
+  }
+,
+  {
+    "Palmeirândia": {
+      "instalado_em": "01/01/1961", 
+      "area": "532,164 km", 
+      "bioma": "Amazônia", 
+      "populacao": "18.764 hab."
+    }
+  }
+,
+  {
+    "Paço do Lumiar": {
+      "instalado_em": "01/01/1961", 
+      "area": "122,828 km", 
+      "bioma": "Amazônia", 
+      "populacao": "105.121 hab."
+    }
+  }
+,
+  {
+    "Parnarama": {
+      "instalado_em": "01/01/1939", 
+      "area": "3.240,492 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "34.586 hab."
+    }
+  }
+,
+  {
+    "Paulo Ramos": {
+      "instalado_em": "20/01/1970", 
+      "area": "1.098,497 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "20.079 hab."
+    }
+  }
+,
+  {
+    "Pastos Bons": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.635,305 km", 
+      "bioma": "Cerrado", 
+      "populacao": "18.067 hab."
+    }
+  }
+,
+  {
+    "Passagem Franca": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.358,327 km", 
+      "bioma": "Cerrado", 
+      "populacao": "17.562 hab."
+    }
+  }
+,
+  {
+    "Morros": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.715,175 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "17.783 hab."
+    }
+  }
+,
+  {
+    "Paraibano": {
+      "instalado_em": "01/01/1953", 
+      "area": "530,520 km", 
+      "bioma": "Cerrado", 
+      "populacao": "20.103 hab."
+    }
+  }
+,
+  {
+    "Penalva": {
+      "instalado_em": "01/01/1939", 
+      "area": "768,714 km", 
+      "bioma": "Amazônia", 
+      "populacao": "34.267 hab."
+    }
+  }
+,
+  {
+    "Peri Mirim": {
+      "instalado_em": "01/01/1939", 
+      "area": "398,720 km", 
+      "bioma": "Amazônia", 
+      "populacao": "13.803 hab."
+    }
+  }
+,
+  {
+    "Pindaré-Mirim": {
+      "instalado_em": "01/01/1939", 
+      "area": "273,526 km", 
+      "bioma": "Amazônia", 
+      "populacao": "31.152 hab."
+    }
+  }
+,
+  {
+    "Paulino Neves": {
+      "instalado_em": "01/01/1997", 
+      "area": "979,178 km", 
+      "bioma": "Cerrado", 
+      "populacao": "14.519 hab."
+    }
+  }
+,
+  {
+    "Pedro do Rosário": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.749,885 km", 
+      "bioma": "Amazônia", 
+      "populacao": "22.732 hab."
+    }
+  }
+,
+  {
+    "Pio XII": {
+      "instalado_em": "26/01/1959", 
+      "area": "545,140 km", 
+      "bioma": "Amazônia", 
+      "populacao": "22.016 hab."
+    }
+  }
+,
+  {
+    "Pirapemas": {
+      "instalado_em": "01/01/1953", 
+      "area": "688,761 km", 
+      "bioma": "Cerrado", 
+      "populacao": "17.381 hab."
+    }
+  }
+,
+  {
+    "Pedreiras": {
+      "instalado_em": "01/01/1939", 
+      "area": "288,432 km", 
+      "bioma": "Cerrado", 
+      "populacao": "39.448 hab."
+    }
+  }
+,
+  {
+    "Pinheiro": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.512,965 km", 
+      "bioma": "Amazônia", 
+      "populacao": "78.162 hab."
+    }
+  }
+,
+  {
+    "Porto Franco": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.417,493 km", 
+      "bioma": "Cerrado", 
+      "populacao": "21.530 hab."
+    }
+  }
+,
+  {
+    "Poção de Pedras": {
+      "instalado_em": "13/01/1962", 
+      "area": "990,413 km", 
+      "bioma": "Cerrado", 
+      "populacao": "19.708 hab."
+    }
+  }
+,
+  {
+    "Porto Rico do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "218,831 km", 
+      "bioma": "Amazônia", 
+      "populacao": "6.030 hab."
+    }
+  }
+,
+  {
+    "Peritoró": {
+      "instalado_em": "01/01/1997", 
+      "area": "824,722 km", 
+      "bioma": "Cerrado", 
+      "populacao": "21.201 hab."
+    }
+  }
+,
+  {
+    "Presidente Dutra": {
+      "instalado_em": "28/06/1944", 
+      "area": "771,574 km", 
+      "bioma": "Cerrado", 
+      "populacao": "44.731 hab."
+    }
+  }
+,
+  {
+    "Presidente Juscelino": {
+      "instalado_em": "30/12/1964", 
+      "area": "354,696 km", 
+      "bioma": "Amazônia", 
+      "populacao": "11.541 hab."
+    }
+  }
+,
+  {
+    "Presidente Sarney": {
+      "instalado_em": "01/01/1997", 
+      "area": "724,154 km", 
+      "bioma": "Amazônia", 
+      "populacao": "17.165 hab."
+    }
+  }
+,
+  {
+    "Primeira Cruz": {
+      "instalado_em": "01/01/1950", 
+      "area": "1.367,676 km", 
+      "bioma": "Cerrado", 
+      "populacao": "13.954 hab."
+    }
+  }
+,
+  {
+    "Presidente Vargas": {
+      "instalado_em": "13/02/1965", 
+      "area": "459,360 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "10.717 hab."
+    }
+  }
+,
+  {
+    "Riachão": {
+      "instalado_em": "01/01/1939", 
+      "area": "6.373,017 km", 
+      "bioma": "Cerrado", 
+      "populacao": "20.209 hab."
+    }
+  }
+,
+  {
+    "Raposa": {
+      "instalado_em": "01/01/1997", 
+      "area": "66,280 km", 
+      "bioma": "Amazônia", 
+      "populacao": "26.327 hab."
+    }
+  }
+,
+  {
+    "Ribamar Fiquene": {
+      "instalado_em": "01/01/1997", 
+      "area": "750,553 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.318 hab."
+    }
+  }
+,
+  {
+    "Sambaíba": {
+      "instalado_em": "01/01/1954", 
+      "area": "2.478,696 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.487 hab."
+    }
+  }
+,
+  {
+    "Santa Filomena do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "623,214 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.061 hab."
+    }
+  }
+,
+  {
+    "Santa Helena": {
+      "instalado_em": "01/01/1939", 
+      "area": "2.308,193 km", 
+      "bioma": "Amazônia", 
+      "populacao": "39.110 hab."
+    }
+  }
+,
+  {
+    "Santa Luzia": {
+      "instalado_em": "06/03/1961", 
+      "area": "5.462,955 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "74.043 hab."
+    }
+  }
+,
+  {
+    "Santa Inês": {
+      "instalado_em": "14/03/1967", 
+      "area": "605,619 km", 
+      "bioma": "Amazônia", 
+      "populacao": "77.282 hab."
+    }
+  }
+,
+  {
+    "Santa Luzia do Paruá": {
+      "instalado_em": "11/12/1987", 
+      "area": "897,147 km", 
+      "bioma": "Amazônia", 
+      "populacao": "22.644 hab."
+    }
+  }
+,
+  {
+    "Santa Quitéria do Maranhão": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.434,898 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "29.191 hab."
+    }
+  }
+,
+  {
+    "Presidente Médici": {
+      "instalado_em": "01/01/1997", 
+      "area": "437,687 km", 
+      "bioma": "Amazônia", 
+      "populacao": "6.374 hab."
+    }
+  }
+,
+  {
+    "Santana do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "932,016 km", 
+      "bioma": "Cerrado", 
+      "populacao": "11.661 hab."
+    }
+  }
+,
+  {
+    "Santo Amaro do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.601,180 km", 
+      "bioma": "Cerrado", 
+      "populacao": "13.820 hab."
+    }
+  }
+,
+  {
+    "São Benedito do Rio Preto": {
+      "instalado_em": "25/03/1949", 
+      "area": "931,481 km", 
+      "bioma": "Cerrado", 
+      "populacao": "17.799 hab."
+    }
+  }
+,
+  {
+    "Santo Antônio dos Lopes": {
+      "instalado_em": "16/01/1962", 
+      "area": "770,923 km", 
+      "bioma": "Cerrado", 
+      "populacao": "14.288 hab."
+    }
+  }
+,
+  {
+    "São Bento": {
+      "instalado_em": "01/01/1939", 
+      "area": "459,070 km", 
+      "bioma": "Amazônia", 
+      "populacao": "40.736 hab."
+    }
+  }
+,
+  {
+    "Rosário": {
+      "instalado_em": "01/01/1939", 
+      "area": "685,036 km", 
+      "bioma": "Amazônia", 
+      "populacao": "39.576 hab."
+    }
+  }
+,
+  {
+    "São Bernardo": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.006,919 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "26.476 hab."
+    }
+  }
+,
+  {
+    "São Domingos do Maranhão": {
+      "instalado_em": "01/01/1953", 
+      "area": "1.151,978 km", 
+      "bioma": "Cerrado", 
+      "populacao": "33.607 hab."
+    }
+  }
+,
+  {
+    "São Domingos do Azeitão": {
+      "instalado_em": "01/01/1997", 
+      "area": "960,929 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.983 hab."
+    }
+  }
+,
+  {
+    "São Félix de Balsas": {
+      "instalado_em": "01/01/1961", 
+      "area": "2.032,364 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.702 hab."
+    }
+  }
+,
+  {
+    "São Francisco do Brejão": {
+      "instalado_em": "01/01/1997", 
+      "area": "745,606 km", 
+      "bioma": "Amazônia", 
+      "populacao": "10.261 hab."
+    }
+  }
+,
+  {
+    "Santa Rita": {
+      "instalado_em": "28/01/1962", 
+      "area": "706,385 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "32.366 hab."
+    }
+  }
+,
+  {
+    "São João do Carú": {
+      "instalado_em": "01/01/1997", 
+      "area": "908,077 km", 
+      "bioma": "Amazônia", 
+      "populacao": "12.309 hab."
+    }
+  }
+,
+  {
+    "São Francisco do Maranhão": {
+      "instalado_em": "01/01/1939", 
+      "area": "2.280,214 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "12.146 hab."
+    }
+  }
+,
+  {
+    "São João do Paraíso": {
+      "instalado_em": "01/01/1997", 
+      "area": "2.053,843 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.814 hab."
+    }
+  }
+,
+  {
+    "São José de Ribamar": {
+      "instalado_em": "24/09/1952", 
+      "area": "388,371 km", 
+      "bioma": "Amazônia", 
+      "populacao": "163.045 hab."
+    }
+  }
+,
+  {
+    "São João do Soter": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.438,068 km", 
+      "bioma": "Cerrado", 
+      "populacao": "17.238 hab."
+    }
+  }
+,
+  {
+    "São Luís": {
+      "instalado_em": "01/01/1939", 
+      "area": "834,785 km", 
+      "bioma": "Amazônia", 
+      "populacao": "1.014.837 hab."
+    }
+  }
+,
+  {
+    "São Luís Gonzaga do Maranhão": {
+      "instalado_em": "01/01/1939", 
+      "area": "968,574 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "20.153 hab."
+    }
+  }
+,
+  {
+    "São Mateus do Maranhão": {
+      "instalado_em": "26/12/1961", 
+      "area": "783,224 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "39.093 hab."
+    }
+  }
+,
+  {
+    "São Pedro da Água Branca": {
+      "instalado_em": "01/01/1997", 
+      "area": "720,452 km", 
+      "bioma": "Amazônia", 
+      "populacao": "12.028 hab."
+    }
+  }
+,
+  {
+    "São João Batista": {
+      "instalado_em": "14/06/1958", 
+      "area": "690,683 km", 
+      "bioma": "Amazônia", 
+      "populacao": "19.920 hab."
+    }
+  }
+,
+  {
+    "São Pedro dos Crentes": {
+      "instalado_em": "01/01/1997", 
+      "area": "979,631 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.425 hab."
+    }
+  }
+,
+  {
+    "São Raimundo das Mangabeiras": {
+      "instalado_em": "10/02/1949", 
+      "area": "3.521,525 km", 
+      "bioma": "Cerrado", 
+      "populacao": "17.474 hab."
+    }
+  }
+,
+  {
+    "São João dos Patos": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.482,660 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "24.928 hab."
+    }
+  }
+,
+  {
+    "São Roberto": {
+      "instalado_em": "01/01/1997", 
+      "area": "227,463 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.957 hab."
+    }
+  }
+,
+  {
+    "São José dos Basílios": {
+      "instalado_em": "01/01/1997", 
+      "area": "353,234 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.496 hab."
+    }
+  }
+,
+  {
+    "São Vicente Ferrer": {
+      "instalado_em": "01/01/1939", 
+      "area": "390,845 km", 
+      "bioma": "Amazônia", 
+      "populacao": "20.863 hab."
+    }
+  }
+,
+  {
+    "Satubinha": {
+      "instalado_em": "01/01/1997", 
+      "area": "441,811 km", 
+      "bioma": "Amazônia", 
+      "populacao": "11.990 hab."
+    }
+  }
+,
+  {
+    "Senador Alexandre Costa": {
+      "instalado_em": "01/01/1997", 
+      "area": "426,436 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.256 hab."
+    }
+  }
+,
+  {
+    "Sítio Novo": {
+      "instalado_em": "15/12/1961", 
+      "area": "3.114,871 km", 
+      "bioma": "Cerrado", 
+      "populacao": "17.002 hab."
+    }
+  }
+,
+  {
+    "Senador La Rocque": {
+      "instalado_em": "01/01/1997", 
+      "area": "738,548 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "17.998 hab."
+    }
+  }
+,
+  {
+    "Sucupira do Riachão": {
+      "instalado_em": "01/01/1997", 
+      "area": "863,909 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "4.613 hab."
+    }
+  }
+,
+  {
+    "Tasso Fragoso": {
+      "instalado_em": "14/09/1962", 
+      "area": "4.382,975 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.796 hab."
+    }
+  }
+,
+  {
+    "Serrano do Maranhão": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.165,860 km", 
+      "bioma": "Amazônia", 
+      "populacao": "10.940 hab."
+    }
+  }
+,
+  {
+    "Sucupira do Norte": {
+      "instalado_em": "13/01/1962", 
+      "area": "1.074,466 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.444 hab."
+    }
+  }
+,
+  {
+    "Timbiras": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.486,587 km", 
+      "bioma": "Cerrado", 
+      "populacao": "27.997 hab."
+    }
+  }
+,
+  {
+    "São Raimundo do Doca Bezerra": {
+      "instalado_em": "01/01/1997", 
+      "area": "419,352 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.090 hab."
+    }
+  }
+,
+  {
+    "Trizidela do Vale": {
+      "instalado_em": "01/01/1997", 
+      "area": "222,946 km", 
+      "bioma": "Cerrado", 
+      "populacao": "18.953 hab."
+    }
+  }
+,
+  {
+    "Tuntum": {
+      "instalado_em": "27/12/1955", 
+      "area": "3.369,123 km", 
+      "bioma": "Cerrado", 
+      "populacao": "39.183 hab."
+    }
+  }
+,
+  {
+    "Turiaçu": {
+      "instalado_em": "01/01/1939", 
+      "area": "2.578,497 km", 
+      "bioma": "Amazônia", 
+      "populacao": "33.933 hab."
+    }
+  }
+,
+  {
+    "Turilândia": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.511,857 km", 
+      "bioma": "Amazônia", 
+      "populacao": "22.846 hab."
+    }
+  }
+,
+  {
+    "Urbano Santos": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.708,294 km", 
+      "bioma": "Cerrado", 
+      "populacao": "24.573 hab."
+    }
+  }
+,
+  {
+    "Tutóia": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.651,656 km", 
+      "bioma": "Cerrado", 
+      "populacao": "52.788 hab."
+    }
+  }
+,
+  {
+    "Vargem Grande": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.957,751 km", 
+      "bioma": "Cerrado", 
+      "populacao": "49.412 hab."
+    }
+  }
+,
+  {
+    "Viana": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.168,443 km", 
+      "bioma": "Amazônia", 
+      "populacao": "49.496 hab."
+    }
+  }
+,
+  {
+    "Vila Nova dos Martírios": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.188,781 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "11.258 hab."
+    }
+  }
+,
+  {
+    "Vitória do Mearim": {
+      "instalado_em": "01/01/1939", 
+      "area": "716,719 km", 
+      "bioma": "Amazônia", 
+      "populacao": "31.217 hab."
+    }
+  }
+,
+  {
+    "Vitorino Freire": {
+      "instalado_em": "01/01/1953", 
+      "area": "1.193,385 km", 
+      "bioma": "Amazônia", 
+      "populacao": "31.658 hab."
+    }
+  }
+,
+  {
+    "Timon": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.764,610 km", 
+      "bioma": "Cerrado Caatinga", 
+      "populacao": "155.460 hab."
+    }
+  }
+,
+  {
+    "Tufilândia": {
+      "instalado_em": "01/01/1997", 
+      "area": "271,010 km", 
+      "bioma": "Amazônia", 
+      "populacao": "5.596 hab."
+    }
+  }
+,
+  {
+    "Zé Doca": {
+      "instalado_em": "11/06/1988", 
+      "area": "2.140,112 km", 
+      "bioma": "Amazônia", 
+      "populacao": "50.173 hab."
+    }
+  }
+]

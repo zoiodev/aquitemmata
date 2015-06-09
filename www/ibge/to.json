@@ -1,0 +1,1252 @@
+[
+  {
+    "Angico": {
+      "instalado_em": "01/01/1993", 
+      "area": "451,733 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "3.175 hab."
+    }
+  }
+,
+  {
+    "Aparecida do Rio Negro": {
+      "instalado_em": "01/06/1989", 
+      "area": "1.160,368 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.213 hab."
+    }
+  }
+,
+  {
+    "Aliança do Tocantins": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.579,751 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.671 hab."
+    }
+  }
+,
+  {
+    "Alvorada": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.212,167 km", 
+      "bioma": "Cerrado", 
+      "populacao": "8.374 hab."
+    }
+  }
+,
+  {
+    "Abreulândia": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.895,212 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.391 hab."
+    }
+  }
+,
+  {
+    "Aguiarnópolis": {
+      "instalado_em": "01/01/1997", 
+      "area": "235,394 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.162 hab."
+    }
+  }
+,
+  {
+    "Almas": {
+      "instalado_em": "01/01/1989", 
+      "area": "4.013,243 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.586 hab."
+    }
+  }
+,
+  {
+    "Aragominas": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.173,058 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "5.882 hab."
+    }
+  }
+,
+  {
+    "Ananás": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.576,973 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "9.865 hab."
+    }
+  }
+,
+  {
+    "Araguatins": {
+      "instalado_em": "01/01/1989", 
+      "area": "2.625,286 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "31.329 hab."
+    }
+  }
+,
+  {
+    "Araguaína": {
+      "instalado_em": "01/01/1989", 
+      "area": "4.000,416 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "150.484 hab."
+    }
+  }
+,
+  {
+    "Araguacema": {
+      "instalado_em": "01/01/1989", 
+      "area": "2.778,475 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "6.317 hab."
+    }
+  }
+,
+  {
+    "Augustinópolis": {
+      "instalado_em": "01/01/1989", 
+      "area": "394,976 km", 
+      "bioma": "Cerrado", 
+      "populacao": "15.950 hab."
+    }
+  }
+,
+  {
+    "Aurora do Tocantins": {
+      "instalado_em": "01/01/1989", 
+      "area": "752,830 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.446 hab."
+    }
+  }
+,
+  {
+    "Arapoema": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.552,221 km", 
+      "bioma": "Amazônia", 
+      "populacao": "6.742 hab."
+    }
+  }
+,
+  {
+    "Araguanã": {
+      "instalado_em": "01/01/1993", 
+      "area": "836,030 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "5.030 hab."
+    }
+  }
+,
+  {
+    "Araguaçu": {
+      "instalado_em": "01/01/1989", 
+      "area": "5.167,797 km", 
+      "bioma": "Cerrado", 
+      "populacao": "8.786 hab."
+    }
+  }
+,
+  {
+    "Babaçulândia": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.788,461 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.424 hab."
+    }
+  }
+,
+  {
+    "Barra do Ouro": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.106,345 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.123 hab."
+    }
+  }
+,
+  {
+    "Bom Jesus do Tocantins": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.332,672 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.768 hab."
+    }
+  }
+,
+  {
+    "Arraias": {
+      "instalado_em": "01/01/1989", 
+      "area": "5.786,871 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.645 hab."
+    }
+  }
+,
+  {
+    "Brejinho de Nazaré": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.724,450 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.185 hab."
+    }
+  }
+,
+  {
+    "Axixá do Tocantins": {
+      "instalado_em": "01/01/1989", 
+      "area": "150,213 km", 
+      "bioma": "Cerrado", 
+      "populacao": "9.275 hab."
+    }
+  }
+,
+  {
+    "Buriti do Tocantins": {
+      "instalado_em": "01/06/1989", 
+      "area": "251,919 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "9.768 hab."
+    }
+  }
+,
+  {
+    "Cachoeirinha": {
+      "instalado_em": "01/01/1993", 
+      "area": "352,345 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.148 hab."
+    }
+  }
+,
+  {
+    "Barrolândia": {
+      "instalado_em": "01/06/1989", 
+      "area": "713,300 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.349 hab."
+    }
+  }
+,
+  {
+    "Bernardo Sayão": {
+      "instalado_em": "01/06/1989", 
+      "area": "926,888 km", 
+      "bioma": "Amazônia", 
+      "populacao": "4.456 hab."
+    }
+  }
+,
+  {
+    "Carrasco Bonito": {
+      "instalado_em": "01/01/1993", 
+      "area": "192,939 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "3.688 hab."
+    }
+  }
+,
+  {
+    "Cariri do Tocantins": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.128,601 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.756 hab."
+    }
+  }
+,
+  {
+    "Carmolândia": {
+      "instalado_em": "01/01/1993", 
+      "area": "339,405 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "2.316 hab."
+    }
+  }
+,
+  {
+    "Caseara": {
+      "instalado_em": "01/06/1989", 
+      "area": "1.691,614 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.601 hab."
+    }
+  }
+,
+  {
+    "Centenário": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.954,699 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.566 hab."
+    }
+  }
+,
+  {
+    "Chapada de Areia": {
+      "instalado_em": "01/01/1997", 
+      "area": "659,249 km", 
+      "bioma": "Cerrado", 
+      "populacao": "1.335 hab."
+    }
+  }
+,
+  {
+    "Colméia": {
+      "instalado_em": "01/01/1989", 
+      "area": "990,720 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "8.611 hab."
+    }
+  }
+,
+  {
+    "Campos Lindos": {
+      "instalado_em": "01/01/1993", 
+      "area": "3.240,177 km", 
+      "bioma": "Cerrado", 
+      "populacao": "8.139 hab."
+    }
+  }
+,
+  {
+    "Bandeirantes do Tocantins": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.541,842 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "3.122 hab."
+    }
+  }
+,
+  {
+    "Combinado": {
+      "instalado_em": "01/06/1989", 
+      "area": "209,572 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.669 hab."
+    }
+  }
+,
+  {
+    "Couto Magalhães": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.585,787 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "5.009 hab."
+    }
+  }
+,
+  {
+    "Conceição do Tocantins": {
+      "instalado_em": "01/01/1989", 
+      "area": "2.500,740 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.182 hab."
+    }
+  }
+,
+  {
+    "Cristalândia": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.848,241 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.234 hab."
+    }
+  }
+,
+  {
+    "Crixás do Tocantins": {
+      "instalado_em": "01/01/1997", 
+      "area": "986,693 km", 
+      "bioma": "Cerrado", 
+      "populacao": "1.564 hab."
+    }
+  }
+,
+  {
+    "Chapada da Natividade": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.646,472 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.277 hab."
+    }
+  }
+,
+  {
+    "Colinas do Tocantins": {
+      "instalado_em": "01/01/1989", 
+      "area": "843,846 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "30.838 hab."
+    }
+  }
+,
+  {
+    "Darcinópolis": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.639,162 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "5.273 hab."
+    }
+  }
+,
+  {
+    "Dianópolis": {
+      "instalado_em": "01/01/1989", 
+      "area": "3.217,313 km", 
+      "bioma": "Cerrado", 
+      "populacao": "19.112 hab."
+    }
+  }
+,
+  {
+    "Divinópolis do Tocantins": {
+      "instalado_em": "01/06/1989", 
+      "area": "2.347,434 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.363 hab."
+    }
+  }
+,
+  {
+    "Dueré": {
+      "instalado_em": "01/01/1989", 
+      "area": "3.424,852 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.592 hab."
+    }
+  }
+,
+  {
+    "Esperantina": {
+      "instalado_em": "01/01/1993", 
+      "area": "504,023 km", 
+      "bioma": "Amazônia", 
+      "populacao": "9.476 hab."
+    }
+  }
+,
+  {
+    "Fátima": {
+      "instalado_em": "01/01/1989", 
+      "area": "382,908 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.805 hab."
+    }
+  }
+,
+  {
+    "Figueirópolis": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.930,072 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.340 hab."
+    }
+  }
+,
+  {
+    "Formoso do Araguaia": {
+      "instalado_em": "01/01/1989", 
+      "area": "13.423,383 km", 
+      "bioma": "Cerrado", 
+      "populacao": "18.427 hab."
+    }
+  }
+,
+  {
+    "Filadélfia": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.988,081 km", 
+      "bioma": "Cerrado", 
+      "populacao": "8.505 hab."
+    }
+  }
+,
+  {
+    "Fortaleza do Tabocão": {
+      "instalado_em": "01/01/1993", 
+      "area": "621,562 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "2.419 hab."
+    }
+  }
+,
+  {
+    "Guaraí": {
+      "instalado_em": "01/01/1989", 
+      "area": "2.268,161 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "23.200 hab."
+    }
+  }
+,
+  {
+    "Goiatins": {
+      "instalado_em": "01/01/1989", 
+      "area": "6.408,602 km", 
+      "bioma": "Cerrado", 
+      "populacao": "12.064 hab."
+    }
+  }
+,
+  {
+    "Ipueiras": {
+      "instalado_em": "01/01/1997", 
+      "area": "815,254 km", 
+      "bioma": "Cerrado", 
+      "populacao": "1.639 hab."
+    }
+  }
+,
+  {
+    "Gurupi": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.836,091 km", 
+      "bioma": "Cerrado", 
+      "populacao": "76.755 hab."
+    }
+  }
+,
+  {
+    "Itaguatins": {
+      "instalado_em": "01/01/1989", 
+      "area": "739,849 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.029 hab."
+    }
+  }
+,
+  {
+    "Itapiratins": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.243,961 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.532 hab."
+    }
+  }
+,
+  {
+    "Itaporã do Tocantins": {
+      "instalado_em": "01/01/1989", 
+      "area": "972,977 km", 
+      "bioma": "Amazônia", 
+      "populacao": "2.445 hab."
+    }
+  }
+,
+  {
+    "Jaú do Tocantins": {
+      "instalado_em": "01/01/1993", 
+      "area": "2.173,047 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.507 hab."
+    }
+  }
+,
+  {
+    "Lagoa do Tocantins": {
+      "instalado_em": "01/01/1993", 
+      "area": "911,342 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.525 hab."
+    }
+  }
+,
+  {
+    "Lajeado": {
+      "instalado_em": "01/01/1993", 
+      "area": "322,485 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.773 hab."
+    }
+  }
+,
+  {
+    "Lizarda": {
+      "instalado_em": "01/01/1989", 
+      "area": "5.723,234 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.725 hab."
+    }
+  }
+,
+  {
+    "Lagoa da Confusão": {
+      "instalado_em": "01/01/1993", 
+      "area": "10.564,661 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.210 hab."
+    }
+  }
+,
+  {
+    "Juarina": {
+      "instalado_em": "01/01/1993", 
+      "area": "481,048 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "2.231 hab."
+    }
+  }
+,
+  {
+    "Luzinópolis": {
+      "instalado_em": "01/01/1997", 
+      "area": "279,563 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.622 hab."
+    }
+  }
+,
+  {
+    "Lavandeira": {
+      "instalado_em": "01/01/1997", 
+      "area": "519,614 km", 
+      "bioma": "Cerrado", 
+      "populacao": "1.605 hab."
+    }
+  }
+,
+  {
+    "Marianópolis do Tocantins": {
+      "instalado_em": "01/06/1989", 
+      "area": "2.091,374 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.352 hab."
+    }
+  }
+,
+  {
+    "Maurilândia do Tocantins": {
+      "instalado_em": "01/01/1993", 
+      "area": "738,105 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.154 hab."
+    }
+  }
+,
+  {
+    "Mateiros": {
+      "instalado_em": "01/01/1993", 
+      "area": "9.681,657 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.223 hab."
+    }
+  }
+,
+  {
+    "Miracema do Tocantins": {
+      "instalado_em": "01/01/1989", 
+      "area": "2.656,090 km", 
+      "bioma": "Cerrado", 
+      "populacao": "20.684 hab."
+    }
+  }
+,
+  {
+    "Monte do Carmo": {
+      "instalado_em": "01/01/1989", 
+      "area": "3.616,674 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.716 hab."
+    }
+  }
+,
+  {
+    "Monte Santo do Tocantins": {
+      "instalado_em": "01/01/1997", 
+      "area": "1.091,553 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.085 hab."
+    }
+  }
+,
+  {
+    "Muricilândia": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.186,647 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "3.152 hab."
+    }
+  }
+,
+  {
+    "Brasilândia do Tocantins": {
+      "instalado_em": "01/01/1993", 
+      "area": "641,467 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "2.064 hab."
+    }
+  }
+,
+  {
+    "Nova Olinda": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.566,184 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "10.686 hab."
+    }
+  }
+,
+  {
+    "Natividade": {
+      "instalado_em": "01/01/1989", 
+      "area": "3.240,715 km", 
+      "bioma": "Cerrado", 
+      "populacao": "9.000 hab."
+    }
+  }
+,
+  {
+    "Miranorte": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.031,624 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "12.623 hab."
+    }
+  }
+,
+  {
+    "Nazaré": {
+      "instalado_em": "01/01/1989", 
+      "area": "395,907 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.386 hab."
+    }
+  }
+,
+  {
+    "Itacajá": {
+      "instalado_em": "01/01/1989", 
+      "area": "3.051,360 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.104 hab."
+    }
+  }
+,
+  {
+    "Novo Acordo": {
+      "instalado_em": "01/01/1989", 
+      "area": "2.674,682 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.762 hab."
+    }
+  }
+,
+  {
+    "Novo Jardim": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.309,665 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.457 hab."
+    }
+  }
+,
+  {
+    "Nova Rosalândia": {
+      "instalado_em": "01/06/1989", 
+      "area": "516,308 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.770 hab."
+    }
+  }
+,
+  {
+    "Novo Alegre": {
+      "instalado_em": "01/01/1993", 
+      "area": "200,105 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.286 hab."
+    }
+  }
+,
+  {
+    "Palmas": {
+      "instalado_em": "01/06/1989", 
+      "area": "2.218,943 km", 
+      "bioma": "Cerrado", 
+      "populacao": "228.332 hab."
+    }
+  }
+,
+  {
+    "Palmeirante": {
+      "instalado_em": "01/01/1993", 
+      "area": "2.640,816 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.954 hab."
+    }
+  }
+,
+  {
+    "Palmeiras do Tocantins": {
+      "instalado_em": "01/01/1993", 
+      "area": "747,898 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.740 hab."
+    }
+  }
+,
+  {
+    "Paraíso do Tocantins": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.268,060 km", 
+      "bioma": "Cerrado", 
+      "populacao": "44.417 hab."
+    }
+  }
+,
+  {
+    "Paranã": {
+      "instalado_em": "01/01/1989", 
+      "area": "11.260,216 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.338 hab."
+    }
+  }
+,
+  {
+    "Pau d`Arco": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.377,406 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "4.588 hab."
+    }
+  }
+,
+  {
+    "Oliveira de Fátima": {
+      "instalado_em": "01/01/1997", 
+      "area": "205,850 km", 
+      "bioma": "Cerrado", 
+      "populacao": "1.037 hab."
+    }
+  }
+,
+  {
+    "Pequizeiro": {
+      "instalado_em": "01/06/1989", 
+      "area": "1.209,800 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "5.054 hab."
+    }
+  }
+,
+  {
+    "Pindorama do Tocantins": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.559,086 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.506 hab."
+    }
+  }
+,
+  {
+    "Piraquê": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.367,613 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "2.920 hab."
+    }
+  }
+,
+  {
+    "Pium": {
+      "instalado_em": "01/01/1989", 
+      "area": "10.013,794 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "6.694 hab."
+    }
+  }
+,
+  {
+    "Ponte Alta do Tocantins": {
+      "instalado_em": "01/01/1989", 
+      "area": "6.491,125 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.180 hab."
+    }
+  }
+,
+  {
+    "Ponte Alta do Bom Jesus": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.806,141 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.544 hab."
+    }
+  }
+,
+  {
+    "Porto Alegre do Tocantins": {
+      "instalado_em": "01/06/1989", 
+      "area": "501,862 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.796 hab."
+    }
+  }
+,
+  {
+    "Peixe": {
+      "instalado_em": "01/01/1989", 
+      "area": "5.291,208 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.384 hab."
+    }
+  }
+,
+  {
+    "Porto Nacional": {
+      "instalado_em": "01/01/1989", 
+      "area": "4.449,918 km", 
+      "bioma": "Cerrado", 
+      "populacao": "49.146 hab."
+    }
+  }
+,
+  {
+    "Praia Norte": {
+      "instalado_em": "01/06/1989", 
+      "area": "289,054 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.659 hab."
+    }
+  }
+,
+  {
+    "Presidente Kennedy": {
+      "instalado_em": "01/01/1989", 
+      "area": "770,423 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "3.681 hab."
+    }
+  }
+,
+  {
+    "Pugmil": {
+      "instalado_em": "01/01/1997", 
+      "area": "401,834 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.369 hab."
+    }
+  }
+,
+  {
+    "Recursolândia": {
+      "instalado_em": "01/01/1993", 
+      "area": "2.216,663 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.768 hab."
+    }
+  }
+,
+  {
+    "Riachinho": {
+      "instalado_em": "01/01/1993", 
+      "area": "517,478 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "4.191 hab."
+    }
+  }
+,
+  {
+    "Rio da Conceição": {
+      "instalado_em": "01/01/1993", 
+      "area": "787,116 km", 
+      "bioma": "Cerrado", 
+      "populacao": "1.714 hab."
+    }
+  }
+,
+  {
+    "Rio dos Bois": {
+      "instalado_em": "01/01/1993", 
+      "area": "845,065 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.570 hab."
+    }
+  }
+,
+  {
+    "Sampaio": {
+      "instalado_em": "01/06/1989", 
+      "area": "222,290 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "3.864 hab."
+    }
+  }
+,
+  {
+    "Sandolândia": {
+      "instalado_em": "01/01/1993", 
+      "area": "3.528,621 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.326 hab."
+    }
+  }
+,
+  {
+    "Santa Fé do Araguaia": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.678,091 km", 
+      "bioma": "Amazônia", 
+      "populacao": "6.599 hab."
+    }
+  }
+,
+  {
+    "Santa Rita do Tocantins": {
+      "instalado_em": "01/01/1997", 
+      "area": "3.274,947 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.128 hab."
+    }
+  }
+,
+  {
+    "Santa Maria do Tocantins": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.410,457 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.894 hab."
+    }
+  }
+,
+  {
+    "Santa Rosa do Tocantins": {
+      "instalado_em": "01/06/1989", 
+      "area": "1.796,257 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.568 hab."
+    }
+  }
+,
+  {
+    "Santa Tereza do Tocantins": {
+      "instalado_em": "01/06/1989", 
+      "area": "539,912 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.523 hab."
+    }
+  }
+,
+  {
+    "Santa Terezinha do Tocantins": {
+      "instalado_em": "01/01/1997", 
+      "area": "269,677 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.474 hab."
+    }
+  }
+,
+  {
+    "São Bento do Tocantins": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.105,901 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "4.608 hab."
+    }
+  }
+,
+  {
+    "São Félix do Tocantins": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.908,678 km", 
+      "bioma": "Cerrado", 
+      "populacao": "1.437 hab."
+    }
+  }
+,
+  {
+    "São Miguel do Tocantins": {
+      "instalado_em": "01/01/1993", 
+      "area": "398,820 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.481 hab."
+    }
+  }
+,
+  {
+    "São Salvador do Tocantins": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.422,032 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.910 hab."
+    }
+  }
+,
+  {
+    "São Sebastião do Tocantins": {
+      "instalado_em": "01/01/1989", 
+      "area": "287,275 km", 
+      "bioma": "Amazônia", 
+      "populacao": "4.283 hab."
+    }
+  }
+,
+  {
+    "Pedro Afonso": {
+      "instalado_em": "01/01/1989", 
+      "area": "2.010,902 km", 
+      "bioma": "Cerrado", 
+      "populacao": "11.539 hab."
+    }
+  }
+,
+  {
+    "São Valério": {
+      "instalado_em": "01/01/1989", 
+      "area": "2.519,585 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.383 hab."
+    }
+  }
+,
+  {
+    "Rio Sono": {
+      "instalado_em": "01/01/1989", 
+      "area": "6.354,367 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.254 hab."
+    }
+  }
+,
+  {
+    "Sucupira": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.025,519 km", 
+      "bioma": "Cerrado", 
+      "populacao": "1.742 hab."
+    }
+  }
+,
+  {
+    "Taguatinga": {
+      "instalado_em": "01/01/1989", 
+      "area": "2.437,399 km", 
+      "bioma": "Cerrado", 
+      "populacao": "15.051 hab."
+    }
+  }
+,
+  {
+    "Silvanópolis": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.258,831 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.068 hab."
+    }
+  }
+,
+  {
+    "Taipas do Tocantins": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.116,202 km", 
+      "bioma": "Cerrado", 
+      "populacao": "1.945 hab."
+    }
+  }
+,
+  {
+    "Talismã": {
+      "instalado_em": "01/01/1997", 
+      "area": "2.156,902 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.562 hab."
+    }
+  }
+,
+  {
+    "Tocantinópolis": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.077,073 km", 
+      "bioma": "Cerrado", 
+      "populacao": "22.619 hab."
+    }
+  }
+,
+  {
+    "Tupirama": {
+      "instalado_em": "01/01/1997", 
+      "area": "712,206 km", 
+      "bioma": "Cerrado", 
+      "populacao": "1.574 hab."
+    }
+  }
+,
+  {
+    "Tupiratins": {
+      "instalado_em": "01/01/1993", 
+      "area": "895,308 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.097 hab."
+    }
+  }
+,
+  {
+    "Wanderlândia": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.373,061 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "10.981 hab."
+    }
+  }
+,
+  {
+    "Sítio Novo do Tocantins": {
+      "instalado_em": "01/01/1989", 
+      "area": "324,106 km", 
+      "bioma": "Cerrado", 
+      "populacao": "9.148 hab."
+    }
+  }
+,
+  {
+    "Xambioá": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.186,428 km", 
+      "bioma": "Amazônia", 
+      "populacao": "11.484 hab."
+    }
+  }
+,
+  {
+    "Tocantínia": {
+      "instalado_em": "01/01/1989", 
+      "area": "2.601,603 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.736 hab."
+    }
+  }
+,
+  {
+    "Palmeirópolis": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.703,944 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.339 hab."
+    }
+  }
+,
+  {
+    "Goianorte": {
+      "instalado_em": "01/06/1989", 
+      "area": "1.800,983 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "4.956 hab."
+    }
+  }
+,
+  {
+    "Dois Irmãos do Tocantins": {
+      "instalado_em": "01/01/1989", 
+      "area": "3.757,036 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "7.161 hab."
+    }
+  }
+]

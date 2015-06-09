@@ -1,0 +1,559 @@
+[
+  {
+    "Amaturá": {
+      "instalado_em": "02/07/1985", 
+      "area": "4.758,743 km", 
+      "bioma": "Amazônia", 
+      "populacao": "9.467 hab."
+    }
+  }
+,
+  {
+    "Alvarães": {
+      "instalado_em": "02/07/1985", 
+      "area": "5.911,768 km", 
+      "bioma": "Amazônia", 
+      "populacao": "14.088 hab."
+    }
+  }
+,
+  {
+    "Barcelos": {
+      "instalado_em": "01/01/1939", 
+      "area": "122.475,065 km", 
+      "bioma": "Amazônia", 
+      "populacao": "25.718 hab."
+    }
+  }
+,
+  {
+    "Atalaia do Norte": {
+      "instalado_em": "23/02/1956", 
+      "area": "76.351,789 km", 
+      "bioma": "Amazônia", 
+      "populacao": "15.153 hab."
+    }
+  }
+,
+  {
+    "Apuí": {
+      "instalado_em": "01/01/1989", 
+      "area": "54.231,002 km", 
+      "bioma": "Amazônia", 
+      "populacao": "18.007 hab."
+    }
+  }
+,
+  {
+    "Autazes": {
+      "instalado_em": "03/03/1956", 
+      "area": "7.599,363 km", 
+      "bioma": "Amazônia", 
+      "populacao": "32.135 hab."
+    }
+  }
+,
+  {
+    "Benjamin Constant": {
+      "instalado_em": "01/01/1939", 
+      "area": "8.793,417 km", 
+      "bioma": "Amazônia", 
+      "populacao": "33.411 hab."
+    }
+  }
+,
+  {
+    "Barreirinha": {
+      "instalado_em": "01/01/1939", 
+      "area": "5.750,558 km", 
+      "bioma": "Amazônia", 
+      "populacao": "27.355 hab."
+    }
+  }
+,
+  {
+    "Boa Vista do Ramos": {
+      "instalado_em": "02/07/1985", 
+      "area": "2.586,847 km", 
+      "bioma": "Amazônia", 
+      "populacao": "14.979 hab."
+    }
+  }
+,
+  {
+    "Beruri": {
+      "instalado_em": "02/07/1985", 
+      "area": "17.250,722 km", 
+      "bioma": "Amazônia", 
+      "populacao": "15.486 hab."
+    }
+  }
+,
+  {
+    "Borba": {
+      "instalado_em": "01/01/1939", 
+      "area": "44.251,745 km", 
+      "bioma": "Amazônia", 
+      "populacao": "34.961 hab."
+    }
+  }
+,
+  {
+    "Boca do Acre": {
+      "instalado_em": "01/01/1939", 
+      "area": "21.951,026 km", 
+      "bioma": "Amazônia", 
+      "populacao": "30.632 hab."
+    }
+  }
+,
+  {
+    "Canutama": {
+      "instalado_em": "01/01/1939", 
+      "area": "33.659,609 km", 
+      "bioma": "Amazônia", 
+      "populacao": "12.738 hab."
+    }
+  }
+,
+  {
+    "Carauari": {
+      "instalado_em": "01/01/1939", 
+      "area": "25.767,678 km", 
+      "bioma": "Amazônia", 
+      "populacao": "25.774 hab."
+    }
+  }
+,
+  {
+    "Careiro": {
+      "instalado_em": "29/01/1956", 
+      "area": "6.091,554 km", 
+      "bioma": "Amazônia", 
+      "populacao": "32.734 hab."
+    }
+  }
+,
+  {
+    "Anamã": {
+      "instalado_em": "02/07/1985", 
+      "area": "2.453,937 km", 
+      "bioma": "Amazônia", 
+      "populacao": "10.214 hab."
+    }
+  }
+,
+  {
+    "Anori": {
+      "instalado_em": "29/12/1956", 
+      "area": "5.795,311 km", 
+      "bioma": "Amazônia", 
+      "populacao": "16.317 hab."
+    }
+  }
+,
+  {
+    "Coari": {
+      "instalado_em": "01/01/1939", 
+      "area": "57.921,906 km", 
+      "bioma": "Amazônia", 
+      "populacao": "75.965 hab."
+    }
+  }
+,
+  {
+    "Careiro da Várzea": {
+      "instalado_em": "01/01/1989", 
+      "area": "2.631,144 km", 
+      "bioma": "Amazônia", 
+      "populacao": "23.930 hab."
+    }
+  }
+,
+  {
+    "Codajás": {
+      "instalado_em": "01/01/1939", 
+      "area": "18.711,552 km", 
+      "bioma": "Amazônia", 
+      "populacao": "23.206 hab."
+    }
+  }
+,
+  {
+    "Eirunepé": {
+      "instalado_em": "01/01/1939", 
+      "area": "15.011,771 km", 
+      "bioma": "Amazônia", 
+      "populacao": "30.665 hab."
+    }
+  }
+,
+  {
+    "Envira": {
+      "instalado_em": "01/03/1956", 
+      "area": "7.499,330 km", 
+      "bioma": "Amazônia", 
+      "populacao": "16.338 hab."
+    }
+  }
+,
+  {
+    "Fonte Boa": {
+      "instalado_em": "01/01/1939", 
+      "area": "12.110,929 km", 
+      "bioma": "Amazônia", 
+      "populacao": "22.817 hab."
+    }
+  }
+,
+  {
+    "Guajará": {
+      "instalado_em": "01/01/1989", 
+      "area": "7.578,203 km", 
+      "bioma": "Amazônia", 
+      "populacao": "13.974 hab."
+    }
+  }
+,
+  {
+    "Ipixuna": {
+      "instalado_em": "18/02/1956", 
+      "area": "12.044,629 km", 
+      "bioma": "Amazônia", 
+      "populacao": "22.254 hab."
+    }
+  }
+,
+  {
+    "Iranduba": {
+      "instalado_em": "02/07/1985", 
+      "area": "2.214,251 km", 
+      "bioma": "Amazônia", 
+      "populacao": "40.781 hab."
+    }
+  }
+,
+  {
+    "Itacoatiara": {
+      "instalado_em": "01/01/1939", 
+      "area": "8.892,038 km", 
+      "bioma": "Amazônia", 
+      "populacao": "86.839 hab."
+    }
+  }
+,
+  {
+    "Itapiranga": {
+      "instalado_em": "01/01/1939", 
+      "area": "4.231,152 km", 
+      "bioma": "Amazônia", 
+      "populacao": "8.211 hab."
+    }
+  }
+,
+  {
+    "Itamarati": {
+      "instalado_em": "02/07/1985", 
+      "area": "25.275,925 km", 
+      "bioma": "Amazônia", 
+      "populacao": "8.038 hab."
+    }
+  }
+,
+  {
+    "Juruá": {
+      "instalado_em": "31/01/1956", 
+      "area": "19.400,694 km", 
+      "bioma": "Amazônia", 
+      "populacao": "10.802 hab."
+    }
+  }
+,
+  {
+    "Jutaí": {
+      "instalado_em": "11/04/1956", 
+      "area": "69.551,829 km", 
+      "bioma": "Amazônia", 
+      "populacao": "17.992 hab."
+    }
+  }
+,
+  {
+    "Manacapuru": {
+      "instalado_em": "01/01/1939", 
+      "area": "7.330,074 km", 
+      "bioma": "Amazônia", 
+      "populacao": "85.141 hab."
+    }
+  }
+,
+  {
+    "Manaquiri": {
+      "instalado_em": "02/07/1985", 
+      "area": "3.975,770 km", 
+      "bioma": "Amazônia", 
+      "populacao": "22.801 hab."
+    }
+  }
+,
+  {
+    "Manaus": {
+      "instalado_em": "01/01/1939", 
+      "area": "11.401,092 km", 
+      "bioma": "Amazônia", 
+      "populacao": "1.802.014 hab."
+    }
+  }
+,
+  {
+    "Manicoré": {
+      "instalado_em": "01/01/1939", 
+      "area": "48.282,537 km", 
+      "bioma": "Amazônia", 
+      "populacao": "47.017 hab."
+    }
+  }
+,
+  {
+    "Maraã": {
+      "instalado_em": "07/05/1956", 
+      "area": "16.910,373 km", 
+      "bioma": "Amazônia", 
+      "populacao": "17.528 hab."
+    }
+  }
+,
+  {
+    "Maués": {
+      "instalado_em": "01/01/1939", 
+      "area": "39.989,319 km", 
+      "bioma": "Amazônia", 
+      "populacao": "52.236 hab."
+    }
+  }
+,
+  {
+    "Nhamundá": {
+      "instalado_em": "31/01/1956", 
+      "area": "14.105,590 km", 
+      "bioma": "Amazônia", 
+      "populacao": "18.278 hab."
+    }
+  }
+,
+  {
+    "Humaitá": {
+      "instalado_em": "01/01/1939", 
+      "area": "33.071,902 km", 
+      "bioma": "Amazônia", 
+      "populacao": "44.227 hab."
+    }
+  }
+,
+  {
+    "Novo Aripuanã": {
+      "instalado_em": "10/02/1956", 
+      "area": "41.187,694 km", 
+      "bioma": "Amazônia", 
+      "populacao": "21.451 hab."
+    }
+  }
+,
+  {
+    "Parintins": {
+      "instalado_em": "01/01/1939", 
+      "area": "5.951,200 km", 
+      "bioma": "Amazônia", 
+      "populacao": "102.033 hab."
+    }
+  }
+,
+  {
+    "Japurá": {
+      "instalado_em": "25/01/1956", 
+      "area": "55.791,837 km", 
+      "bioma": "Amazônia", 
+      "populacao": "7.326 hab."
+    }
+  }
+,
+  {
+    "Pauini": {
+      "instalado_em": "01/04/1956", 
+      "area": "41.610,052 km", 
+      "bioma": "Amazônia", 
+      "populacao": "18.166 hab."
+    }
+  }
+,
+  {
+    "Presidente Figueiredo": {
+      "instalado_em": "02/07/1985", 
+      "area": "25.422,333 km", 
+      "bioma": "Amazônia", 
+      "populacao": "27.175 hab."
+    }
+  }
+,
+  {
+    "Rio Preto da Eva": {
+      "instalado_em": "02/07/1985", 
+      "area": "5.813,225 km", 
+      "bioma": "Amazônia", 
+      "populacao": "25.719 hab."
+    }
+  }
+,
+  {
+    "Santa Isabel do Rio Negro": {
+      "instalado_em": "29/12/1956", 
+      "area": "62.846,408 km", 
+      "bioma": "Amazônia", 
+      "populacao": "18.146 hab."
+    }
+  }
+,
+  {
+    "Santo Antônio do Içá": {
+      "instalado_em": "19/12/1955", 
+      "area": "12.307,212 km", 
+      "bioma": "Amazônia", 
+      "populacao": "24.481 hab."
+    }
+  }
+,
+  {
+    "São Gabriel da Cachoeira": {
+      "instalado_em": "01/01/1939", 
+      "area": "109.183,434 km", 
+      "bioma": "Amazônia", 
+      "populacao": "37.896 hab."
+    }
+  }
+,
+  {
+    "São Paulo de Olivença": {
+      "instalado_em": "01/01/1939", 
+      "area": "19.745,898 km", 
+      "bioma": "Amazônia", 
+      "populacao": "31.422 hab."
+    }
+  }
+,
+  {
+    "São Sebastião do Uatumã": {
+      "instalado_em": "02/07/1985", 
+      "area": "10.741,080 km", 
+      "bioma": "Amazônia", 
+      "populacao": "10.705 hab."
+    }
+  }
+,
+  {
+    "Silves": {
+      "instalado_em": "29/12/1956", 
+      "area": "3.748,833 km", 
+      "bioma": "Amazônia", 
+      "populacao": "8.444 hab."
+    }
+  }
+,
+  {
+    "Tabatinga": {
+      "instalado_em": "02/07/1985", 
+      "area": "3.224,875 km", 
+      "bioma": "Amazônia", 
+      "populacao": "52.272 hab."
+    }
+  }
+,
+  {
+    "Tapauá": {
+      "instalado_em": "31/01/1956", 
+      "area": "85.488,025 km", 
+      "bioma": "Amazônia", 
+      "populacao": "19.077 hab."
+    }
+  }
+,
+  {
+    "Nova Olinda do Norte": {
+      "instalado_em": "31/01/1956", 
+      "area": "5.608,565 km", 
+      "bioma": "Amazônia", 
+      "populacao": "30.696 hab."
+    }
+  }
+,
+  {
+    "Tefé": {
+      "instalado_em": "01/01/1939", 
+      "area": "23.704,475 km", 
+      "bioma": "Amazônia", 
+      "populacao": "61.453 hab."
+    }
+  }
+,
+  {
+    "Novo Airão": {
+      "instalado_em": "23/02/1956", 
+      "area": "37.770,823 km", 
+      "bioma": "Amazônia", 
+      "populacao": "14.723 hab."
+    }
+  }
+,
+  {
+    "Uarini": {
+      "instalado_em": "02/07/1985", 
+      "area": "10.246,237 km", 
+      "bioma": "Amazônia", 
+      "populacao": "11.891 hab."
+    }
+  }
+,
+  {
+    "Urucará": {
+      "instalado_em": "01/01/1939", 
+      "area": "27.904,758 km", 
+      "bioma": "Amazônia", 
+      "populacao": "17.094 hab."
+    }
+  }
+,
+  {
+    "Urucurituba": {
+      "instalado_em": "01/01/1939", 
+      "area": "2.906,701 km", 
+      "bioma": "Amazônia", 
+      "populacao": "17.837 hab."
+    }
+  }
+,
+  {
+    "Lábrea": {
+      "instalado_em": "01/01/1939", 
+      "area": "68.233,803 km", 
+      "bioma": "Amazônia", 
+      "populacao": "37.701 hab."
+    }
+  }
+,
+  {
+    "Tonantins": {
+      "instalado_em": "02/07/1985", 
+      "area": "6.432,659 km", 
+      "bioma": "Amazônia", 
+      "populacao": "17.079 hab."
+    }
+  }
+,
+  {
+    "Caapiranga": {
+      "instalado_em": "02/07/1985", 
+      "area": "9.456,618 km", 
+      "bioma": "Amazônia", 
+      "populacao": "10.975 hab."
+    }
+  }
+]

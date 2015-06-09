@@ -1,0 +1,5806 @@
+[
+  {
+    "Adamantina": {
+      "instalado_em": "01/01/1949", 
+      "area": "411,987 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "33.797 hab."
+    }
+  }
+,
+  {
+    "Adolfo": {
+      "instalado_em": "18/02/1959", 
+      "area": "211,055 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.557 hab."
+    }
+  }
+,
+  {
+    "Águas de Santa Bárbara": {
+      "instalado_em": "01/01/1939", 
+      "area": "404,937 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "5.601 hab."
+    }
+  }
+,
+  {
+    "Aguaí": {
+      "instalado_em": "01/01/1945", 
+      "area": "474,554 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "32.148 hab."
+    }
+  }
+,
+  {
+    "Águas da Prata": {
+      "instalado_em": "01/01/1939", 
+      "area": "142,572 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.584 hab."
+    }
+  }
+,
+  {
+    "Águas de São Pedro": {
+      "instalado_em": "01/01/1949", 
+      "area": "3,612 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.707 hab."
+    }
+  }
+,
+  {
+    "Agudos": {
+      "instalado_em": "01/01/1939", 
+      "area": "966,160 km", 
+      "bioma": "Cerrado", 
+      "populacao": "34.524 hab."
+    }
+  }
+,
+  {
+    "Alambari": {
+      "instalado_em": "01/01/1993", 
+      "area": "159,600 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "4.884 hab."
+    }
+  }
+,
+  {
+    "Águas de Lindóia": {
+      "instalado_em": "01/01/1939", 
+      "area": "60,126 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "17.266 hab."
+    }
+  }
+,
+  {
+    "Alfredo Marcondes": {
+      "instalado_em": "01/01/1949", 
+      "area": "118,915 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.891 hab."
+    }
+  }
+,
+  {
+    "Alto Alegre": {
+      "instalado_em": "01/01/1954", 
+      "area": "318,616 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.102 hab."
+    }
+  }
+,
+  {
+    "Álvares Machado": {
+      "instalado_em": "01/01/1945", 
+      "area": "347,646 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "23.513 hab."
+    }
+  }
+,
+  {
+    "Álvares Florence": {
+      "instalado_em": "01/01/1949", 
+      "area": "362,219 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "3.897 hab."
+    }
+  }
+,
+  {
+    "Alvinlândia": {
+      "instalado_em": "18/02/1959", 
+      "area": "84,879 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "3.000 hab."
+    }
+  }
+,
+  {
+    "Américo Brasiliense": {
+      "instalado_em": "28/02/1964", 
+      "area": "122,785 km", 
+      "bioma": "Cerrado", 
+      "populacao": "34.478 hab."
+    }
+  }
+,
+  {
+    "Americana": {
+      "instalado_em": "01/01/1939", 
+      "area": "133,912 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "210.638 hab."
+    }
+  }
+,
+  {
+    "Altair": {
+      "instalado_em": "18/02/1959", 
+      "area": "313,858 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "3.815 hab."
+    }
+  }
+,
+  {
+    "Amparo": {
+      "instalado_em": "01/01/1939", 
+      "area": "445,323 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "65.829 hab."
+    }
+  }
+,
+  {
+    "Américo de Campos": {
+      "instalado_em": "01/01/1949", 
+      "area": "252,884 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.706 hab."
+    }
+  }
+,
+  {
+    "Alumínio": {
+      "instalado_em": "01/01/1993", 
+      "area": "83,660 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "16.839 hab."
+    }
+  }
+,
+  {
+    "Altinópolis": {
+      "instalado_em": "01/01/1939", 
+      "area": "928,956 km", 
+      "bioma": "Cerrado", 
+      "populacao": "15.607 hab."
+    }
+  }
+,
+  {
+    "Andradina": {
+      "instalado_em": "01/01/1939", 
+      "area": "964,226 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "55.334 hab."
+    }
+  }
+,
+  {
+    "Angatuba": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.027,984 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "22.210 hab."
+    }
+  }
+,
+  {
+    "Anhembi": {
+      "instalado_em": "01/01/1939", 
+      "area": "736,557 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "5.653 hab."
+    }
+  }
+,
+  {
+    "Aparecida d`Oeste": {
+      "instalado_em": "28/02/1964", 
+      "area": "179,004 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.450 hab."
+    }
+  }
+,
+  {
+    "Apiaí": {
+      "instalado_em": "01/01/1939", 
+      "area": "974,322 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "25.191 hab."
+    }
+  }
+,
+  {
+    "Analândia": {
+      "instalado_em": "01/01/1939", 
+      "area": "325,953 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.293 hab."
+    }
+  }
+,
+  {
+    "Araçatuba": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.167,402 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "181.579 hab."
+    }
+  }
+,
+  {
+    "Anhumas": {
+      "instalado_em": "01/01/1954", 
+      "area": "320,840 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.738 hab."
+    }
+  }
+,
+  {
+    "Araçoiaba da Serra": {
+      "instalado_em": "01/01/1939", 
+      "area": "255,327 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "27.299 hab."
+    }
+  }
+,
+  {
+    "Aramina": {
+      "instalado_em": "28/02/1964", 
+      "area": "202,829 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.152 hab."
+    }
+  }
+,
+  {
+    "Aparecida": {
+      "instalado_em": "01/01/1939", 
+      "area": "121,076 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "35.007 hab."
+    }
+  }
+,
+  {
+    "Araraquara": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.003,625 km", 
+      "bioma": "Cerrado", 
+      "populacao": "208.662 hab."
+    }
+  }
+,
+  {
+    "Araçariguama": {
+      "instalado_em": "01/01/1993", 
+      "area": "145,204 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "17.080 hab."
+    }
+  }
+,
+  {
+    "Arapeí": {
+      "instalado_em": "01/01/1993", 
+      "area": "156,902 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.493 hab."
+    }
+  }
+,
+  {
+    "Araras": {
+      "instalado_em": "01/01/1939", 
+      "area": "644,831 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "118.843 hab."
+    }
+  }
+,
+  {
+    "Arco-Íris": {
+      "instalado_em": "01/01/1997", 
+      "area": "264,903 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.925 hab."
+    }
+  }
+,
+  {
+    "Arandu": {
+      "instalado_em": "28/02/1964", 
+      "area": "285,908 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.123 hab."
+    }
+  }
+,
+  {
+    "Areias": {
+      "instalado_em": "01/01/1939", 
+      "area": "305,227 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.696 hab."
+    }
+  }
+,
+  {
+    "Ariranha": {
+      "instalado_em": "01/01/1939", 
+      "area": "132,624 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.547 hab."
+    }
+  }
+,
+  {
+    "Arealva": {
+      "instalado_em": "01/01/1949", 
+      "area": "504,973 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "7.841 hab."
+    }
+  }
+,
+  {
+    "Aspásia": {
+      "instalado_em": "01/01/1993", 
+      "area": "69,337 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.809 hab."
+    }
+  }
+,
+  {
+    "Arujá": {
+      "instalado_em": "18/02/1959", 
+      "area": "96,167 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "74.905 hab."
+    }
+  }
+,
+  {
+    "Atibaia": {
+      "instalado_em": "01/01/1939", 
+      "area": "478,521 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "126.603 hab."
+    }
+  }
+,
+  {
+    "Álvaro de Carvalho": {
+      "instalado_em": "01/01/1949", 
+      "area": "153,662 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.650 hab."
+    }
+  }
+,
+  {
+    "Artur Nogueira": {
+      "instalado_em": "01/01/1949", 
+      "area": "178,026 km", 
+      "bioma": "Cerrado", 
+      "populacao": "44.177 hab."
+    }
+  }
+,
+  {
+    "Assis": {
+      "instalado_em": "01/01/1939", 
+      "area": "460,609 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "95.144 hab."
+    }
+  }
+,
+  {
+    "Auriflama": {
+      "instalado_em": "01/01/1954", 
+      "area": "434,324 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "14.202 hab."
+    }
+  }
+,
+  {
+    "Avanhandava": {
+      "instalado_em": "01/01/1939", 
+      "area": "338,386 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "11.310 hab."
+    }
+  }
+,
+  {
+    "Avaí": {
+      "instalado_em": "01/01/1939", 
+      "area": "540,459 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "4.959 hab."
+    }
+  }
+,
+  {
+    "Areiópolis": {
+      "instalado_em": "18/02/1959", 
+      "area": "85,907 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "10.579 hab."
+    }
+  }
+,
+  {
+    "Avaré": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.213,055 km", 
+      "bioma": "Cerrado", 
+      "populacao": "82.934 hab."
+    }
+  }
+,
+  {
+    "Balbinos": {
+      "instalado_em": "01/01/1954", 
+      "area": "91,635 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.702 hab."
+    }
+  }
+,
+  {
+    "Bálsamo": {
+      "instalado_em": "01/01/1954", 
+      "area": "149,881 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "8.160 hab."
+    }
+  }
+,
+  {
+    "Bady Bassitt": {
+      "instalado_em": "18/02/1959", 
+      "area": "110,372 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "14.603 hab."
+    }
+  }
+,
+  {
+    "Barão de Antonina": {
+      "instalado_em": "28/02/1964", 
+      "area": "153,142 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.116 hab."
+    }
+  }
+,
+  {
+    "Barbosa": {
+      "instalado_em": "18/02/1959", 
+      "area": "205,173 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "6.593 hab."
+    }
+  }
+,
+  {
+    "Barra do Turvo": {
+      "instalado_em": "28/02/1964", 
+      "area": "1.007,670 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.729 hab."
+    }
+  }
+,
+  {
+    "Bananal": {
+      "instalado_em": "01/01/1939", 
+      "area": "616,426 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.223 hab."
+    }
+  }
+,
+  {
+    "Bariri": {
+      "instalado_em": "01/01/1939", 
+      "area": "444,405 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "31.593 hab."
+    }
+  }
+,
+  {
+    "Barrinha": {
+      "instalado_em": "01/01/1954", 
+      "area": "146,025 km", 
+      "bioma": "Cerrado", 
+      "populacao": "28.496 hab."
+    }
+  }
+,
+  {
+    "Bastos": {
+      "instalado_em": "01/01/1945", 
+      "area": "171,885 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "20.445 hab."
+    }
+  }
+,
+  {
+    "Barra do Chapéu": {
+      "instalado_em": "01/01/1993", 
+      "area": "405,681 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.244 hab."
+    }
+  }
+,
+  {
+    "Bebedouro": {
+      "instalado_em": "01/01/1939", 
+      "area": "683,192 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "75.035 hab."
+    }
+  }
+,
+  {
+    "Batatais": {
+      "instalado_em": "01/01/1939", 
+      "area": "849,526 km", 
+      "bioma": "Cerrado", 
+      "populacao": "56.476 hab."
+    }
+  }
+,
+  {
+    "Bauru": {
+      "instalado_em": "01/01/1939", 
+      "area": "667,684 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "343.937 hab."
+    }
+  }
+,
+  {
+    "Barretos": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.566,161 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "112.101 hab."
+    }
+  }
+,
+  {
+    "Bento de Abreu": {
+      "instalado_em": "01/01/1949", 
+      "area": "301,701 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.674 hab."
+    }
+  }
+,
+  {
+    "Barueri": {
+      "instalado_em": "01/01/1949", 
+      "area": "65,701 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "240.749 hab."
+    }
+  }
+,
+  {
+    "Bertioga": {
+      "instalado_em": "01/01/1993", 
+      "area": "490,148 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "47.645 hab."
+    }
+  }
+,
+  {
+    "Biritiba-Mirim": {
+      "instalado_em": "28/02/1964", 
+      "area": "317,406 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "28.575 hab."
+    }
+  }
+,
+  {
+    "Boa Esperança do Sul": {
+      "instalado_em": "01/01/1939", 
+      "area": "690,748 km", 
+      "bioma": "Cerrado", 
+      "populacao": "13.645 hab."
+    }
+  }
+,
+  {
+    "Bofete": {
+      "instalado_em": "01/01/1939", 
+      "area": "653,541 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "9.618 hab."
+    }
+  }
+,
+  {
+    "Barra Bonita": {
+      "instalado_em": "01/01/1939", 
+      "area": "150,121 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "35.246 hab."
+    }
+  }
+,
+  {
+    "Bom Sucesso de Itararé": {
+      "instalado_em": "01/01/1993", 
+      "area": "133,578 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "3.571 hab."
+    }
+  }
+,
+  {
+    "Borá": {
+      "instalado_em": "28/02/1964", 
+      "area": "118,951 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "805 hab."
+    }
+  }
+,
+  {
+    "Birigui": {
+      "instalado_em": "01/01/1939", 
+      "area": "530,030 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "108.728 hab."
+    }
+  }
+,
+  {
+    "Bernardino de Campos": {
+      "instalado_em": "01/01/1939", 
+      "area": "244,198 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.775 hab."
+    }
+  }
+,
+  {
+    "Bom Jesus dos Perdões": {
+      "instalado_em": "18/02/1959", 
+      "area": "108,366 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "19.708 hab."
+    }
+  }
+,
+  {
+    "Boituva": {
+      "instalado_em": "01/01/1939", 
+      "area": "248,968 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "48.314 hab."
+    }
+  }
+,
+  {
+    "Botucatu": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.482,642 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "127.328 hab."
+    }
+  }
+,
+  {
+    "Bragança Paulista": {
+      "instalado_em": "01/01/1939", 
+      "area": "512,584 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "146.744 hab."
+    }
+  }
+,
+  {
+    "Borebi": {
+      "instalado_em": "01/01/1993", 
+      "area": "347,989 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.293 hab."
+    }
+  }
+,
+  {
+    "Brejo Alegre": {
+      "instalado_em": "01/01/1997", 
+      "area": "105,689 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.573 hab."
+    }
+  }
+,
+  {
+    "Brodowski": {
+      "instalado_em": "01/01/1939", 
+      "area": "278,458 km", 
+      "bioma": "Cerrado", 
+      "populacao": "21.107 hab."
+    }
+  }
+,
+  {
+    "Brotas": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.101,374 km", 
+      "bioma": "Cerrado", 
+      "populacao": "21.580 hab."
+    }
+  }
+,
+  {
+    "Buritama": {
+      "instalado_em": "01/01/1949", 
+      "area": "326,879 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "15.418 hab."
+    }
+  }
+,
+  {
+    "Buritizal": {
+      "instalado_em": "01/01/1954", 
+      "area": "266,420 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.053 hab."
+    }
+  }
+,
+  {
+    "Buri": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.195,910 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "18.563 hab."
+    }
+  }
+,
+  {
+    "Cabrália Paulista": {
+      "instalado_em": "01/01/1949", 
+      "area": "239,910 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "4.365 hab."
+    }
+  }
+,
+  {
+    "Cabreúva": {
+      "instalado_em": "01/01/1939", 
+      "area": "260,234 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "41.604 hab."
+    }
+  }
+,
+  {
+    "Braúna": {
+      "instalado_em": "01/01/1954", 
+      "area": "195,176 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.021 hab."
+    }
+  }
+,
+  {
+    "Caçapava": {
+      "instalado_em": "01/01/1939", 
+      "area": "368,990 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "84.752 hab."
+    }
+  }
+,
+  {
+    "Cachoeira Paulista": {
+      "instalado_em": "01/01/1939", 
+      "area": "287,990 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "30.091 hab."
+    }
+  }
+,
+  {
+    "Caiabu": {
+      "instalado_em": "01/01/1954", 
+      "area": "253,352 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.072 hab."
+    }
+  }
+,
+  {
+    "Caieiras": {
+      "instalado_em": "18/02/1959", 
+      "area": "97,642 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "86.529 hab."
+    }
+  }
+,
+  {
+    "Caiuá": {
+      "instalado_em": "01/01/1954", 
+      "area": "551,158 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.039 hab."
+    }
+  }
+,
+  {
+    "Cajati": {
+      "instalado_em": "01/01/1993", 
+      "area": "454,436 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "28.372 hab."
+    }
+  }
+,
+  {
+    "Cafelândia": {
+      "instalado_em": "01/01/1939", 
+      "area": "920,280 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "16.607 hab."
+    }
+  }
+,
+  {
+    "Caconde": {
+      "instalado_em": "01/01/1939", 
+      "area": "468,375 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "18.538 hab."
+    }
+  }
+,
+  {
+    "Cajuru": {
+      "instalado_em": "01/01/1939", 
+      "area": "660,088 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "23.371 hab."
+    }
+  }
+,
+  {
+    "Campina do Monte Alegre": {
+      "instalado_em": "01/01/1993", 
+      "area": "185,031 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "5.567 hab."
+    }
+  }
+,
+  {
+    "Cajamar": {
+      "instalado_em": "18/02/1959", 
+      "area": "131,386 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "64.114 hab."
+    }
+  }
+,
+  {
+    "Campo Limpo Paulista": {
+      "instalado_em": "28/02/1964", 
+      "area": "79,403 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "74.074 hab."
+    }
+  }
+,
+  {
+    "Cajobi": {
+      "instalado_em": "01/01/1939", 
+      "area": "176,929 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "9.768 hab."
+    }
+  }
+,
+  {
+    "Campos do Jordão": {
+      "instalado_em": "01/01/1939", 
+      "area": "290,520 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "47.789 hab."
+    }
+  }
+,
+  {
+    "Cananéia": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.239,376 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "12.226 hab."
+    }
+  }
+,
+  {
+    "Canas": {
+      "instalado_em": "01/01/1997", 
+      "area": "53,261 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.385 hab."
+    }
+  }
+,
+  {
+    "Cândido Mota": {
+      "instalado_em": "01/01/1939", 
+      "area": "595,811 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "29.884 hab."
+    }
+  }
+,
+  {
+    "Cândido Rodrigues": {
+      "instalado_em": "18/02/1959", 
+      "area": "70,892 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "2.668 hab."
+    }
+  }
+,
+  {
+    "Campos Novos Paulista": {
+      "instalado_em": "01/01/1949", 
+      "area": "483,980 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "4.539 hab."
+    }
+  }
+,
+  {
+    "Canitar": {
+      "instalado_em": "01/01/1993", 
+      "area": "57,459 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.369 hab."
+    }
+  }
+,
+  {
+    "Capela do Alto": {
+      "instalado_em": "28/02/1964", 
+      "area": "169,890 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "17.532 hab."
+    }
+  }
+,
+  {
+    "Capão Bonito": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.640,229 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "46.178 hab."
+    }
+  }
+,
+  {
+    "Capivari": {
+      "instalado_em": "01/01/1939", 
+      "area": "322,878 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "48.576 hab."
+    }
+  }
+,
+  {
+    "Caraguatatuba": {
+      "instalado_em": "01/01/1939", 
+      "area": "485,097 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "100.840 hab."
+    }
+  }
+,
+  {
+    "Casa Branca": {
+      "instalado_em": "01/01/1939", 
+      "area": "864,226 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "28.307 hab."
+    }
+  }
+,
+  {
+    "Cardoso": {
+      "instalado_em": "01/01/1949", 
+      "area": "639,406 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "11.805 hab."
+    }
+  }
+,
+  {
+    "Carapicuíba": {
+      "instalado_em": "28/02/1964", 
+      "area": "34,546 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "369.584 hab."
+    }
+  }
+,
+  {
+    "Catanduva": {
+      "instalado_em": "01/01/1939", 
+      "area": "290,596 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "112.820 hab."
+    }
+  }
+,
+  {
+    "Bilac": {
+      "instalado_em": "01/01/1945", 
+      "area": "158,025 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.048 hab."
+    }
+  }
+,
+  {
+    "Bocaina": {
+      "instalado_em": "01/01/1939", 
+      "area": "363,926 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "10.859 hab."
+    }
+  }
+,
+  {
+    "Cássia dos Coqueiros": {
+      "instalado_em": "18/02/1959", 
+      "area": "191,683 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "2.634 hab."
+    }
+  }
+,
+  {
+    "Castilho": {
+      "instalado_em": "01/01/1954", 
+      "area": "1.065,318 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "18.003 hab."
+    }
+  }
+,
+  {
+    "Cerqueira César": {
+      "instalado_em": "01/01/1939", 
+      "area": "511,621 km", 
+      "bioma": "Cerrado", 
+      "populacao": "17.532 hab."
+    }
+  }
+,
+  {
+    "Cedral": {
+      "instalado_em": "01/01/1939", 
+      "area": "197,876 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "7.972 hab."
+    }
+  }
+,
+  {
+    "Catiguá": {
+      "instalado_em": "18/02/1959", 
+      "area": "148,393 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.127 hab."
+    }
+  }
+,
+  {
+    "Borborema": {
+      "instalado_em": "01/01/1939", 
+      "area": "552,256 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "14.529 hab."
+    }
+  }
+,
+  {
+    "Boracéia": {
+      "instalado_em": "18/02/1959", 
+      "area": "122,110 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.268 hab."
+    }
+  }
+,
+  {
+    "Cesário Lange": {
+      "instalado_em": "18/02/1959", 
+      "area": "190,392 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "15.540 hab."
+    }
+  }
+,
+  {
+    "Charqueada": {
+      "instalado_em": "01/01/1954", 
+      "area": "175,846 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "15.085 hab."
+    }
+  }
+,
+  {
+    "Chavantes": {
+      "instalado_em": "01/01/1939", 
+      "area": "188,727 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "12.114 hab."
+    }
+  }
+,
+  {
+    "Colina": {
+      "instalado_em": "01/01/1939", 
+      "area": "422,303 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "17.371 hab."
+    }
+  }
+,
+  {
+    "Colômbia": {
+      "instalado_em": "18/12/1959", 
+      "area": "728,648 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.994 hab."
+    }
+  }
+,
+  {
+    "Cordeirópolis": {
+      "instalado_em": "01/01/1949", 
+      "area": "137,579 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "21.080 hab."
+    }
+  }
+,
+  {
+    "Coroados": {
+      "instalado_em": "01/01/1939", 
+      "area": "246,825 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.238 hab."
+    }
+  }
+,
+  {
+    "Coronel Macedo": {
+      "instalado_em": "28/02/1964", 
+      "area": "303,931 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "5.001 hab."
+    }
+  }
+,
+  {
+    "Corumbataí": {
+      "instalado_em": "01/01/1949", 
+      "area": "278,622 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "3.874 hab."
+    }
+  }
+,
+  {
+    "Campinas": {
+      "instalado_em": "01/01/1939", 
+      "area": "794,571 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "1.080.113 hab."
+    }
+  }
+,
+  {
+    "Clementina": {
+      "instalado_em": "01/01/1954", 
+      "area": "168,590 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.065 hab."
+    }
+  }
+,
+  {
+    "Cosmópolis": {
+      "instalado_em": "01/01/1945", 
+      "area": "154,665 km", 
+      "bioma": "Cerrado", 
+      "populacao": "58.827 hab."
+    }
+  }
+,
+  {
+    "Conchas": {
+      "instalado_em": "01/01/1939", 
+      "area": "466,120 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "16.288 hab."
+    }
+  }
+,
+  {
+    "Cravinhos": {
+      "instalado_em": "01/01/1939", 
+      "area": "311,423 km", 
+      "bioma": "Cerrado", 
+      "populacao": "31.691 hab."
+    }
+  }
+,
+  {
+    "Cruzália": {
+      "instalado_em": "28/02/1964", 
+      "area": "149,054 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.274 hab."
+    }
+  }
+,
+  {
+    "Cruzeiro": {
+      "instalado_em": "01/01/1939", 
+      "area": "305,699 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "77.039 hab."
+    }
+  }
+,
+  {
+    "Cubatão": {
+      "instalado_em": "01/01/1949", 
+      "area": "142,879 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "118.720 hab."
+    }
+  }
+,
+  {
+    "Cerquilho": {
+      "instalado_em": "01/01/1949", 
+      "area": "127,803 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "39.617 hab."
+    }
+  }
+,
+  {
+    "Descalvado": {
+      "instalado_em": "01/01/1939", 
+      "area": "753,706 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "31.056 hab."
+    }
+  }
+,
+  {
+    "Cotia": {
+      "instalado_em": "01/01/1939", 
+      "area": "323,994 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "201.150 hab."
+    }
+  }
+,
+  {
+    "Divinolândia": {
+      "instalado_em": "01/01/1954", 
+      "area": "223,732 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "11.208 hab."
+    }
+  }
+,
+  {
+    "Cristais Paulista": {
+      "instalado_em": "18/02/1959", 
+      "area": "385,230 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.588 hab."
+    }
+  }
+,
+  {
+    "Cunha": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.407,250 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "21.866 hab."
+    }
+  }
+,
+  {
+    "Diadema": {
+      "instalado_em": "18/02/1959", 
+      "area": "30,756 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "386.089 hab."
+    }
+  }
+,
+  {
+    "Dobrada": {
+      "instalado_em": "28/02/1964", 
+      "area": "149,729 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.939 hab."
+    }
+  }
+,
+  {
+    "Dois Córregos": {
+      "instalado_em": "01/01/1939", 
+      "area": "632,972 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "24.761 hab."
+    }
+  }
+,
+  {
+    "Dolcinópolis": {
+      "instalado_em": "18/02/1959", 
+      "area": "77,939 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.096 hab."
+    }
+  }
+,
+  {
+    "Dourado": {
+      "instalado_em": "01/01/1939", 
+      "area": "205,874 km", 
+      "bioma": "Cerrado", 
+      "populacao": "8.609 hab."
+    }
+  }
+,
+  {
+    "Dracena": {
+      "instalado_em": "01/01/1949", 
+      "area": "487,688 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "43.258 hab."
+    }
+  }
+,
+  {
+    "Duartina": {
+      "instalado_em": "01/01/1939", 
+      "area": "264,563 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "12.251 hab."
+    }
+  }
+,
+  {
+    "Dumont": {
+      "instalado_em": "28/02/1964", 
+      "area": "111,376 km", 
+      "bioma": "Cerrado", 
+      "populacao": "8.143 hab."
+    }
+  }
+,
+  {
+    "Eldorado": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.654,256 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "14.641 hab."
+    }
+  }
+,
+  {
+    "Echaporã": {
+      "instalado_em": "01/01/1939", 
+      "area": "516,060 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "6.318 hab."
+    }
+  }
+,
+  {
+    "Embaúba": {
+      "instalado_em": "01/01/1993", 
+      "area": "83,129 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.423 hab."
+    }
+  }
+,
+  {
+    "Embu das Artes": {
+      "instalado_em": "18/02/1959", 
+      "area": "70,398 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "240.230 hab."
+    }
+  }
+,
+  {
+    "Embu-Guaçu": {
+      "instalado_em": "28/02/1964", 
+      "area": "155,641 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "62.769 hab."
+    }
+  }
+,
+  {
+    "Elias Fausto": {
+      "instalado_em": "01/01/1945", 
+      "area": "202,360 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "15.775 hab."
+    }
+  }
+,
+  {
+    "Elisiário": {
+      "instalado_em": "01/01/1993", 
+      "area": "93,980 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.120 hab."
+    }
+  }
+,
+  {
+    "Engenheiro Coelho": {
+      "instalado_em": "01/01/1993", 
+      "area": "109,941 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "15.721 hab."
+    }
+  }
+,
+  {
+    "Espírito Santo do Pinhal": {
+      "instalado_em": "01/01/1939", 
+      "area": "389,235 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "41.907 hab."
+    }
+  }
+,
+  {
+    "Estrela do Norte": {
+      "instalado_em": "28/02/1964", 
+      "area": "264,987 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.658 hab."
+    }
+  }
+,
+  {
+    "Espírito Santo do Turvo": {
+      "instalado_em": "01/01/1993", 
+      "area": "193,655 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.244 hab."
+    }
+  }
+,
+  {
+    "Estiva Gerbi": {
+      "instalado_em": "01/01/1993", 
+      "area": "74,144 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.044 hab."
+    }
+  }
+,
+  {
+    "Emilianópolis": {
+      "instalado_em": "01/01/1993", 
+      "area": "225,167 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.020 hab."
+    }
+  }
+,
+  {
+    "Estrela d`Oeste": {
+      "instalado_em": "01/01/1949", 
+      "area": "296,281 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.208 hab."
+    }
+  }
+,
+  {
+    "Fartura": {
+      "instalado_em": "01/01/1939", 
+      "area": "429,170 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "15.320 hab."
+    }
+  }
+,
+  {
+    "Fernando Prestes": {
+      "instalado_em": "01/01/1939", 
+      "area": "169,990 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "5.534 hab."
+    }
+  }
+,
+  {
+    "Euclides da Cunha Paulista": {
+      "instalado_em": "01/01/1993", 
+      "area": "573,894 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "9.585 hab."
+    }
+  }
+,
+  {
+    "Fernandópolis": {
+      "instalado_em": "01/01/1945", 
+      "area": "549,797 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "64.696 hab."
+    }
+  }
+,
+  {
+    "Fernão": {
+      "instalado_em": "01/01/1997", 
+      "area": "100,504 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "1.563 hab."
+    }
+  }
+,
+  {
+    "Flora Rica": {
+      "instalado_em": "01/01/1954", 
+      "area": "224,711 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.752 hab."
+    }
+  }
+,
+  {
+    "Flórida Paulista": {
+      "instalado_em": "01/01/1949", 
+      "area": "524,138 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "12.848 hab."
+    }
+  }
+,
+  {
+    "Florínia": {
+      "instalado_em": "01/01/1954", 
+      "area": "225,661 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.829 hab."
+    }
+  }
+,
+  {
+    "Dirce Reis": {
+      "instalado_em": "01/01/1993", 
+      "area": "88,329 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.689 hab."
+    }
+  }
+,
+  {
+    "Francisco Morato": {
+      "instalado_em": "28/02/1964", 
+      "area": "49,001 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "154.472 hab."
+    }
+  }
+,
+  {
+    "Franco da Rocha": {
+      "instalado_em": "01/01/1945", 
+      "area": "132,775 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "131.604 hab."
+    }
+  }
+,
+  {
+    "Floreal": {
+      "instalado_em": "18/02/1959", 
+      "area": "204,331 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "3.003 hab."
+    }
+  }
+,
+  {
+    "Gália": {
+      "instalado_em": "01/01/1939", 
+      "area": "355,914 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.011 hab."
+    }
+  }
+,
+  {
+    "Garça": {
+      "instalado_em": "01/01/1939", 
+      "area": "555,807 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "43.115 hab."
+    }
+  }
+,
+  {
+    "Franca": {
+      "instalado_em": "01/01/1939", 
+      "area": "605,679 km", 
+      "bioma": "Cerrado", 
+      "populacao": "318.640 hab."
+    }
+  }
+,
+  {
+    "Gastão Vidigal": {
+      "instalado_em": "01/01/1954", 
+      "area": "180,603 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.193 hab."
+    }
+  }
+,
+  {
+    "Cosmorama": {
+      "instalado_em": "01/01/1949", 
+      "area": "441,661 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.214 hab."
+    }
+  }
+,
+  {
+    "General Salgado": {
+      "instalado_em": "01/01/1945", 
+      "area": "494,376 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "10.669 hab."
+    }
+  }
+,
+  {
+    "Conchal": {
+      "instalado_em": "01/01/1949", 
+      "area": "182,793 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "25.229 hab."
+    }
+  }
+,
+  {
+    "Gavião Peixoto": {
+      "instalado_em": "01/01/1997", 
+      "area": "243,766 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.419 hab."
+    }
+  }
+,
+  {
+    "Glicério": {
+      "instalado_em": "01/01/1939", 
+      "area": "272,800 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.565 hab."
+    }
+  }
+,
+  {
+    "Guaiçara": {
+      "instalado_em": "01/01/1954", 
+      "area": "277,380 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.670 hab."
+    }
+  }
+,
+  {
+    "Getulina": {
+      "instalado_em": "01/01/1939", 
+      "area": "678,398 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.765 hab."
+    }
+  }
+,
+  {
+    "Guaimbê": {
+      "instalado_em": "01/01/1954", 
+      "area": "217,868 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.425 hab."
+    }
+  }
+,
+  {
+    "Guapiaçu": {
+      "instalado_em": "01/01/1954", 
+      "area": "324,916 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "17.869 hab."
+    }
+  }
+,
+  {
+    "Guapiara": {
+      "instalado_em": "01/01/1949", 
+      "area": "408,292 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "17.998 hab."
+    }
+  }
+,
+  {
+    "Guaraçaí": {
+      "instalado_em": "01/01/1949", 
+      "area": "569,197 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.435 hab."
+    }
+  }
+,
+  {
+    "Guararapes": {
+      "instalado_em": "01/01/1939", 
+      "area": "955,763 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "30.597 hab."
+    }
+  }
+,
+  {
+    "Guararema": {
+      "instalado_em": "01/01/1939", 
+      "area": "270,816 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "25.844 hab."
+    }
+  }
+,
+  {
+    "Guarani d`Oeste": {
+      "instalado_em": "18/02/1959", 
+      "area": "85,700 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.970 hab."
+    }
+  }
+,
+  {
+    "Guarantã": {
+      "instalado_em": "01/01/1945", 
+      "area": "461,746 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "6.404 hab."
+    }
+  }
+,
+  {
+    "Guaratinguetá": {
+      "instalado_em": "01/01/1939", 
+      "area": "752,636 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "112.072 hab."
+    }
+  }
+,
+  {
+    "Ferraz de Vasconcelos": {
+      "instalado_em": "01/01/1954", 
+      "area": "29,564 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "168.306 hab."
+    }
+  }
+,
+  {
+    "Guareí": {
+      "instalado_em": "01/01/1939", 
+      "area": "566,347 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "14.565 hab."
+    }
+  }
+,
+  {
+    "Guariba": {
+      "instalado_em": "01/01/1939", 
+      "area": "270,289 km", 
+      "bioma": "Cerrado", 
+      "populacao": "35.486 hab."
+    }
+  }
+,
+  {
+    "Guarujá": {
+      "instalado_em": "01/01/1939", 
+      "area": "143,577 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "290.752 hab."
+    }
+  }
+,
+  {
+    "Guarulhos": {
+      "instalado_em": "01/01/1939", 
+      "area": "318,675 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.221.979 hab."
+    }
+  }
+,
+  {
+    "Gabriel Monteiro": {
+      "instalado_em": "18/02/1959", 
+      "area": "138,747 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.708 hab."
+    }
+  }
+,
+  {
+    "Guatapará": {
+      "instalado_em": "01/01/1993", 
+      "area": "413,567 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.966 hab."
+    }
+  }
+,
+  {
+    "Guzolândia": {
+      "instalado_em": "28/02/1964", 
+      "area": "252,140 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.754 hab."
+    }
+  }
+,
+  {
+    "Herculândia": {
+      "instalado_em": "01/01/1945", 
+      "area": "364,252 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.696 hab."
+    }
+  }
+,
+  {
+    "Holambra": {
+      "instalado_em": "01/01/1993", 
+      "area": "65,577 km", 
+      "bioma": "Cerrado", 
+      "populacao": "11.299 hab."
+    }
+  }
+,
+  {
+    "Guaíra": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.258,465 km", 
+      "bioma": "Cerrado", 
+      "populacao": "37.404 hab."
+    }
+  }
+,
+  {
+    "Iacanga": {
+      "instalado_em": "01/01/1939", 
+      "area": "547,393 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "10.013 hab."
+    }
+  }
+,
+  {
+    "Hortolândia": {
+      "instalado_em": "01/01/1993", 
+      "area": "62,416 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "192.692 hab."
+    }
+  }
+,
+  {
+    "Iaras": {
+      "instalado_em": "01/01/1993", 
+      "area": "401,307 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.376 hab."
+    }
+  }
+,
+  {
+    "Guará": {
+      "instalado_em": "01/01/1939", 
+      "area": "362,183 km", 
+      "bioma": "Cerrado", 
+      "populacao": "19.858 hab."
+    }
+  }
+,
+  {
+    "Ibaté": {
+      "instalado_em": "01/01/1954", 
+      "area": "290,978 km", 
+      "bioma": "Cerrado", 
+      "populacao": "30.734 hab."
+    }
+  }
+,
+  {
+    "Guaraci": {
+      "instalado_em": "01/01/1945", 
+      "area": "641,501 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "9.976 hab."
+    }
+  }
+,
+  {
+    "Ibirá": {
+      "instalado_em": "01/01/1939", 
+      "area": "271,912 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.896 hab."
+    }
+  }
+,
+  {
+    "Ibitinga": {
+      "instalado_em": "01/01/1939", 
+      "area": "689,391 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "53.158 hab."
+    }
+  }
+,
+  {
+    "Ibirarema": {
+      "instalado_em": "01/01/1945", 
+      "area": "228,317 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "6.725 hab."
+    }
+  }
+,
+  {
+    "Ibiúna": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.058,082 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "71.217 hab."
+    }
+  }
+,
+  {
+    "Icém": {
+      "instalado_em": "01/01/1954", 
+      "area": "362,593 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "7.462 hab."
+    }
+  }
+,
+  {
+    "Igaraçu do Tietê": {
+      "instalado_em": "01/01/1954", 
+      "area": "97,747 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "23.362 hab."
+    }
+  }
+,
+  {
+    "Iepê": {
+      "instalado_em": "01/01/1945", 
+      "area": "594,974 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "7.628 hab."
+    }
+  }
+,
+  {
+    "Iguape": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.977,957 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "28.841 hab."
+    }
+  }
+,
+  {
+    "Igaratá": {
+      "instalado_em": "01/01/1954", 
+      "area": "292,953 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.831 hab."
+    }
+  }
+,
+  {
+    "Indaiatuba": {
+      "instalado_em": "01/01/1939", 
+      "area": "311,545 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "201.619 hab."
+    }
+  }
+,
+  {
+    "Iacri": {
+      "instalado_em": "18/02/1959", 
+      "area": "322,348 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "6.419 hab."
+    }
+  }
+,
+  {
+    "Indiana": {
+      "instalado_em": "01/01/1949", 
+      "area": "129,367 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "4.825 hab."
+    }
+  }
+,
+  {
+    "Indiaporã": {
+      "instalado_em": "01/01/1954", 
+      "area": "279,607 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.903 hab."
+    }
+  }
+,
+  {
+    "Igarapava": {
+      "instalado_em": "01/01/1939", 
+      "area": "468,246 km", 
+      "bioma": "Cerrado", 
+      "populacao": "27.952 hab."
+    }
+  }
+,
+  {
+    "Ilha Comprida": {
+      "instalado_em": "01/01/1993", 
+      "area": "192,090 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "9.025 hab."
+    }
+  }
+,
+  {
+    "Ilha Solteira": {
+      "instalado_em": "01/01/1993", 
+      "area": "652,641 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "25.064 hab."
+    }
+  }
+,
+  {
+    "Ilhabela": {
+      "instalado_em": "01/01/1939", 
+      "area": "347,515 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "28.196 hab."
+    }
+  }
+,
+  {
+    "Ipaussu": {
+      "instalado_em": "01/01/1939", 
+      "area": "209,554 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "13.663 hab."
+    }
+  }
+,
+  {
+    "Iperó": {
+      "instalado_em": "28/02/1964", 
+      "area": "170,289 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "28.300 hab."
+    }
+  }
+,
+  {
+    "Ipeúna": {
+      "instalado_em": "28/02/1964", 
+      "area": "190,010 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "6.016 hab."
+    }
+  }
+,
+  {
+    "Iporanga": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.152,049 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.299 hab."
+    }
+  }
+,
+  {
+    "Inúbia Paulista": {
+      "instalado_em": "18/02/1959", 
+      "area": "87,119 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.630 hab."
+    }
+  }
+,
+  {
+    "Ipuã": {
+      "instalado_em": "01/01/1949", 
+      "area": "466,461 km", 
+      "bioma": "Cerrado", 
+      "populacao": "14.148 hab."
+    }
+  }
+,
+  {
+    "Ipiguá": {
+      "instalado_em": "01/01/1997", 
+      "area": "135,685 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.463 hab."
+    }
+  }
+,
+  {
+    "Irapuã": {
+      "instalado_em": "01/01/1945", 
+      "area": "258,003 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.275 hab."
+    }
+  }
+,
+  {
+    "Irapuru": {
+      "instalado_em": "01/01/1954", 
+      "area": "214,461 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.789 hab."
+    }
+  }
+,
+  {
+    "Iracemápolis": {
+      "instalado_em": "01/01/1954", 
+      "area": "115,118 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "20.029 hab."
+    }
+  }
+,
+  {
+    "Itaí": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.082,782 km", 
+      "bioma": "Cerrado", 
+      "populacao": "24.008 hab."
+    }
+  }
+,
+  {
+    "Itajobi": {
+      "instalado_em": "01/01/1939", 
+      "area": "502,066 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "14.556 hab."
+    }
+  }
+,
+  {
+    "Itaju": {
+      "instalado_em": "01/01/1954", 
+      "area": "230,355 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "3.246 hab."
+    }
+  }
+,
+  {
+    "Itanhaém": {
+      "instalado_em": "01/01/1939", 
+      "area": "601,845 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "87.057 hab."
+    }
+  }
+,
+  {
+    "Itaberá": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.110,503 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "17.858 hab."
+    }
+  }
+,
+  {
+    "Itaóca": {
+      "instalado_em": "01/01/1993", 
+      "area": "183,015 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.228 hab."
+    }
+  }
+,
+  {
+    "Itapirapuã Paulista": {
+      "instalado_em": "01/01/1993", 
+      "area": "406,479 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.880 hab."
+    }
+  }
+,
+  {
+    "Itapira": {
+      "instalado_em": "01/01/1939", 
+      "area": "518,416 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "68.537 hab."
+    }
+  }
+,
+  {
+    "Itapevi": {
+      "instalado_em": "18/02/1959", 
+      "area": "82,658 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "200.769 hab."
+    }
+  }
+,
+  {
+    "Itápolis": {
+      "instalado_em": "01/01/1939", 
+      "area": "996,747 km", 
+      "bioma": "Cerrado", 
+      "populacao": "40.051 hab."
+    }
+  }
+,
+  {
+    "Itaporanga": {
+      "instalado_em": "01/01/1939", 
+      "area": "507,705 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "14.549 hab."
+    }
+  }
+,
+  {
+    "Itapetininga": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.790,192 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "144.377 hab."
+    }
+  }
+,
+  {
+    "Itapura": {
+      "instalado_em": "28/02/1964", 
+      "area": "301,653 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.357 hab."
+    }
+  }
+,
+  {
+    "Itapuí": {
+      "instalado_em": "01/01/1939", 
+      "area": "140,023 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "12.173 hab."
+    }
+  }
+,
+  {
+    "Itaquaquecetuba": {
+      "instalado_em": "01/01/1954", 
+      "area": "82,622 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "321.770 hab."
+    }
+  }
+,
+  {
+    "Itapeva": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.826,258 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "87.753 hab."
+    }
+  }
+,
+  {
+    "Itariri": {
+      "instalado_em": "01/01/1949", 
+      "area": "273,667 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "15.471 hab."
+    }
+  }
+,
+  {
+    "Itatiba": {
+      "instalado_em": "01/01/1939", 
+      "area": "322,276 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "101.471 hab."
+    }
+  }
+,
+  {
+    "Itatinga": {
+      "instalado_em": "01/01/1939", 
+      "area": "979,817 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "18.052 hab."
+    }
+  }
+,
+  {
+    "Itirapuã": {
+      "instalado_em": "01/01/1949", 
+      "area": "161,118 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.914 hab."
+    }
+  }
+,
+  {
+    "Itobi": {
+      "instalado_em": "18/02/1959", 
+      "area": "138,986 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "7.546 hab."
+    }
+  }
+,
+  {
+    "Itu": {
+      "instalado_em": "01/01/1939", 
+      "area": "640,719 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "154.147 hab."
+    }
+  }
+,
+  {
+    "Itararé": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.003,578 km", 
+      "bioma": "Cerrado", 
+      "populacao": "47.934 hab."
+    }
+  }
+,
+  {
+    "Ituverava": {
+      "instalado_em": "01/01/1939", 
+      "area": "704,659 km", 
+      "bioma": "Cerrado", 
+      "populacao": "38.695 hab."
+    }
+  }
+,
+  {
+    "Jaboticabal": {
+      "instalado_em": "01/01/1939", 
+      "area": "706,602 km", 
+      "bioma": "Cerrado", 
+      "populacao": "71.662 hab."
+    }
+  }
+,
+  {
+    "Jacareí": {
+      "instalado_em": "01/01/1939", 
+      "area": "464,272 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "211.214 hab."
+    }
+  }
+,
+  {
+    "Itirapina": {
+      "instalado_em": "01/01/1939", 
+      "area": "564,603 km", 
+      "bioma": "Cerrado", 
+      "populacao": "15.524 hab."
+    }
+  }
+,
+  {
+    "Jaborandi": {
+      "instalado_em": "01/01/1949", 
+      "area": "273,438 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.592 hab."
+    }
+  }
+,
+  {
+    "Itapecerica da Serra": {
+      "instalado_em": "01/01/1939", 
+      "area": "150,742 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "152.614 hab."
+    }
+  }
+,
+  {
+    "Jandira": {
+      "instalado_em": "28/02/1964", 
+      "area": "17,449 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "108.344 hab."
+    }
+  }
+,
+  {
+    "Jaguariúna": {
+      "instalado_em": "01/01/1954", 
+      "area": "141,391 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "44.311 hab."
+    }
+  }
+,
+  {
+    "Jacupiranga": {
+      "instalado_em": "01/01/1939", 
+      "area": "704,190 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "17.208 hab."
+    }
+  }
+,
+  {
+    "Jardinópolis": {
+      "instalado_em": "01/01/1939", 
+      "area": "501,870 km", 
+      "bioma": "Cerrado", 
+      "populacao": "37.661 hab."
+    }
+  }
+,
+  {
+    "Jaci": {
+      "instalado_em": "18/02/1959", 
+      "area": "145,133 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.657 hab."
+    }
+  }
+,
+  {
+    "Jales": {
+      "instalado_em": "01/01/1949", 
+      "area": "368,574 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "47.012 hab."
+    }
+  }
+,
+  {
+    "Jarinu": {
+      "instalado_em": "01/01/1949", 
+      "area": "207,549 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "23.847 hab."
+    }
+  }
+,
+  {
+    "Itupeva": {
+      "instalado_em": "28/02/1964", 
+      "area": "200,816 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "44.859 hab."
+    }
+  }
+,
+  {
+    "João Ramalho": {
+      "instalado_em": "18/02/1959", 
+      "area": "415,883 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "4.150 hab."
+    }
+  }
+,
+  {
+    "Júlio Mesquita": {
+      "instalado_em": "01/01/1949", 
+      "area": "128,182 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.430 hab."
+    }
+  }
+,
+  {
+    "Jaú": {
+      "instalado_em": "01/01/1939", 
+      "area": "687,103 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "131.040 hab."
+    }
+  }
+,
+  {
+    "José Bonifácio": {
+      "instalado_em": "01/01/1939", 
+      "area": "860,174 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "32.763 hab."
+    }
+  }
+,
+  {
+    "Jambeiro": {
+      "instalado_em": "01/01/1939", 
+      "area": "184,413 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.349 hab."
+    }
+  }
+,
+  {
+    "Joanópolis": {
+      "instalado_em": "01/01/1939", 
+      "area": "374,283 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "11.768 hab."
+    }
+  }
+,
+  {
+    "Jumirim": {
+      "instalado_em": "01/01/1997", 
+      "area": "56,685 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.798 hab."
+    }
+  }
+,
+  {
+    "Jeriquara": {
+      "instalado_em": "28/02/1964", 
+      "area": "141,971 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.160 hab."
+    }
+  }
+,
+  {
+    "Juquitiba": {
+      "instalado_em": "28/02/1964", 
+      "area": "522,169 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "28.737 hab."
+    }
+  }
+,
+  {
+    "Jundiaí": {
+      "instalado_em": "01/01/1939", 
+      "area": "431,207 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "370.126 hab."
+    }
+  }
+,
+  {
+    "Junqueirópolis": {
+      "instalado_em": "01/01/1949", 
+      "area": "582,565 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "18.726 hab."
+    }
+  }
+,
+  {
+    "Lagoinha": {
+      "instalado_em": "01/01/1954", 
+      "area": "255,472 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.841 hab."
+    }
+  }
+,
+  {
+    "Laranjal Paulista": {
+      "instalado_em": "01/01/1939", 
+      "area": "384,274 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "25.251 hab."
+    }
+  }
+,
+  {
+    "Lavrinhas": {
+      "instalado_em": "01/01/1945", 
+      "area": "167,067 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "6.590 hab."
+    }
+  }
+,
+  {
+    "Leme": {
+      "instalado_em": "01/01/1939", 
+      "area": "402,873 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "91.756 hab."
+    }
+  }
+,
+  {
+    "Lençóis Paulista": {
+      "instalado_em": "01/01/1939", 
+      "area": "809,541 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "61.428 hab."
+    }
+  }
+,
+  {
+    "Juquiá": {
+      "instalado_em": "01/01/1949", 
+      "area": "812,799 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "19.246 hab."
+    }
+  }
+,
+  {
+    "Limeira": {
+      "instalado_em": "01/01/1939", 
+      "area": "580,711 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "276.022 hab."
+    }
+  }
+,
+  {
+    "Lins": {
+      "instalado_em": "01/01/1939", 
+      "area": "570,058 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "71.432 hab."
+    }
+  }
+,
+  {
+    "Lavínia": {
+      "instalado_em": "01/01/1945", 
+      "area": "537,674 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.779 hab."
+    }
+  }
+,
+  {
+    "Lorena": {
+      "instalado_em": "01/01/1939", 
+      "area": "414,160 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "82.537 hab."
+    }
+  }
+,
+  {
+    "Lucianópolis": {
+      "instalado_em": "01/01/1954", 
+      "area": "189,654 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "2.249 hab."
+    }
+  }
+,
+  {
+    "Lucélia": {
+      "instalado_em": "01/01/1945", 
+      "area": "314,810 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "19.882 hab."
+    }
+  }
+,
+  {
+    "Luís Antônio": {
+      "instalado_em": "18/02/1959", 
+      "area": "598,257 km", 
+      "bioma": "Cerrado", 
+      "populacao": "11.286 hab."
+    }
+  }
+,
+  {
+    "Luiziânia": {
+      "instalado_em": "18/02/1959", 
+      "area": "166,577 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.030 hab."
+    }
+  }
+,
+  {
+    "Lupércio": {
+      "instalado_em": "01/01/1954", 
+      "area": "154,908 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "4.353 hab."
+    }
+  }
+,
+  {
+    "Lutécia": {
+      "instalado_em": "01/01/1945", 
+      "area": "475,226 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "2.714 hab."
+    }
+  }
+,
+  {
+    "Lourdes": {
+      "instalado_em": "01/01/1993", 
+      "area": "113,940 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.128 hab."
+    }
+  }
+,
+  {
+    "Macatuba": {
+      "instalado_em": "01/01/1939", 
+      "area": "224,514 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "16.259 hab."
+    }
+  }
+,
+  {
+    "Louveira": {
+      "instalado_em": "28/02/1964", 
+      "area": "55,133 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "37.125 hab."
+    }
+  }
+,
+  {
+    "Macaubal": {
+      "instalado_em": "01/01/1949", 
+      "area": "248,125 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.663 hab."
+    }
+  }
+,
+  {
+    "Magda": {
+      "instalado_em": "01/01/1954", 
+      "area": "312,282 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "3.200 hab."
+    }
+  }
+,
+  {
+    "Mairinque": {
+      "instalado_em": "18/02/1959", 
+      "area": "210,149 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "43.223 hab."
+    }
+  }
+,
+  {
+    "Mairiporã": {
+      "instalado_em": "01/01/1939", 
+      "area": "320,697 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "80.956 hab."
+    }
+  }
+,
+  {
+    "Manduri": {
+      "instalado_em": "01/01/1945", 
+      "area": "229,053 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "8.992 hab."
+    }
+  }
+,
+  {
+    "Maracaí": {
+      "instalado_em": "01/01/1939", 
+      "area": "533,857 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "13.332 hab."
+    }
+  }
+,
+  {
+    "Marapoama": {
+      "instalado_em": "01/01/1993", 
+      "area": "111,267 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.633 hab."
+    }
+  }
+,
+  {
+    "Marília": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.170,174 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "216.745 hab."
+    }
+  }
+,
+  {
+    "Marinópolis": {
+      "instalado_em": "28/02/1964", 
+      "area": "77,827 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.113 hab."
+    }
+  }
+,
+  {
+    "Lindóia": {
+      "instalado_em": "28/02/1964", 
+      "area": "48,756 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "6.712 hab."
+    }
+  }
+,
+  {
+    "Martinópolis": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.253,564 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "24.219 hab."
+    }
+  }
+,
+  {
+    "Macedônia": {
+      "instalado_em": "28/02/1964", 
+      "area": "327,636 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.664 hab."
+    }
+  }
+,
+  {
+    "Matão": {
+      "instalado_em": "01/01/1939", 
+      "area": "524,899 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "76.786 hab."
+    }
+  }
+,
+  {
+    "Marabá Paulista": {
+      "instalado_em": "01/01/1954", 
+      "area": "919,519 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.812 hab."
+    }
+  }
+,
+  {
+    "Mendonça": {
+      "instalado_em": "18/02/1959", 
+      "area": "195,159 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.640 hab."
+    }
+  }
+,
+  {
+    "Mauá": {
+      "instalado_em": "01/01/1954", 
+      "area": "61,909 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "417.064 hab."
+    }
+  }
+,
+  {
+    "Mesópolis": {
+      "instalado_em": "01/01/1993", 
+      "area": "149,016 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.886 hab."
+    }
+  }
+,
+  {
+    "Mariápolis": {
+      "instalado_em": "01/01/1954", 
+      "area": "186,544 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.916 hab."
+    }
+  }
+,
+  {
+    "Miguelópolis": {
+      "instalado_em": "01/01/1945", 
+      "area": "820,801 km", 
+      "bioma": "Cerrado", 
+      "populacao": "20.451 hab."
+    }
+  }
+,
+  {
+    "Meridiano": {
+      "instalado_em": "18/02/1959", 
+      "area": "228,532 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "3.855 hab."
+    }
+  }
+,
+  {
+    "Mineiros do Tietê": {
+      "instalado_em": "01/01/1939", 
+      "area": "213,242 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "12.038 hab."
+    }
+  }
+,
+  {
+    "Mira Estrela": {
+      "instalado_em": "28/02/1964", 
+      "area": "216,830 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.820 hab."
+    }
+  }
+,
+  {
+    "Miracatu": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.001,484 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "20.592 hab."
+    }
+  }
+,
+  {
+    "Mirandópolis": {
+      "instalado_em": "01/01/1945", 
+      "area": "917,694 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "27.483 hab."
+    }
+  }
+,
+  {
+    "Mirassol": {
+      "instalado_em": "01/01/1939", 
+      "area": "243,228 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "53.792 hab."
+    }
+  }
+,
+  {
+    "Mirassolândia": {
+      "instalado_em": "18/02/1959", 
+      "area": "166,161 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.295 hab."
+    }
+  }
+,
+  {
+    "Mirante do Paranapanema": {
+      "instalado_em": "01/01/1954", 
+      "area": "1.238,931 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "17.059 hab."
+    }
+  }
+,
+  {
+    "Mogi das Cruzes": {
+      "instalado_em": "01/01/1939", 
+      "area": "712,541 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "387.779 hab."
+    }
+  }
+,
+  {
+    "Mococa": {
+      "instalado_em": "01/01/1939", 
+      "area": "854,840 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "66.290 hab."
+    }
+  }
+,
+  {
+    "Mogi Mirim": {
+      "instalado_em": "01/01/1939", 
+      "area": "497,708 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "86.505 hab."
+    }
+  }
+,
+  {
+    "Mogi Guaçu": {
+      "instalado_em": "01/01/1939", 
+      "area": "812,753 km", 
+      "bioma": "Cerrado", 
+      "populacao": "137.245 hab."
+    }
+  }
+,
+  {
+    "Mombuca": {
+      "instalado_em": "28/02/1964", 
+      "area": "133,698 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.266 hab."
+    }
+  }
+,
+  {
+    "Monções": {
+      "instalado_em": "28/02/1964", 
+      "area": "104,429 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.132 hab."
+    }
+  }
+,
+  {
+    "Monte Alegre do Sul": {
+      "instalado_em": "01/01/1949", 
+      "area": "110,306 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.152 hab."
+    }
+  }
+,
+  {
+    "Monte Azul Paulista": {
+      "instalado_em": "01/01/1939", 
+      "area": "263,462 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "18.931 hab."
+    }
+  }
+,
+  {
+    "Monte Aprazível": {
+      "instalado_em": "01/01/1939", 
+      "area": "495,453 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "21.746 hab."
+    }
+  }
+,
+  {
+    "Monteiro Lobato": {
+      "instalado_em": "01/01/1949", 
+      "area": "332,742 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.120 hab."
+    }
+  }
+,
+  {
+    "Monte Mor": {
+      "instalado_em": "01/01/1939", 
+      "area": "240,566 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "48.949 hab."
+    }
+  }
+,
+  {
+    "Morungaba": {
+      "instalado_em": "28/02/1964", 
+      "area": "146,752 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "11.769 hab."
+    }
+  }
+,
+  {
+    "Motuca": {
+      "instalado_em": "01/01/1993", 
+      "area": "228,700 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.290 hab."
+    }
+  }
+,
+  {
+    "Mongaguá": {
+      "instalado_em": "18/02/1959", 
+      "area": "141,865 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "46.293 hab."
+    }
+  }
+,
+  {
+    "Murutinga do Sul": {
+      "instalado_em": "01/01/1954", 
+      "area": "250,873 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.186 hab."
+    }
+  }
+,
+  {
+    "Monte Alto": {
+      "instalado_em": "01/01/1939", 
+      "area": "346,950 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "46.642 hab."
+    }
+  }
+,
+  {
+    "Nantes": {
+      "instalado_em": "01/01/1997", 
+      "area": "286,647 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "2.707 hab."
+    }
+  }
+,
+  {
+    "Narandiba": {
+      "instalado_em": "28/02/1964", 
+      "area": "357,324 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.288 hab."
+    }
+  }
+,
+  {
+    "Monte Castelo": {
+      "instalado_em": "01/01/1954", 
+      "area": "233,547 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.063 hab."
+    }
+  }
+,
+  {
+    "Morro Agudo": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.388,127 km", 
+      "bioma": "Cerrado", 
+      "populacao": "29.116 hab."
+    }
+  }
+,
+  {
+    "Natividade da Serra": {
+      "instalado_em": "01/01/1939", 
+      "area": "833,372 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "6.678 hab."
+    }
+  }
+,
+  {
+    "Nazaré Paulista": {
+      "instalado_em": "01/01/1939", 
+      "area": "326,254 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "16.414 hab."
+    }
+  }
+,
+  {
+    "Nhandeara": {
+      "instalado_em": "01/01/1945", 
+      "area": "435,771 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "10.725 hab."
+    }
+  }
+,
+  {
+    "Neves Paulista": {
+      "instalado_em": "01/01/1945", 
+      "area": "219,050 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.772 hab."
+    }
+  }
+,
+  {
+    "Nipoã": {
+      "instalado_em": "01/01/1954", 
+      "area": "137,609 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.274 hab."
+    }
+  }
+,
+  {
+    "Nova Castilho": {
+      "instalado_em": "01/01/1997", 
+      "area": "183,396 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.125 hab."
+    }
+  }
+,
+  {
+    "Nova Europa": {
+      "instalado_em": "01/01/1954", 
+      "area": "160,250 km", 
+      "bioma": "Cerrado", 
+      "populacao": "9.300 hab."
+    }
+  }
+,
+  {
+    "Nova Granada": {
+      "instalado_em": "01/01/1939", 
+      "area": "531,884 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "19.180 hab."
+    }
+  }
+,
+  {
+    "Nova Independência": {
+      "instalado_em": "28/02/1964", 
+      "area": "265,029 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.068 hab."
+    }
+  }
+,
+  {
+    "Nova Campina": {
+      "instalado_em": "01/01/1993", 
+      "area": "385,375 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "8.515 hab."
+    }
+  }
+,
+  {
+    "Nova Luzitânia": {
+      "instalado_em": "28/02/1964", 
+      "area": "73,816 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.441 hab."
+    }
+  }
+,
+  {
+    "Nova Canaã Paulista": {
+      "instalado_em": "01/01/1993", 
+      "area": "124,473 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.114 hab."
+    }
+  }
+,
+  {
+    "Nova Aliança": {
+      "instalado_em": "01/01/1945", 
+      "area": "217,545 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.891 hab."
+    }
+  }
+,
+  {
+    "Nova Odessa": {
+      "instalado_em": "18/02/1959", 
+      "area": "73,788 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "51.242 hab."
+    }
+  }
+,
+  {
+    "Nuporanga": {
+      "instalado_em": "01/01/1939", 
+      "area": "348,265 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.817 hab."
+    }
+  }
+,
+  {
+    "Nova Guataporanga": {
+      "instalado_em": "18/02/1959", 
+      "area": "34,158 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.177 hab."
+    }
+  }
+,
+  {
+    "Óleo": {
+      "instalado_em": "01/01/1939", 
+      "area": "198,136 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "2.673 hab."
+    }
+  }
+,
+  {
+    "Ocauçu": {
+      "instalado_em": "18/02/1959", 
+      "area": "300,465 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "4.163 hab."
+    }
+  }
+,
+  {
+    "Onda Verde": {
+      "instalado_em": "28/02/1964", 
+      "area": "242,308 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "3.884 hab."
+    }
+  }
+,
+  {
+    "Orindiúva": {
+      "instalado_em": "28/02/1964", 
+      "area": "248,108 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "5.675 hab."
+    }
+  }
+,
+  {
+    "Osasco": {
+      "instalado_em": "18/12/1959", 
+      "area": "64,954 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "666.740 hab."
+    }
+  }
+,
+  {
+    "Oscar Bressane": {
+      "instalado_em": "01/01/1949", 
+      "area": "221,950 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "2.537 hab."
+    }
+  }
+,
+  {
+    "Novo Horizonte": {
+      "instalado_em": "01/01/1939", 
+      "area": "931,668 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "36.593 hab."
+    }
+  }
+,
+  {
+    "Osvaldo Cruz": {
+      "instalado_em": "01/01/1945", 
+      "area": "248,125 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "30.917 hab."
+    }
+  }
+,
+  {
+    "Olímpia": {
+      "instalado_em": "01/01/1939", 
+      "area": "802,652 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "50.024 hab."
+    }
+  }
+,
+  {
+    "Novais": {
+      "instalado_em": "01/01/1993", 
+      "area": "117,772 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.592 hab."
+    }
+  }
+,
+  {
+    "Ourinhos": {
+      "instalado_em": "01/01/1939", 
+      "area": "295,820 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "103.035 hab."
+    }
+  }
+,
+  {
+    "Ouroeste": {
+      "instalado_em": "01/01/1997", 
+      "area": "288,648 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.405 hab."
+    }
+  }
+,
+  {
+    "Ouro Verde": {
+      "instalado_em": "01/01/1954", 
+      "area": "266,782 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.800 hab."
+    }
+  }
+,
+  {
+    "Oriente": {
+      "instalado_em": "01/01/1945", 
+      "area": "218,689 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "6.097 hab."
+    }
+  }
+,
+  {
+    "Pacaembu": {
+      "instalado_em": "01/01/1949", 
+      "area": "339,375 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "13.226 hab."
+    }
+  }
+,
+  {
+    "Orlândia": {
+      "instalado_em": "01/01/1939", 
+      "area": "291,765 km", 
+      "bioma": "Cerrado", 
+      "populacao": "39.781 hab."
+    }
+  }
+,
+  {
+    "Palmeira d`Oeste": {
+      "instalado_em": "18/02/1959", 
+      "area": "319,248 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "9.584 hab."
+    }
+  }
+,
+  {
+    "Palmares Paulista": {
+      "instalado_em": "28/02/1964", 
+      "area": "82,125 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.934 hab."
+    }
+  }
+,
+  {
+    "Palestina": {
+      "instalado_em": "01/01/1939", 
+      "area": "696,560 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "11.051 hab."
+    }
+  }
+,
+  {
+    "Panorama": {
+      "instalado_em": "01/01/1954", 
+      "area": "356,050 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "14.583 hab."
+    }
+  }
+,
+  {
+    "Paraguaçu Paulista": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.001,298 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "42.278 hab."
+    }
+  }
+,
+  {
+    "Palmital": {
+      "instalado_em": "01/01/1939", 
+      "area": "548,230 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "21.186 hab."
+    }
+  }
+,
+  {
+    "Paraíso": {
+      "instalado_em": "01/01/1954", 
+      "area": "155,186 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.898 hab."
+    }
+  }
+,
+  {
+    "Paranapanema": {
+      "instalado_em": "01/01/1945", 
+      "area": "1.018,724 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "17.808 hab."
+    }
+  }
+,
+  {
+    "Paraibuna": {
+      "instalado_em": "01/01/1939", 
+      "area": "809,576 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "17.388 hab."
+    }
+  }
+,
+  {
+    "Parapuã": {
+      "instalado_em": "01/01/1945", 
+      "area": "366,059 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.844 hab."
+    }
+  }
+,
+  {
+    "Pardinho": {
+      "instalado_em": "18/02/1959", 
+      "area": "209,894 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "5.582 hab."
+    }
+  }
+,
+  {
+    "Parisi": {
+      "instalado_em": "01/01/1993", 
+      "area": "84,522 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "2.032 hab."
+    }
+  }
+,
+  {
+    "Paulínia": {
+      "instalado_em": "28/02/1964", 
+      "area": "138,777 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "82.146 hab."
+    }
+  }
+,
+  {
+    "Paranapuã": {
+      "instalado_em": "28/02/1964", 
+      "area": "140,397 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.815 hab."
+    }
+  }
+,
+  {
+    "Paulicéia": {
+      "instalado_em": "01/01/1949", 
+      "area": "374,091 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "6.339 hab."
+    }
+  }
+,
+  {
+    "Paulistânia": {
+      "instalado_em": "01/01/1997", 
+      "area": "256,654 km", 
+      "bioma": "Cerrado", 
+      "populacao": "1.779 hab."
+    }
+  }
+,
+  {
+    "Pederneiras": {
+      "instalado_em": "01/01/1939", 
+      "area": "728,735 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "41.497 hab."
+    }
+  }
+,
+  {
+    "Pariquera-Açu": {
+      "instalado_em": "01/01/1954", 
+      "area": "359,351 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "18.446 hab."
+    }
+  }
+,
+  {
+    "Patrocínio Paulista": {
+      "instalado_em": "01/01/1939", 
+      "area": "602,848 km", 
+      "bioma": "Cerrado", 
+      "populacao": "13.000 hab."
+    }
+  }
+,
+  {
+    "Paulo de Faria": {
+      "instalado_em": "01/01/1939", 
+      "area": "738,404 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "8.589 hab."
+    }
+  }
+,
+  {
+    "Pedra Bela": {
+      "instalado_em": "28/02/1964", 
+      "area": "158,587 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.780 hab."
+    }
+  }
+,
+  {
+    "Pedreira": {
+      "instalado_em": "01/01/1939", 
+      "area": "108,817 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "41.558 hab."
+    }
+  }
+,
+  {
+    "Pedrinhas Paulista": {
+      "instalado_em": "01/01/1993", 
+      "area": "152,514 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.940 hab."
+    }
+  }
+,
+  {
+    "Pedro de Toledo": {
+      "instalado_em": "01/01/1949", 
+      "area": "670,440 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.204 hab."
+    }
+  }
+,
+  {
+    "Pereira Barreto": {
+      "instalado_em": "01/01/1939", 
+      "area": "974,247 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "24.962 hab."
+    }
+  }
+,
+  {
+    "Peruíbe": {
+      "instalado_em": "18/02/1959", 
+      "area": "324,549 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "59.773 hab."
+    }
+  }
+,
+  {
+    "Pedranópolis": {
+      "instalado_em": "28/02/1964", 
+      "area": "260,185 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.558 hab."
+    }
+  }
+,
+  {
+    "Penápolis": {
+      "instalado_em": "01/01/1939", 
+      "area": "711,354 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "58.510 hab."
+    }
+  }
+,
+  {
+    "Piacatu": {
+      "instalado_em": "01/01/1954", 
+      "area": "232,327 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.287 hab."
+    }
+  }
+,
+  {
+    "Pedregulho": {
+      "instalado_em": "01/01/1939", 
+      "area": "712,604 km", 
+      "bioma": "Cerrado", 
+      "populacao": "15.700 hab."
+    }
+  }
+,
+  {
+    "Pilar do Sul": {
+      "instalado_em": "01/01/1939", 
+      "area": "681,123 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "26.406 hab."
+    }
+  }
+,
+  {
+    "Pindamonhangaba": {
+      "instalado_em": "01/01/1939", 
+      "area": "729,998 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "146.995 hab."
+    }
+  }
+,
+  {
+    "Pereiras": {
+      "instalado_em": "01/01/1939", 
+      "area": "223,136 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.454 hab."
+    }
+  }
+,
+  {
+    "Pindorama": {
+      "instalado_em": "01/01/1939", 
+      "area": "184,825 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "15.039 hab."
+    }
+  }
+,
+  {
+    "Piquete": {
+      "instalado_em": "01/01/1939", 
+      "area": "175,996 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "14.107 hab."
+    }
+  }
+,
+  {
+    "Pinhalzinho": {
+      "instalado_em": "28/02/1964", 
+      "area": "154,530 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "13.105 hab."
+    }
+  }
+,
+  {
+    "Piquerobi": {
+      "instalado_em": "01/01/1949", 
+      "area": "482,770 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.537 hab."
+    }
+  }
+,
+  {
+    "Piedade": {
+      "instalado_em": "01/01/1939", 
+      "area": "746,868 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "52.143 hab."
+    }
+  }
+,
+  {
+    "Piracaia": {
+      "instalado_em": "01/01/1939", 
+      "area": "385,568 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "25.116 hab."
+    }
+  }
+,
+  {
+    "Piracicaba": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.378,069 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "364.571 hab."
+    }
+  }
+,
+  {
+    "Piraju": {
+      "instalado_em": "01/01/1939", 
+      "area": "504,500 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "28.475 hab."
+    }
+  }
+,
+  {
+    "Pirajuí": {
+      "instalado_em": "01/01/1939", 
+      "area": "823,350 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "22.704 hab."
+    }
+  }
+,
+  {
+    "Pirapora do Bom Jesus": {
+      "instalado_em": "18/02/1959", 
+      "area": "108,489 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "15.733 hab."
+    }
+  }
+,
+  {
+    "Pirapozinho": {
+      "instalado_em": "01/01/1949", 
+      "area": "477,673 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "24.694 hab."
+    }
+  }
+,
+  {
+    "Piratininga": {
+      "instalado_em": "01/01/1939", 
+      "area": "402,409 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "12.072 hab."
+    }
+  }
+,
+  {
+    "Pirangi": {
+      "instalado_em": "01/01/1939", 
+      "area": "215,809 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.623 hab."
+    }
+  }
+,
+  {
+    "Planalto": {
+      "instalado_em": "01/01/1949", 
+      "area": "289,799 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.463 hab."
+    }
+  }
+,
+  {
+    "Poá": {
+      "instalado_em": "01/01/1949", 
+      "area": "17,264 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "106.013 hab."
+    }
+  }
+,
+  {
+    "Pirassununga": {
+      "instalado_em": "01/01/1939", 
+      "area": "727,118 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "70.081 hab."
+    }
+  }
+,
+  {
+    "Poloni": {
+      "instalado_em": "01/01/1954", 
+      "area": "135,041 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.395 hab."
+    }
+  }
+,
+  {
+    "Pontal": {
+      "instalado_em": "01/01/1939", 
+      "area": "356,371 km", 
+      "bioma": "Cerrado", 
+      "populacao": "40.244 hab."
+    }
+  }
+,
+  {
+    "Populina": {
+      "instalado_em": "18/02/1959", 
+      "area": "315,938 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.223 hab."
+    }
+  }
+,
+  {
+    "Platina": {
+      "instalado_em": "01/01/1954", 
+      "area": "326,726 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "3.192 hab."
+    }
+  }
+,
+  {
+    "Pitangueiras": {
+      "instalado_em": "01/01/1939", 
+      "area": "430,638 km", 
+      "bioma": "Cerrado", 
+      "populacao": "35.307 hab."
+    }
+  }
+,
+  {
+    "Pompéia": {
+      "instalado_em": "01/01/1939", 
+      "area": "783,548 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "19.964 hab."
+    }
+  }
+,
+  {
+    "Pontes Gestal": {
+      "instalado_em": "28/02/1964", 
+      "area": "217,514 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "2.518 hab."
+    }
+  }
+,
+  {
+    "Pontalinda": {
+      "instalado_em": "01/01/1993", 
+      "area": "209,525 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.074 hab."
+    }
+  }
+,
+  {
+    "Porangaba": {
+      "instalado_em": "01/01/1939", 
+      "area": "265,689 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.326 hab."
+    }
+  }
+,
+  {
+    "Pongaí": {
+      "instalado_em": "01/01/1949", 
+      "area": "183,330 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.481 hab."
+    }
+  }
+,
+  {
+    "Porto Ferreira": {
+      "instalado_em": "01/01/1939", 
+      "area": "244,906 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "51.400 hab."
+    }
+  }
+,
+  {
+    "Potim": {
+      "instalado_em": "01/01/1993", 
+      "area": "44,468 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "19.397 hab."
+    }
+  }
+,
+  {
+    "Pracinha": {
+      "instalado_em": "01/01/1997", 
+      "area": "63,054 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.858 hab."
+    }
+  }
+,
+  {
+    "Potirendaba": {
+      "instalado_em": "01/01/1939", 
+      "area": "342,376 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "15.449 hab."
+    }
+  }
+,
+  {
+    "Pradópolis": {
+      "instalado_em": "28/02/1964", 
+      "area": "167,378 km", 
+      "bioma": "Cerrado", 
+      "populacao": "17.377 hab."
+    }
+  }
+,
+  {
+    "Praia Grande": {
+      "instalado_em": "28/02/1964", 
+      "area": "147,065 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "262.051 hab."
+    }
+  }
+,
+  {
+    "Pratânia": {
+      "instalado_em": "01/01/1997", 
+      "area": "175,100 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.599 hab."
+    }
+  }
+,
+  {
+    "Porto Feliz": {
+      "instalado_em": "01/01/1939", 
+      "area": "556,692 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "48.893 hab."
+    }
+  }
+,
+  {
+    "Presidente Alves": {
+      "instalado_em": "01/01/1939", 
+      "area": "286,874 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "4.123 hab."
+    }
+  }
+,
+  {
+    "Presidente Epitácio": {
+      "instalado_em": "01/01/1949", 
+      "area": "1.260,281 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "41.318 hab."
+    }
+  }
+,
+  {
+    "Presidente Bernardes": {
+      "instalado_em": "01/01/1939", 
+      "area": "749,234 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "13.570 hab."
+    }
+  }
+,
+  {
+    "Presidente Prudente": {
+      "instalado_em": "01/01/1939", 
+      "area": "560,637 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "207.610 hab."
+    }
+  }
+,
+  {
+    "Quadra": {
+      "instalado_em": "01/01/1997", 
+      "area": "205,672 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.236 hab."
+    }
+  }
+,
+  {
+    "Promissão": {
+      "instalado_em": "01/01/1939", 
+      "area": "779,906 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "35.674 hab."
+    }
+  }
+,
+  {
+    "Presidente Venceslau": {
+      "instalado_em": "01/01/1939", 
+      "area": "755,199 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "37.910 hab."
+    }
+  }
+,
+  {
+    "Quatá": {
+      "instalado_em": "01/01/1939", 
+      "area": "650,715 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "12.799 hab."
+    }
+  }
+,
+  {
+    "Queiroz": {
+      "instalado_em": "28/02/1964", 
+      "area": "234,914 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.808 hab."
+    }
+  }
+,
+  {
+    "Queluz": {
+      "instalado_em": "01/01/1939", 
+      "area": "249,826 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "11.309 hab."
+    }
+  }
+,
+  {
+    "Rafard": {
+      "instalado_em": "18/02/1959", 
+      "area": "121,645 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.612 hab."
+    }
+  }
+,
+  {
+    "Quintana": {
+      "instalado_em": "01/01/1945", 
+      "area": "318,937 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "6.004 hab."
+    }
+  }
+,
+  {
+    "Redenção da Serra": {
+      "instalado_em": "01/01/1939", 
+      "area": "309,441 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.873 hab."
+    }
+  }
+,
+  {
+    "Regente Feijó": {
+      "instalado_em": "01/01/1939", 
+      "area": "263,280 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "18.494 hab."
+    }
+  }
+,
+  {
+    "Rancharia": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.586,264 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "28.804 hab."
+    }
+  }
+,
+  {
+    "Registro": {
+      "instalado_em": "01/01/1945", 
+      "area": "722,265 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "54.261 hab."
+    }
+  }
+,
+  {
+    "Ribeirão Bonito": {
+      "instalado_em": "01/01/1939", 
+      "area": "471,553 km", 
+      "bioma": "Cerrado", 
+      "populacao": "12.135 hab."
+    }
+  }
+,
+  {
+    "Reginópolis": {
+      "instalado_em": "01/01/1949", 
+      "area": "410,816 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "7.323 hab."
+    }
+  }
+,
+  {
+    "Restinga": {
+      "instalado_em": "28/02/1964", 
+      "area": "245,746 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.587 hab."
+    }
+  }
+,
+  {
+    "Ribeirão Branco": {
+      "instalado_em": "01/01/1945", 
+      "area": "697,500 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "18.269 hab."
+    }
+  }
+,
+  {
+    "Ribeirão Corrente": {
+      "instalado_em": "28/02/1964", 
+      "area": "148,332 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.273 hab."
+    }
+  }
+,
+  {
+    "Ribeirão do Sul": {
+      "instalado_em": "28/02/1964", 
+      "area": "203,248 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "4.446 hab."
+    }
+  }
+,
+  {
+    "Ribeirão dos Índios": {
+      "instalado_em": "01/01/1997", 
+      "area": "196,446 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.187 hab."
+    }
+  }
+,
+  {
+    "Ribeirão Grande": {
+      "instalado_em": "01/01/1993", 
+      "area": "333,363 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.422 hab."
+    }
+  }
+,
+  {
+    "Rifaina": {
+      "instalado_em": "01/01/1949", 
+      "area": "162,508 km", 
+      "bioma": "Cerrado", 
+      "populacao": "3.436 hab."
+    }
+  }
+,
+  {
+    "Ribeirão Preto": {
+      "instalado_em": "01/01/1939", 
+      "area": "650,916 km", 
+      "bioma": "Cerrado", 
+      "populacao": "604.682 hab."
+    }
+  }
+,
+  {
+    "Ribeirão Pires": {
+      "instalado_em": "01/01/1954", 
+      "area": "99,075 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "113.068 hab."
+    }
+  }
+,
+  {
+    "Rinópolis": {
+      "instalado_em": "01/01/1945", 
+      "area": "358,311 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "9.935 hab."
+    }
+  }
+,
+  {
+    "Ribeira": {
+      "instalado_em": "01/01/1939", 
+      "area": "335,746 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.358 hab."
+    }
+  }
+,
+  {
+    "Riversul": {
+      "instalado_em": "01/01/1954", 
+      "area": "386,195 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "6.163 hab."
+    }
+  }
+,
+  {
+    "Rio Claro": {
+      "instalado_em": "01/01/1939", 
+      "area": "498,422 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "186.253 hab."
+    }
+  }
+,
+  {
+    "Rio Grande da Serra": {
+      "instalado_em": "28/02/1964", 
+      "area": "36,341 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "43.974 hab."
+    }
+  }
+,
+  {
+    "Riolândia": {
+      "instalado_em": "01/01/1954", 
+      "area": "631,902 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.575 hab."
+    }
+  }
+,
+  {
+    "Roseira": {
+      "instalado_em": "18/02/1959", 
+      "area": "130,654 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "9.599 hab."
+    }
+  }
+,
+  {
+    "Rio das Pedras": {
+      "instalado_em": "01/01/1939", 
+      "area": "226,657 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "29.501 hab."
+    }
+  }
+,
+  {
+    "Rosana": {
+      "instalado_em": "01/01/1993", 
+      "area": "744,010 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "19.691 hab."
+    }
+  }
+,
+  {
+    "Rincão": {
+      "instalado_em": "01/01/1949", 
+      "area": "316,639 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.414 hab."
+    }
+  }
+,
+  {
+    "Rubiácea": {
+      "instalado_em": "01/01/1949", 
+      "area": "236,530 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.729 hab."
+    }
+  }
+,
+  {
+    "Rubinéia": {
+      "instalado_em": "28/02/1964", 
+      "area": "242,877 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.862 hab."
+    }
+  }
+,
+  {
+    "Sagres": {
+      "instalado_em": "18/02/1959", 
+      "area": "147,935 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.395 hab."
+    }
+  }
+,
+  {
+    "Sales": {
+      "instalado_em": "18/02/1959", 
+      "area": "308,454 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.451 hab."
+    }
+  }
+,
+  {
+    "Salto": {
+      "instalado_em": "01/01/1939", 
+      "area": "133,057 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "105.516 hab."
+    }
+  }
+,
+  {
+    "Salto de Pirapora": {
+      "instalado_em": "01/01/1954", 
+      "area": "280,697 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "40.132 hab."
+    }
+  }
+,
+  {
+    "Saltinho": {
+      "instalado_em": "01/01/1993", 
+      "area": "99,738 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "7.059 hab."
+    }
+  }
+,
+  {
+    "Sabino": {
+      "instalado_em": "01/01/1954", 
+      "area": "305,285 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.217 hab."
+    }
+  }
+,
+  {
+    "Salto Grande": {
+      "instalado_em": "01/01/1939", 
+      "area": "188,374 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.787 hab."
+    }
+  }
+,
+  {
+    "Sandovalina": {
+      "instalado_em": "18/02/1959", 
+      "area": "455,856 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.699 hab."
+    }
+  }
+,
+  {
+    "Santa Adélia": {
+      "instalado_em": "01/01/1939", 
+      "area": "330,269 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "14.333 hab."
+    }
+  }
+,
+  {
+    "Santa Albertina": {
+      "instalado_em": "18/02/1959", 
+      "area": "272,471 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.723 hab."
+    }
+  }
+,
+  {
+    "Santa Bárbara d`Oeste": {
+      "instalado_em": "01/01/1939", 
+      "area": "271,030 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "180.009 hab."
+    }
+  }
+,
+  {
+    "Santa Branca": {
+      "instalado_em": "01/01/1939", 
+      "area": "272,238 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "13.763 hab."
+    }
+  }
+,
+  {
+    "Santa Clara d`Oeste": {
+      "instalado_em": "28/02/1964", 
+      "area": "183,458 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.084 hab."
+    }
+  }
+,
+  {
+    "Salmourão": {
+      "instalado_em": "18/02/1959", 
+      "area": "173,056 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.818 hab."
+    }
+  }
+,
+  {
+    "Santa Cruz da Conceição": {
+      "instalado_em": "01/01/1954", 
+      "area": "150,128 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "4.002 hab."
+    }
+  }
+,
+  {
+    "Santa Cruz da Esperança": {
+      "instalado_em": "01/01/1997", 
+      "area": "148,062 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "1.953 hab."
+    }
+  }
+,
+  {
+    "Salesópolis": {
+      "instalado_em": "01/01/1939", 
+      "area": "424,997 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "15.635 hab."
+    }
+  }
+,
+  {
+    "Santa Cruz do Rio Pardo": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.114,984 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "43.921 hab."
+    }
+  }
+,
+  {
+    "Santa Ernestina": {
+      "instalado_em": "28/02/1964", 
+      "area": "134,421 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.568 hab."
+    }
+  }
+,
+  {
+    "Santa Fé do Sul": {
+      "instalado_em": "01/01/1954", 
+      "area": "206,537 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "29.239 hab."
+    }
+  }
+,
+  {
+    "Santa Gertrudes": {
+      "instalado_em": "01/01/1949", 
+      "area": "98,291 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "21.634 hab."
+    }
+  }
+,
+  {
+    "Santa Lúcia": {
+      "instalado_em": "18/02/1959", 
+      "area": "154,033 km", 
+      "bioma": "Cerrado", 
+      "populacao": "8.248 hab."
+    }
+  }
+,
+  {
+    "Santa Maria da Serra": {
+      "instalado_em": "18/02/1959", 
+      "area": "252,621 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.413 hab."
+    }
+  }
+,
+  {
+    "Santa Mercedes": {
+      "instalado_em": "01/01/1954", 
+      "area": "166,753 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.831 hab."
+    }
+  }
+,
+  {
+    "Sales Oliveira": {
+      "instalado_em": "01/01/1945", 
+      "area": "305,776 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.568 hab."
+    }
+  }
+,
+  {
+    "Santa Rita do Passa Quatro": {
+      "instalado_em": "01/01/1939", 
+      "area": "754,141 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "26.478 hab."
+    }
+  }
+,
+  {
+    "Santa Cruz das Palmeiras": {
+      "instalado_em": "01/01/1939", 
+      "area": "295,337 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "29.932 hab."
+    }
+  }
+,
+  {
+    "Santa Rita d`Oeste": {
+      "instalado_em": "28/02/1964", 
+      "area": "209,800 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.543 hab."
+    }
+  }
+,
+  {
+    "Santana da Ponte Pensa": {
+      "instalado_em": "28/02/1964", 
+      "area": "129,888 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.641 hab."
+    }
+  }
+,
+  {
+    "Santa Isabel": {
+      "instalado_em": "01/01/1939", 
+      "area": "363,332 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "50.453 hab."
+    }
+  }
+,
+  {
+    "Santo André": {
+      "instalado_em": "01/01/1939", 
+      "area": "175,782 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "676.407 hab."
+    }
+  }
+,
+  {
+    "Santana de Parnaíba": {
+      "instalado_em": "01/01/1939", 
+      "area": "179,949 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "108.813 hab."
+    }
+  }
+,
+  {
+    "Santo Antônio da Alegria": {
+      "instalado_em": "01/01/1939", 
+      "area": "310,291 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "6.304 hab."
+    }
+  }
+,
+  {
+    "Santa Rosa de Viterbo": {
+      "instalado_em": "01/01/1939", 
+      "area": "288,576 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "23.862 hab."
+    }
+  }
+,
+  {
+    "Santo Antônio de Posse": {
+      "instalado_em": "01/01/1954", 
+      "area": "154,133 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "20.650 hab."
+    }
+  }
+,
+  {
+    "Santo Anastácio": {
+      "instalado_em": "01/01/1939", 
+      "area": "552,876 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "20.475 hab."
+    }
+  }
+,
+  {
+    "Santo Antônio do Aracanguá": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.308,190 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.626 hab."
+    }
+  }
+,
+  {
+    "Santo Antônio do Pinhal": {
+      "instalado_em": "18/02/1959", 
+      "area": "133,008 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "6.486 hab."
+    }
+  }
+,
+  {
+    "Santo Expedito": {
+      "instalado_em": "18/02/1959", 
+      "area": "94,465 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.803 hab."
+    }
+  }
+,
+  {
+    "Santópolis do Aguapeí": {
+      "instalado_em": "18/02/1959", 
+      "area": "128,026 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.277 hab."
+    }
+  }
+,
+  {
+    "Santos": {
+      "instalado_em": "01/01/1939", 
+      "area": "280,674 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "419.400 hab."
+    }
+  }
+,
+  {
+    "São Bento do Sapucaí": {
+      "instalado_em": "01/01/1939", 
+      "area": "252,579 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.468 hab."
+    }
+  }
+,
+  {
+    "São Bernardo do Campo": {
+      "instalado_em": "01/01/1945", 
+      "area": "409,508 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "765.463 hab."
+    }
+  }
+,
+  {
+    "Santo Antônio do Jardim": {
+      "instalado_em": "01/01/1954", 
+      "area": "109,956 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.943 hab."
+    }
+  }
+,
+  {
+    "São Carlos": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.136,907 km", 
+      "bioma": "Cerrado", 
+      "populacao": "221.950 hab."
+    }
+  }
+,
+  {
+    "São João da Boa Vista": {
+      "instalado_em": "01/01/1939", 
+      "area": "516,399 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "83.639 hab."
+    }
+  }
+,
+  {
+    "São João das Duas Pontes": {
+      "instalado_em": "28/02/1964", 
+      "area": "129,462 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.566 hab."
+    }
+  }
+,
+  {
+    "São João de Iracema": {
+      "instalado_em": "01/01/1993", 
+      "area": "178,396 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "1.780 hab."
+    }
+  }
+,
+  {
+    "São João do Pau d`Alho": {
+      "instalado_em": "18/02/1959", 
+      "area": "117,665 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.103 hab."
+    }
+  }
+,
+  {
+    "São José da Bela Vista": {
+      "instalado_em": "01/01/1949", 
+      "area": "276,952 km", 
+      "bioma": "Cerrado", 
+      "populacao": "8.406 hab."
+    }
+  }
+,
+  {
+    "São José do Rio Pardo": {
+      "instalado_em": "01/01/1939", 
+      "area": "419,237 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "51.900 hab."
+    }
+  }
+,
+  {
+    "São Caetano do Sul": {
+      "instalado_em": "01/01/1949", 
+      "area": "15,331 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "149.263 hab."
+    }
+  }
+,
+  {
+    "São José do Barreiro": {
+      "instalado_em": "01/01/1939", 
+      "area": "570,685 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.077 hab."
+    }
+  }
+,
+  {
+    "Santa Salete": {
+      "instalado_em": "01/01/1997", 
+      "area": "79,333 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.447 hab."
+    }
+  }
+,
+  {
+    "São Francisco": {
+      "instalado_em": "28/02/1964", 
+      "area": "75,617 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.793 hab."
+    }
+  }
+,
+  {
+    "São José do Rio Preto": {
+      "instalado_em": "01/01/1939", 
+      "area": "431,963 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "408.258 hab."
+    }
+  }
+,
+  {
+    "São Lourenço da Serra": {
+      "instalado_em": "01/01/1993", 
+      "area": "186,456 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "13.973 hab."
+    }
+  }
+,
+  {
+    "São José dos Campos": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.099,409 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "629.921 hab."
+    }
+  }
+,
+  {
+    "São Luís do Paraitinga": {
+      "instalado_em": "01/01/1939", 
+      "area": "617,315 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.397 hab."
+    }
+  }
+,
+  {
+    "São Joaquim da Barra": {
+      "instalado_em": "01/01/1939", 
+      "area": "410,863 km", 
+      "bioma": "Cerrado", 
+      "populacao": "46.512 hab."
+    }
+  }
+,
+  {
+    "São Pedro": {
+      "instalado_em": "01/01/1939", 
+      "area": "611,278 km", 
+      "bioma": "Cerrado", 
+      "populacao": "31.662 hab."
+    }
+  }
+,
+  {
+    "São Paulo": {
+      "instalado_em": "01/01/1939", 
+      "area": "1.521,110 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "11.253.503 hab."
+    }
+  }
+,
+  {
+    "São Pedro do Turvo": {
+      "instalado_em": "01/01/1939", 
+      "area": "731,221 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "7.198 hab."
+    }
+  }
+,
+  {
+    "São Sebastião da Grama": {
+      "instalado_em": "01/01/1939", 
+      "area": "252,380 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "12.099 hab."
+    }
+  }
+,
+  {
+    "São Simão": {
+      "instalado_em": "01/01/1939", 
+      "area": "617,252 km", 
+      "bioma": "Cerrado", 
+      "populacao": "14.346 hab."
+    }
+  }
+,
+  {
+    "São Vicente": {
+      "instalado_em": "01/01/1939", 
+      "area": "147,893 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "332.445 hab."
+    }
+  }
+,
+  {
+    "Sarapuí": {
+      "instalado_em": "01/01/1939", 
+      "area": "352,529 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "9.027 hab."
+    }
+  }
+,
+  {
+    "Serra Azul": {
+      "instalado_em": "01/01/1939", 
+      "area": "283,144 km", 
+      "bioma": "Cerrado", 
+      "populacao": "11.256 hab."
+    }
+  }
+,
+  {
+    "São Manuel": {
+      "instalado_em": "01/01/1939", 
+      "area": "650,734 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "38.342 hab."
+    }
+  }
+,
+  {
+    "São Miguel Arcanjo": {
+      "instalado_em": "01/01/1939", 
+      "area": "930,339 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "31.450 hab."
+    }
+  }
+,
+  {
+    "Serrana": {
+      "instalado_em": "01/01/1949", 
+      "area": "126,046 km", 
+      "bioma": "Cerrado", 
+      "populacao": "38.878 hab."
+    }
+  }
+,
+  {
+    "Serra Negra": {
+      "instalado_em": "01/01/1939", 
+      "area": "203,736 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "26.387 hab."
+    }
+  }
+,
+  {
+    "Sarutaiá": {
+      "instalado_em": "18/02/1959", 
+      "area": "141,608 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.622 hab."
+    }
+  }
+,
+  {
+    "Sebastianópolis do Sul": {
+      "instalado_em": "28/02/1964", 
+      "area": "167,805 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "3.031 hab."
+    }
+  }
+,
+  {
+    "Sertãozinho": {
+      "instalado_em": "01/01/1939", 
+      "area": "403,089 km", 
+      "bioma": "Cerrado", 
+      "populacao": "110.074 hab."
+    }
+  }
+,
+  {
+    "Sete Barras": {
+      "instalado_em": "18/02/1959", 
+      "area": "1.062,699 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "13.005 hab."
+    }
+  }
+,
+  {
+    "Silveiras": {
+      "instalado_em": "01/01/1939", 
+      "area": "414,782 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.792 hab."
+    }
+  }
+,
+  {
+    "São Roque": {
+      "instalado_em": "01/01/1939", 
+      "area": "306,908 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "78.821 hab."
+    }
+  }
+,
+  {
+    "Sorocaba": {
+      "instalado_em": "01/01/1939", 
+      "area": "450,382 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "586.625 hab."
+    }
+  }
+,
+  {
+    "Sumaré": {
+      "instalado_em": "01/01/1954", 
+      "area": "153,465 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "241.311 hab."
+    }
+  }
+,
+  {
+    "Sud Mennucci": {
+      "instalado_em": "18/02/1959", 
+      "area": "594,744 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.435 hab."
+    }
+  }
+,
+  {
+    "Suzanápolis": {
+      "instalado_em": "01/01/1993", 
+      "area": "330,587 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.383 hab."
+    }
+  }
+,
+  {
+    "Suzano": {
+      "instalado_em": "01/01/1949", 
+      "area": "206,236 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "262.480 hab."
+    }
+  }
+,
+  {
+    "Tabapuã": {
+      "instalado_em": "01/01/1939", 
+      "area": "345,581 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "11.363 hab."
+    }
+  }
+,
+  {
+    "Tabatinga": {
+      "instalado_em": "01/01/1939", 
+      "area": "368,604 km", 
+      "bioma": "Cerrado", 
+      "populacao": "14.686 hab."
+    }
+  }
+,
+  {
+    "Taboão da Serra": {
+      "instalado_em": "18/02/1959", 
+      "area": "20,388 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "244.528 hab."
+    }
+  }
+,
+  {
+    "Taguaí": {
+      "instalado_em": "18/02/1959", 
+      "area": "145,332 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.828 hab."
+    }
+  }
+,
+  {
+    "Severínia": {
+      "instalado_em": "01/01/1954", 
+      "area": "140,460 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "15.501 hab."
+    }
+  }
+,
+  {
+    "Taiúva": {
+      "instalado_em": "01/01/1949", 
+      "area": "132,459 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "5.447 hab."
+    }
+  }
+,
+  {
+    "Taciba": {
+      "instalado_em": "01/01/1954", 
+      "area": "607,266 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "5.714 hab."
+    }
+  }
+,
+  {
+    "Tapiraí": {
+      "instalado_em": "18/02/1959", 
+      "area": "755,100 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.012 hab."
+    }
+  }
+,
+  {
+    "Taiaçu": {
+      "instalado_em": "01/01/1954", 
+      "area": "107,059 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "5.894 hab."
+    }
+  }
+,
+  {
+    "Taquaritinga": {
+      "instalado_em": "01/01/1939", 
+      "area": "594,335 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "53.988 hab."
+    }
+  }
+,
+  {
+    "Taquarivaí": {
+      "instalado_em": "01/01/1993", 
+      "area": "231,792 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "5.151 hab."
+    }
+  }
+,
+  {
+    "Tanabi": {
+      "instalado_em": "01/01/1939", 
+      "area": "747,249 km", 
+      "bioma": "Cerrado", 
+      "populacao": "24.055 hab."
+    }
+  }
+,
+  {
+    "Tapiratiba": {
+      "instalado_em": "01/01/1939", 
+      "area": "222,541 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "12.737 hab."
+    }
+  }
+,
+  {
+    "Tarumã": {
+      "instalado_em": "01/01/1993", 
+      "area": "303,157 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "12.885 hab."
+    }
+  }
+,
+  {
+    "Tarabai": {
+      "instalado_em": "18/02/1959", 
+      "area": "201,385 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "6.607 hab."
+    }
+  }
+,
+  {
+    "Taquaral": {
+      "instalado_em": "01/01/1997", 
+      "area": "53,892 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.726 hab."
+    }
+  }
+,
+  {
+    "Tatuí": {
+      "instalado_em": "01/01/1939", 
+      "area": "523,749 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "107.326 hab."
+    }
+  }
+,
+  {
+    "Taquarituba": {
+      "instalado_em": "01/01/1939", 
+      "area": "448,429 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "22.291 hab."
+    }
+  }
+,
+  {
+    "Taubaté": {
+      "instalado_em": "01/01/1939", 
+      "area": "625,003 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "278.686 hab."
+    }
+  }
+,
+  {
+    "Teodoro Sampaio": {
+      "instalado_em": "28/02/1964", 
+      "area": "1.555,803 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "21.386 hab."
+    }
+  }
+,
+  {
+    "Terra Roxa": {
+      "instalado_em": "01/01/1949", 
+      "area": "221,541 km", 
+      "bioma": "Cerrado", 
+      "populacao": "8.505 hab."
+    }
+  }
+,
+  {
+    "Tietê": {
+      "instalado_em": "01/01/1939", 
+      "area": "404,396 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "36.835 hab."
+    }
+  }
+,
+  {
+    "Torrinha": {
+      "instalado_em": "01/01/1939", 
+      "area": "315,266 km", 
+      "bioma": "Cerrado", 
+      "populacao": "9.330 hab."
+    }
+  }
+,
+  {
+    "Torre de Pedra": {
+      "instalado_em": "01/01/1993", 
+      "area": "71,348 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.254 hab."
+    }
+  }
+,
+  {
+    "Trabiju": {
+      "instalado_em": "01/01/1997", 
+      "area": "63,421 km", 
+      "bioma": "Cerrado", 
+      "populacao": "1.544 hab."
+    }
+  }
+,
+  {
+    "Tejupá": {
+      "instalado_em": "28/02/1964", 
+      "area": "296,276 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "4.809 hab."
+    }
+  }
+,
+  {
+    "Timburi": {
+      "instalado_em": "01/01/1949", 
+      "area": "196,790 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.646 hab."
+    }
+  }
+,
+  {
+    "Socorro": {
+      "instalado_em": "01/01/1939", 
+      "area": "449,029 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "36.686 hab."
+    }
+  }
+,
+  {
+    "Tupã": {
+      "instalado_em": "01/01/1939", 
+      "area": "628,126 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "63.476 hab."
+    }
+  }
+,
+  {
+    "Tuiuti": {
+      "instalado_em": "01/01/1993", 
+      "area": "126,731 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.930 hab."
+    }
+  }
+,
+  {
+    "Tambaú": {
+      "instalado_em": "01/01/1939", 
+      "area": "561,788 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "22.406 hab."
+    }
+  }
+,
+  {
+    "Tremembé": {
+      "instalado_em": "01/01/1939", 
+      "area": "191,094 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "40.984 hab."
+    }
+  }
+,
+  {
+    "Tupi Paulista": {
+      "instalado_em": "01/01/1949", 
+      "area": "244,770 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "14.269 hab."
+    }
+  }
+,
+  {
+    "Ubarana": {
+      "instalado_em": "01/01/1993", 
+      "area": "209,836 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.289 hab."
+    }
+  }
+,
+  {
+    "Ubatuba": {
+      "instalado_em": "01/01/1939", 
+      "area": "723,883 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "78.801 hab."
+    }
+  }
+,
+  {
+    "Três Fronteiras": {
+      "instalado_em": "18/02/1959", 
+      "area": "151,594 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.427 hab."
+    }
+  }
+,
+  {
+    "Turmalina": {
+      "instalado_em": "28/02/1964", 
+      "area": "147,797 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.978 hab."
+    }
+  }
+,
+  {
+    "Ubirajara": {
+      "instalado_em": "01/01/1949", 
+      "area": "282,409 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "4.427 hab."
+    }
+  }
+,
+  {
+    "Uchoa": {
+      "instalado_em": "01/01/1939", 
+      "area": "252,461 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "9.471 hab."
+    }
+  }
+,
+  {
+    "União Paulista": {
+      "instalado_em": "28/02/1964", 
+      "area": "78,856 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.599 hab."
+    }
+  }
+,
+  {
+    "Urupês": {
+      "instalado_em": "01/01/1939", 
+      "area": "323,745 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "12.714 hab."
+    }
+  }
+,
+  {
+    "Valentim Gentil": {
+      "instalado_em": "01/01/1949", 
+      "area": "149,788 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "11.036 hab."
+    }
+  }
+,
+  {
+    "Valinhos": {
+      "instalado_em": "01/01/1954", 
+      "area": "148,538 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "106.793 hab."
+    }
+  }
+,
+  {
+    "Turiúba": {
+      "instalado_em": "18/02/1959", 
+      "area": "153,315 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.930 hab."
+    }
+  }
+,
+  {
+    "Vargem": {
+      "instalado_em": "01/01/1993", 
+      "area": "142,597 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.801 hab."
+    }
+  }
+,
+  {
+    "Vargem Grande do Sul": {
+      "instalado_em": "01/01/1939", 
+      "area": "267,178 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "39.266 hab."
+    }
+  }
+,
+  {
+    "Várzea Paulista": {
+      "instalado_em": "28/02/1964", 
+      "area": "35,120 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "107.089 hab."
+    }
+  }
+,
+  {
+    "Urânia": {
+      "instalado_em": "18/02/1959", 
+      "area": "208,967 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "8.836 hab."
+    }
+  }
+,
+  {
+    "Vista Alegre do Alto": {
+      "instalado_em": "18/02/1959", 
+      "area": "95,429 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "6.886 hab."
+    }
+  }
+,
+  {
+    "Vargem Grande Paulista": {
+      "instalado_em": "01/02/1983", 
+      "area": "42,489 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "42.997 hab."
+    }
+  }
+,
+  {
+    "Viradouro": {
+      "instalado_em": "01/01/1939", 
+      "area": "217,726 km", 
+      "bioma": "Cerrado", 
+      "populacao": "17.297 hab."
+    }
+  }
+,
+  {
+    "Vinhedo": {
+      "instalado_em": "01/01/1949", 
+      "area": "81,604 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "63.611 hab."
+    }
+  }
+,
+  {
+    "Votuporanga": {
+      "instalado_em": "01/01/1945", 
+      "area": "421,096 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "84.692 hab."
+    }
+  }
+,
+  {
+    "Uru": {
+      "instalado_em": "01/01/1954", 
+      "area": "146,965 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.251 hab."
+    }
+  }
+,
+  {
+    "Zacarias": {
+      "instalado_em": "01/01/1993", 
+      "area": "318,962 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "2.335 hab."
+    }
+  }
+,
+  {
+    "Vitória Brasil": {
+      "instalado_em": "01/01/1997", 
+      "area": "49,832 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "1.737 hab."
+    }
+  }
+,
+  {
+    "Vera Cruz": {
+      "instalado_em": "01/01/1939", 
+      "area": "247,779 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.769 hab."
+    }
+  }
+,
+  {
+    "São Sebastião": {
+      "instalado_em": "01/01/1939", 
+      "area": "399,679 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "73.942 hab."
+    }
+  }
+,
+  {
+    "Votorantim": {
+      "instalado_em": "28/02/1964", 
+      "area": "183,517 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "108.809 hab."
+    }
+  }
+,
+  {
+    "Valparaíso": {
+      "instalado_em": "01/01/1939", 
+      "area": "857,661 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "22.576 hab."
+    }
+  }
+]

@@ -1,0 +1,469 @@
+[
+  {
+    "Alto Alegre dos Parecis": {
+      "instalado_em": "01/01/1997", 
+      "area": "3.958,273 km", 
+      "bioma": "Amazônia", 
+      "populacao": "12.816 hab."
+    }
+  }
+,
+  {
+    "Alto Paraíso": {
+      "instalado_em": "01/01/1993", 
+      "area": "2.651,822 km", 
+      "bioma": "Amazônia", 
+      "populacao": "17.135 hab."
+    }
+  }
+,
+  {
+    "Alta Floresta d`Oeste": {
+      "instalado_em": "31/12/1986", 
+      "area": "7.067,025 km", 
+      "bioma": "Amazônia", 
+      "populacao": "24.392 hab."
+    }
+  }
+,
+  {
+    "Cacoal": {
+      "instalado_em": "21/11/1977", 
+      "area": "3.792,948 km", 
+      "bioma": "Amazônia", 
+      "populacao": "78.574 hab."
+    }
+  }
+,
+  {
+    "Campo Novo de Rondônia": {
+      "instalado_em": "01/01/1993", 
+      "area": "3.442,005 km", 
+      "bioma": "Amazônia", 
+      "populacao": "12.665 hab."
+    }
+  }
+,
+  {
+    "Candeias do Jamari": {
+      "instalado_em": "01/01/1993", 
+      "area": "6.843,868 km", 
+      "bioma": "Amazônia", 
+      "populacao": "19.779 hab."
+    }
+  }
+,
+  {
+    "Cerejeiras": {
+      "instalado_em": "30/12/1984", 
+      "area": "2.783,300 km", 
+      "bioma": "Amazônia", 
+      "populacao": "17.029 hab."
+    }
+  }
+,
+  {
+    "Chupinguaia": {
+      "instalado_em": "01/01/1997", 
+      "area": "5.126,723 km", 
+      "bioma": "Amazônia", 
+      "populacao": "8.301 hab."
+    }
+  }
+,
+  {
+    "Colorado do Oeste": {
+      "instalado_em": "06/10/1983", 
+      "area": "1.451,060 km", 
+      "bioma": "Amazônia", 
+      "populacao": "18.591 hab."
+    }
+  }
+,
+  {
+    "Ariquemes": {
+      "instalado_em": "21/11/1977", 
+      "area": "4.426,571 km", 
+      "bioma": "Amazônia", 
+      "populacao": "90.353 hab."
+    }
+  }
+,
+  {
+    "Cacaulândia": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.961,778 km", 
+      "bioma": "Amazônia", 
+      "populacao": "5.736 hab."
+    }
+  }
+,
+  {
+    "Alvorada d`Oeste": {
+      "instalado_em": "31/12/1986", 
+      "area": "3.029,189 km", 
+      "bioma": "Amazônia", 
+      "populacao": "16.853 hab."
+    }
+  }
+,
+  {
+    "Buritis": {
+      "instalado_em": "01/01/1997", 
+      "area": "3.265,809 km", 
+      "bioma": "Amazônia", 
+      "populacao": "32.383 hab."
+    }
+  }
+,
+  {
+    "Corumbiara": {
+      "instalado_em": "01/01/1993", 
+      "area": "3.060,321 km", 
+      "bioma": "Amazônia", 
+      "populacao": "8.783 hab."
+    }
+  }
+,
+  {
+    "Costa Marques": {
+      "instalado_em": "05/10/1983", 
+      "area": "4.987,177 km", 
+      "bioma": "Amazônia", 
+      "populacao": "13.678 hab."
+    }
+  }
+,
+  {
+    "Castanheiras": {
+      "instalado_em": "01/01/1993", 
+      "area": "892,842 km", 
+      "bioma": "Amazônia", 
+      "populacao": "3.575 hab."
+    }
+  }
+,
+  {
+    "Espigão d`Oeste": {
+      "instalado_em": "01/02/1983", 
+      "area": "4.518,033 km", 
+      "bioma": "Amazônia", 
+      "populacao": "28.729 hab."
+    }
+  }
+,
+  {
+    "Cabixi": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.314,351 km", 
+      "bioma": "Amazônia", 
+      "populacao": "6.313 hab."
+    }
+  }
+,
+  {
+    "Itapuã do Oeste": {
+      "instalado_em": "01/01/1993", 
+      "area": "4.081,583 km", 
+      "bioma": "Amazônia", 
+      "populacao": "8.566 hab."
+    }
+  }
+,
+  {
+    "Ji-Paraná": {
+      "instalado_em": "22/11/1977", 
+      "area": "6.896,604 km", 
+      "bioma": "Amazônia", 
+      "populacao": "116.610 hab."
+    }
+  }
+,
+  {
+    "Machadinho d`Oeste": {
+      "instalado_em": "01/01/1989", 
+      "area": "8.509,270 km", 
+      "bioma": "Amazônia", 
+      "populacao": "31.135 hab."
+    }
+  }
+,
+  {
+    "Mirante da Serra": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.191,875 km", 
+      "bioma": "Amazônia", 
+      "populacao": "11.878 hab."
+    }
+  }
+,
+  {
+    "Nova Brasilândia d`Oeste": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.703,008 km", 
+      "bioma": "Amazônia", 
+      "populacao": "19.874 hab."
+    }
+  }
+,
+  {
+    "Nova União": {
+      "instalado_em": "01/01/1997", 
+      "area": "807,126 km", 
+      "bioma": "Amazônia", 
+      "populacao": "7.493 hab."
+    }
+  }
+,
+  {
+    "Guajará-Mirim": {
+      "instalado_em": "13/09/1943", 
+      "area": "24.855,724 km", 
+      "bioma": "Amazônia", 
+      "populacao": "41.656 hab."
+    }
+  }
+,
+  {
+    "Novo Horizonte do Oeste": {
+      "instalado_em": "01/01/1993", 
+      "area": "843,446 km", 
+      "bioma": "Amazônia", 
+      "populacao": "10.240 hab."
+    }
+  }
+,
+  {
+    "Governador Jorge Teixeira": {
+      "instalado_em": "01/01/1993", 
+      "area": "5.067,384 km", 
+      "bioma": "Amazônia", 
+      "populacao": "10.512 hab."
+    }
+  }
+,
+  {
+    "Jaru": {
+      "instalado_em": "01/02/1983", 
+      "area": "2.944,128 km", 
+      "bioma": "Amazônia", 
+      "populacao": "52.005 hab."
+    }
+  }
+,
+  {
+    "Ministro Andreazza": {
+      "instalado_em": "01/01/1993", 
+      "area": "798,083 km", 
+      "bioma": "Amazônia", 
+      "populacao": "10.352 hab."
+    }
+  }
+,
+  {
+    "Cujubim": {
+      "instalado_em": "01/01/1997", 
+      "area": "3.863,943 km", 
+      "bioma": "Amazônia", 
+      "populacao": "15.854 hab."
+    }
+  }
+,
+  {
+    "Parecis": {
+      "instalado_em": "01/01/1997", 
+      "area": "2.548,683 km", 
+      "bioma": "Amazônia", 
+      "populacao": "4.810 hab."
+    }
+  }
+,
+  {
+    "Pimenta Bueno": {
+      "instalado_em": "24/11/1977", 
+      "area": "6.240,932 km", 
+      "bioma": "Amazônia", 
+      "populacao": "33.822 hab."
+    }
+  }
+,
+  {
+    "Monte Negro": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.931,378 km", 
+      "bioma": "Amazônia", 
+      "populacao": "14.091 hab."
+    }
+  }
+,
+  {
+    "Pimenteiras do Oeste": {
+      "instalado_em": "01/01/1997", 
+      "area": "6.014,733 km", 
+      "bioma": "Amazônia", 
+      "populacao": "2.315 hab."
+    }
+  }
+,
+  {
+    "Nova Mamoré": {
+      "instalado_em": "01/01/1989", 
+      "area": "10.071,643 km", 
+      "bioma": "Amazônia", 
+      "populacao": "22.546 hab."
+    }
+  }
+,
+  {
+    "Rolim de Moura": {
+      "instalado_em": "28/12/1984", 
+      "area": "1.457,888 km", 
+      "bioma": "Amazônia", 
+      "populacao": "50.648 hab."
+    }
+  }
+,
+  {
+    "São Felipe d`Oeste": {
+      "instalado_em": "01/01/1997", 
+      "area": "541,647 km", 
+      "bioma": "Amazônia", 
+      "populacao": "6.018 hab."
+    }
+  }
+,
+  {
+    "Ouro Preto do Oeste": {
+      "instalado_em": "01/02/1983", 
+      "area": "1.969,850 km", 
+      "bioma": "Amazônia", 
+      "populacao": "37.928 hab."
+    }
+  }
+,
+  {
+    "São Miguel do Guaporé": {
+      "instalado_em": "01/01/1989", 
+      "area": "7.460,219 km", 
+      "bioma": "Amazônia", 
+      "populacao": "21.828 hab."
+    }
+  }
+,
+  {
+    "Seringueiras": {
+      "instalado_em": "01/01/1993", 
+      "area": "3.773,505 km", 
+      "bioma": "Amazônia", 
+      "populacao": "11.629 hab."
+    }
+  }
+,
+  {
+    "Primavera de Rondônia": {
+      "instalado_em": "01/01/1997", 
+      "area": "605,692 km", 
+      "bioma": "Amazônia", 
+      "populacao": "3.524 hab."
+    }
+  }
+,
+  {
+    "Porto Velho": {
+      "instalado_em": "13/09/1943", 
+      "area": "34.096,388 km", 
+      "bioma": "Amazônia", 
+      "populacao": "428.527 hab."
+    }
+  }
+,
+  {
+    "Presidente Médici": {
+      "instalado_em": "01/02/1983", 
+      "area": "1.758,465 km", 
+      "bioma": "Amazônia", 
+      "populacao": "22.319 hab."
+    }
+  }
+,
+  {
+    "Theobroma": {
+      "instalado_em": "01/01/1993", 
+      "area": "2.197,413 km", 
+      "bioma": "Amazônia", 
+      "populacao": "10.649 hab."
+    }
+  }
+,
+  {
+    "Vale do Anari": {
+      "instalado_em": "01/01/1997", 
+      "area": "3.135,211 km", 
+      "bioma": "Amazônia", 
+      "populacao": "9.384 hab."
+    }
+  }
+,
+  {
+    "Vale do Paraíso": {
+      "instalado_em": "01/01/1993", 
+      "area": "965,676 km", 
+      "bioma": "Amazônia", 
+      "populacao": "8.210 hab."
+    }
+  }
+,
+  {
+    "Vilhena": {
+      "instalado_em": "23/11/1977", 
+      "area": "11.518,913 km", 
+      "bioma": "Cerrado e Amazônia", 
+      "populacao": "76.202 hab."
+    }
+  }
+,
+  {
+    "Teixeirópolis": {
+      "instalado_em": "01/01/1997", 
+      "area": "459,978 km", 
+      "bioma": "Amazônia", 
+      "populacao": "4.888 hab."
+    }
+  }
+,
+  {
+    "São Francisco do Guaporé": {
+      "instalado_em": "01/01/1997", 
+      "area": "10.959,767 km", 
+      "bioma": "Amazônia", 
+      "populacao": "16.035 hab."
+    }
+  }
+,
+  {
+    "Urupá": {
+      "instalado_em": "01/01/1993", 
+      "area": "831,857 km", 
+      "bioma": "Amazônia", 
+      "populacao": "12.974 hab."
+    }
+  }
+,
+  {
+    "Santa Luzia d`Oeste": {
+      "instalado_em": "31/12/1986", 
+      "area": "1.197,796 km", 
+      "bioma": "Amazônia", 
+      "populacao": "8.886 hab."
+    }
+  }
+,
+  {
+    "Rio Crespo": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.717,640 km", 
+      "bioma": "Amazônia", 
+      "populacao": "3.316 hab."
+    }
+  }
+]

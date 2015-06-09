@@ -1,0 +1,703 @@
+[
+  {
+    "Anaurilândia": {
+      "instalado_em": "01/01/1979", 
+      "area": "3.395,437 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "8.493 hab."
+    }
+  }
+,
+  {
+    "Amambai": {
+      "instalado_em": "01/01/1979", 
+      "area": "4.202,324 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "34.730 hab."
+    }
+  }
+,
+  {
+    "Água Clara": {
+      "instalado_em": "01/01/1979", 
+      "area": "7.809,211 km", 
+      "bioma": "Cerrado", 
+      "populacao": "14.424 hab."
+    }
+  }
+,
+  {
+    "Alcinópolis": {
+      "instalado_em": "01/01/1993", 
+      "area": "4.399,681 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.569 hab."
+    }
+  }
+,
+  {
+    "Anastácio": {
+      "instalado_em": "01/01/1979", 
+      "area": "2.949,134 km", 
+      "bioma": "Cerrado", 
+      "populacao": "23.835 hab."
+    }
+  }
+,
+  {
+    "Aquidauana": {
+      "instalado_em": "01/01/1979", 
+      "area": "16.957,747 km", 
+      "bioma": "Cerrado e Pantanal", 
+      "populacao": "45.614 hab."
+    }
+  }
+,
+  {
+    "Batayporã": {
+      "instalado_em": "01/01/1979", 
+      "area": "1.828,024 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "10.936 hab."
+    }
+  }
+,
+  {
+    "Aral Moreira": {
+      "instalado_em": "01/01/1979", 
+      "area": "1.655,660 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "10.251 hab."
+    }
+  }
+,
+  {
+    "Bandeirantes": {
+      "instalado_em": "01/01/1979", 
+      "area": "3.115,685 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.609 hab."
+    }
+  }
+,
+  {
+    "Bela Vista": {
+      "instalado_em": "01/01/1979", 
+      "area": "4.892,603 km", 
+      "bioma": "Cerrado", 
+      "populacao": "23.181 hab."
+    }
+  }
+,
+  {
+    "Aparecida do Taboado": {
+      "instalado_em": "01/01/1979", 
+      "area": "2.750,150 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "22.320 hab."
+    }
+  }
+,
+  {
+    "Bodoquena": {
+      "instalado_em": "19/06/1981", 
+      "area": "2.507,319 km", 
+      "bioma": "Cerrado e Pantanal", 
+      "populacao": "7.985 hab."
+    }
+  }
+,
+  {
+    "Antônio João": {
+      "instalado_em": "01/01/1979", 
+      "area": "1.145,175 km", 
+      "bioma": "Cerrado", 
+      "populacao": "8.208 hab."
+    }
+  }
+,
+  {
+    "Brasilândia": {
+      "instalado_em": "01/01/1979", 
+      "area": "5.806,903 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "11.826 hab."
+    }
+  }
+,
+  {
+    "Bonito": {
+      "instalado_em": "01/01/1979", 
+      "area": "4.934,414 km", 
+      "bioma": "Cerrado", 
+      "populacao": "19.587 hab."
+    }
+  }
+,
+  {
+    "Caarapó": {
+      "instalado_em": "01/01/1979", 
+      "area": "2.089,600 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "25.767 hab."
+    }
+  }
+,
+  {
+    "Angélica": {
+      "instalado_em": "01/01/1979", 
+      "area": "1.273,268 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "9.185 hab."
+    }
+  }
+,
+  {
+    "Camapuã": {
+      "instalado_em": "01/01/1979", 
+      "area": "6.229,615 km", 
+      "bioma": "Cerrado", 
+      "populacao": "13.625 hab."
+    }
+  }
+,
+  {
+    "Campo Grande": {
+      "instalado_em": "01/01/1979", 
+      "area": "8.092,951 km", 
+      "bioma": "Cerrado", 
+      "populacao": "786.797 hab."
+    }
+  }
+,
+  {
+    "Caracol": {
+      "instalado_em": "01/01/1979", 
+      "area": "2.940,251 km", 
+      "bioma": "Cerrado", 
+      "populacao": "5.398 hab."
+    }
+  }
+,
+  {
+    "Corguinho": {
+      "instalado_em": "01/01/1979", 
+      "area": "2.639,850 km", 
+      "bioma": "Cerrado e Pantanal", 
+      "populacao": "4.862 hab."
+    }
+  }
+,
+  {
+    "Chapadão do Sul": {
+      "instalado_em": "01/01/1989", 
+      "area": "3.248,120 km", 
+      "bioma": "Cerrado", 
+      "populacao": "19.648 hab."
+    }
+  }
+,
+  {
+    "Bataguassu": {
+      "instalado_em": "01/01/1979", 
+      "area": "2.415,297 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "19.839 hab."
+    }
+  }
+,
+  {
+    "Coronel Sapucaia": {
+      "instalado_em": "01/01/1987", 
+      "area": "1.025,049 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "14.064 hab."
+    }
+  }
+,
+  {
+    "Coxim": {
+      "instalado_em": "01/01/1979", 
+      "area": "6.409,224 km", 
+      "bioma": "Cerrado e Pantanal", 
+      "populacao": "32.159 hab."
+    }
+  }
+,
+  {
+    "Deodápolis": {
+      "instalado_em": "01/01/1979", 
+      "area": "831,210 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "12.139 hab."
+    }
+  }
+,
+  {
+    "Dois Irmãos do Buriti": {
+      "instalado_em": "01/01/1989", 
+      "area": "2.344,593 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.363 hab."
+    }
+  }
+,
+  {
+    "Douradina": {
+      "instalado_em": "18/06/1981", 
+      "area": "280,787 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "5.364 hab."
+    }
+  }
+,
+  {
+    "Dourados": {
+      "instalado_em": "01/01/1979", 
+      "area": "4.086,237 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "196.035 hab."
+    }
+  }
+,
+  {
+    "Eldorado": {
+      "instalado_em": "01/01/1979", 
+      "area": "1.017,785 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "11.694 hab."
+    }
+  }
+,
+  {
+    "Fátima do Sul": {
+      "instalado_em": "01/01/1979", 
+      "area": "315,160 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "19.035 hab."
+    }
+  }
+,
+  {
+    "Glória de Dourados": {
+      "instalado_em": "01/01/1979", 
+      "area": "491,746 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "9.927 hab."
+    }
+  }
+,
+  {
+    "Figueirão": {
+      "instalado_em": "01/01/2005", 
+      "area": "4.882,873 km", 
+      "bioma": "Cerrado", 
+      "populacao": "2.928 hab."
+    }
+  }
+,
+  {
+    "Guia Lopes da Laguna": {
+      "instalado_em": "01/01/1979", 
+      "area": "1.210,606 km", 
+      "bioma": "Cerrado", 
+      "populacao": "10.366 hab."
+    }
+  }
+,
+  {
+    "Inocência": {
+      "instalado_em": "01/01/1979", 
+      "area": "5.776,028 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.669 hab."
+    }
+  }
+,
+  {
+    "Itaporã": {
+      "instalado_em": "01/01/1979", 
+      "area": "1.321,811 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "20.865 hab."
+    }
+  }
+,
+  {
+    "Cassilândia": {
+      "instalado_em": "01/01/1979", 
+      "area": "3.649,726 km", 
+      "bioma": "Cerrado", 
+      "populacao": "20.966 hab."
+    }
+  }
+,
+  {
+    "Ivinhema": {
+      "instalado_em": "01/01/1979", 
+      "area": "2.010,168 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "22.341 hab."
+    }
+  }
+,
+  {
+    "Japorã": {
+      "instalado_em": "01/01/1993", 
+      "area": "419,397 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "7.731 hab."
+    }
+  }
+,
+  {
+    "Corumbá": {
+      "instalado_em": "01/01/1979", 
+      "area": "64.962,720 km", 
+      "bioma": "Cerrado e Pantanal", 
+      "populacao": "103.703 hab."
+    }
+  }
+,
+  {
+    "Costa Rica": {
+      "instalado_em": "17/06/1981", 
+      "area": "4.164,115 km", 
+      "bioma": "Cerrado", 
+      "populacao": "19.695 hab."
+    }
+  }
+,
+  {
+    "Jaraguari": {
+      "instalado_em": "01/01/1979", 
+      "area": "2.912,822 km", 
+      "bioma": "Cerrado", 
+      "populacao": "6.341 hab."
+    }
+  }
+,
+  {
+    "Jardim": {
+      "instalado_em": "01/01/1979", 
+      "area": "2.201,515 km", 
+      "bioma": "Cerrado", 
+      "populacao": "24.346 hab."
+    }
+  }
+,
+  {
+    "Juti": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.584,529 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.900 hab."
+    }
+  }
+,
+  {
+    "Ladário": {
+      "instalado_em": "01/01/1979", 
+      "area": "340,765 km", 
+      "bioma": "Pantanal", 
+      "populacao": "19.617 hab."
+    }
+  }
+,
+  {
+    "Laguna Carapã": {
+      "instalado_em": "01/01/1993", 
+      "area": "1.734,068 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "6.491 hab."
+    }
+  }
+,
+  {
+    "Miranda": {
+      "instalado_em": "01/01/1979", 
+      "area": "5.478,825 km", 
+      "bioma": "Cerrado e Pantanal", 
+      "populacao": "25.595 hab."
+    }
+  }
+,
+  {
+    "Maracaju": {
+      "instalado_em": "01/01/1979", 
+      "area": "5.299,184 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "37.405 hab."
+    }
+  }
+,
+  {
+    "Mundo Novo": {
+      "instalado_em": "01/01/1979", 
+      "area": "477,780 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "17.043 hab."
+    }
+  }
+,
+  {
+    "Naviraí": {
+      "instalado_em": "01/01/1979", 
+      "area": "3.193,552 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "46.424 hab."
+    }
+  }
+,
+  {
+    "Iguatemi": {
+      "instalado_em": "01/01/1979", 
+      "area": "2.946,517 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "14.875 hab."
+    }
+  }
+,
+  {
+    "Nioaque": {
+      "instalado_em": "01/01/1979", 
+      "area": "3.923,790 km", 
+      "bioma": "Cerrado", 
+      "populacao": "14.391 hab."
+    }
+  }
+,
+  {
+    "Nova Alvorada do Sul": {
+      "instalado_em": "01/01/1993", 
+      "area": "4.019,323 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "16.432 hab."
+    }
+  }
+,
+  {
+    "Nova Andradina": {
+      "instalado_em": "01/01/1979", 
+      "area": "4.776,002 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "45.585 hab."
+    }
+  }
+,
+  {
+    "Itaquiraí": {
+      "instalado_em": "22/06/1981", 
+      "area": "2.064,042 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "18.614 hab."
+    }
+  }
+,
+  {
+    "Paranhos": {
+      "instalado_em": "01/01/1989", 
+      "area": "1.309,156 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "12.350 hab."
+    }
+  }
+,
+  {
+    "Paranaíba": {
+      "instalado_em": "01/01/1979", 
+      "area": "5.402,652 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "40.192 hab."
+    }
+  }
+,
+  {
+    "Pedro Gomes": {
+      "instalado_em": "01/01/1979", 
+      "area": "3.651,175 km", 
+      "bioma": "Cerrado", 
+      "populacao": "7.967 hab."
+    }
+  }
+,
+  {
+    "Porto Murtinho": {
+      "instalado_em": "01/01/1979", 
+      "area": "17.744,405 km", 
+      "bioma": "Cerrado e Pantanal", 
+      "populacao": "15.372 hab."
+    }
+  }
+,
+  {
+    "Ponta Porã": {
+      "instalado_em": "01/01/1979", 
+      "area": "5.330,448 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "77.872 hab."
+    }
+  }
+,
+  {
+    "Ribas do Rio Pardo": {
+      "instalado_em": "01/01/1979", 
+      "area": "17.308,085 km", 
+      "bioma": "Cerrado", 
+      "populacao": "20.946 hab."
+    }
+  }
+,
+  {
+    "Novo Horizonte do Sul": {
+      "instalado_em": "01/01/1993", 
+      "area": "849,095 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.940 hab."
+    }
+  }
+,
+  {
+    "Rio Brilhante": {
+      "instalado_em": "01/01/1979", 
+      "area": "3.987,397 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "30.663 hab."
+    }
+  }
+,
+  {
+    "Rio Negro": {
+      "instalado_em": "01/01/1979", 
+      "area": "1.807,668 km", 
+      "bioma": "Cerrado e Pantanal", 
+      "populacao": "5.036 hab."
+    }
+  }
+,
+  {
+    "Rochedo": {
+      "instalado_em": "01/01/1979", 
+      "area": "1.561,054 km", 
+      "bioma": "Cerrado", 
+      "populacao": "4.928 hab."
+    }
+  }
+,
+  {
+    "Santa Rita do Pardo": {
+      "instalado_em": "01/01/1989", 
+      "area": "6.143,072 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "7.259 hab."
+    }
+  }
+,
+  {
+    "São Gabriel do Oeste": {
+      "instalado_em": "17/06/1981", 
+      "area": "3.864,691 km", 
+      "bioma": "Cerrado", 
+      "populacao": "22.203 hab."
+    }
+  }
+,
+  {
+    "Selvíria": {
+      "instalado_em": "16/06/1981", 
+      "area": "3.258,326 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "6.287 hab."
+    }
+  }
+,
+  {
+    "Jateí": {
+      "instalado_em": "01/01/1979", 
+      "area": "1.927,949 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "4.011 hab."
+    }
+  }
+,
+  {
+    "Sonora": {
+      "instalado_em": "01/01/1989", 
+      "area": "4.075,423 km", 
+      "bioma": "Cerrado e Pantanal", 
+      "populacao": "14.833 hab."
+    }
+  }
+,
+  {
+    "Tacuru": {
+      "instalado_em": "22/06/1981", 
+      "area": "1.785,322 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.215 hab."
+    }
+  }
+,
+  {
+    "Sidrolândia": {
+      "instalado_em": "01/01/1979", 
+      "area": "5.286,405 km", 
+      "bioma": "Cerrado", 
+      "populacao": "42.132 hab."
+    }
+  }
+,
+  {
+    "Terenos": {
+      "instalado_em": "01/01/1979", 
+      "area": "2.844,508 km", 
+      "bioma": "Cerrado", 
+      "populacao": "17.146 hab."
+    }
+  }
+,
+  {
+    "Taquarussu": {
+      "instalado_em": "18/06/1981", 
+      "area": "1.041,122 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "3.518 hab."
+    }
+  }
+,
+  {
+    "Três Lagoas": {
+      "instalado_em": "01/01/1979", 
+      "area": "10.206,949 km", 
+      "bioma": "Cerrado e Mata Atlântica", 
+      "populacao": "101.791 hab."
+    }
+  }
+,
+  {
+    "Vicentina": {
+      "instalado_em": "01/01/1989", 
+      "area": "310,163 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "5.901 hab."
+    }
+  }
+,
+  {
+    "Rio Verde de Mato Grosso": {
+      "instalado_em": "01/01/1979", 
+      "area": "8.153,899 km", 
+      "bioma": "Cerrado e Pantanal", 
+      "populacao": "18.890 hab."
+    }
+  }
+,
+  {
+    "Sete Quedas": {
+      "instalado_em": "22/06/1981", 
+      "area": "833,733 km", 
+      "bioma": "Mata Atlântica", 
+      "populacao": "10.780 hab."
+    }
+  }
+]
